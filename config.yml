@@ -1,0 +1,117 @@
+baseURL: "https://davidpaulius.github.io/" 
+title: "David Paulius, Ph.D. | Personal Website"
+paginate: 20
+theme: PaperMod
+copyright: "© 2023 David Paulius"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+
+social:
+    twitter: davidpaulius
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: CV
+          url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view"
+          weight: 1
+        - name: News
+          url: /news/
+          weight: 1
+        - name: Papers
+          url: /papers/
+          weight: 2
+        - name: Academia
+          url: /academia/
+          weight: 3
+        - name: Blog
+          url: /blog/
+          weight: 4    
+        - name: Etcetera
+          url: /etcetera/
+          weight: 5     
+
+params:
+    description: "I am a postdoctoral researcher at Brown University, working with Profs. George Konidaris and Stefanie Tellex."
+    author: David Paulius, Ph.D.
+    DateFormat: "January 2006"
+    defaultTheme: auto
+    hideFooter: false
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: false
+    TocOpen: false
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: "Hi, I'm David!"
+          subtitle: "I am:<br>•	A roboticist from the Caribbean. 🦾🏝️ <br>•	A postdoctoral researcher at Brown University. 🎓🐻"
+          imageUrl: "/imgs/profile.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: "Profile Picture of David Paulius"
+          buttons:
+            - name: "News"
+              url: /news/
+            - name: "Papers"
+              url: /papers/
+            # - name: "Academia"
+            #   url: /academia/
+            - name: "Etcetera"
+              url: /etcetera/
+    socialIcons:
+        - name: Email
+          url: "mailto:dpaulius@cs.brown.edu"
+        - name: CV
+          url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view"
+        - name: GitHub
+          url: "https://github.com/davidpaulius"
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=aMxXkWkAAAAJ&hl=en"
+        - name: Orcid
+          url: "https://orcid.org/0000-0002-7891-8749"
+        - name: Twitter
+          url: "https://www.twitter.com/davidpaulius"
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: false
+    label:
+      text: "David Paulius"
+      icon: /imgs/riegan.ico
+      iconHeight: 30
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: monokai
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
+
