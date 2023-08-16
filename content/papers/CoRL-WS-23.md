@@ -24,7 +24,7 @@ editPost:
 
 #### NOTES
 
-+ This work was submitted as a "blue-sky" paper, where the goal is to outline some big idea or take some kind of position in terms of a research direction or agenda. 
++ This work was submitted as a "blue-sky" workshop paper, where the goal is to outline some big idea or take some kind of position in terms of a research direction or agenda. 
 + Here, I talk about the benefits of object-level planning, where a robot needs to start with some schematic plan that then is broken down into task- and motion-level planning (as in <a href="https://arxiv.org/abs/2010.01083" target="_blank">TAMP</a>).
 
 ---
