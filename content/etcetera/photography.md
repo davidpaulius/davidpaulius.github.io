@@ -9,7 +9,7 @@ hideMeta: true
 hideSummary: false	
 ---
 
-#### Check out more stuff <a href="https://goo.gl/photos/r7VYNbVtMnBCmvsx6" target="_blank">here.</a> :) 
+#### Check out more photos <a href="https://goo.gl/photos/r7VYNbVtMnBCmvsx6" target="_blank">here.</a> :) 
 
 [comment]: pa-gallery-player-widget
 
