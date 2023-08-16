@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://davidpaulius.github.io/sitemap.xml

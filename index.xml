@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Paulius, Ph.D. | Personal Website</title>
+    <link>https://davidpaulius.github.io/</link>
+    <description>Recent content on David Paulius, Ph.D. | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 David Paulius</copyright>
+    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
+      <link>https://davidpaulius.github.io/papers/foon-lhpe-23/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/papers/foon-lhpe-23/</guid>
+      <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
+    </item>
+    
+    <item>
+      <title>Object-Level Planning and Abstraction</title>
+      <link>https://davidpaulius.github.io/papers/olp-22/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/papers/olp-22/</guid>
+      <description>TL;DR &amp;ndash; This workshop paper (specifically, a blue-sky submission) introduces the importance of object-level planning and representation as an additional layer on top of task and motion planning. I present several benefits of using object-level planning for long-term use in robotics.</description>
+    </item>
+    
+    <item>
+      <title>Leben in München: A Reflection of my Year Living in Munich</title>
+      <link>https://davidpaulius.github.io/blog/muenchen/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/blog/muenchen/</guid>
+      <description>This template produces a minimalist academic presentation with LaTeX Beamer.</description>
+    </item>
+    
+    <item>
+      <title>Giving Thanks</title>
+      <link>https://davidpaulius.github.io/blog/phd-gratitude/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/blog/phd-gratitude/</guid>
+      <description>This template produces a minimalist academic presentation with LaTeX Beamer.</description>
+    </item>
+    
+    <item>
+      <title>About Me 🤓</title>
+      <link>https://davidpaulius.github.io/etcetera/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/etcetera/about/</guid>
+      <description>This is an overview of David Paulius, Ph.D.</description>
+    </item>
+    
+    <item>
+      <title>Academic Philosophy</title>
+      <link>https://davidpaulius.github.io/academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/academia/</guid>
+      <description>I aim to use my researching ability and talents to solve problems for communities or groups in need. I will explore how robotic solutions can solve every-day problems, where robots can efficiently and safely operate and collaborate with humans.
+Download: Research Statement Teaching Philosophy Pledge to Diversity, Equity and Inclusion (a.k.a. Diversity Statement) </description>
+    </item>
+    
+    <item>
+      <title>Fun Stuff 😜</title>
+      <link>https://davidpaulius.github.io/etcetera/fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/etcetera/fun/</guid>
+      <description>This is an overview of David Paulius, Ph.D.</description>
+    </item>
+    
+    <item>
+      <title>Latest News</title>
+      <link>https://davidpaulius.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/news/</guid>
+      <description>My Latest Updates</description>
+    </item>
+    
+    <item>
+      <title>Photography 📸</title>
+      <link>https://davidpaulius.github.io/etcetera/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/etcetera/photography/</guid>
+      <description>Check out some of my favourite shots here!</description>
+    </item>
+    
+  </channel>
+</rss>
