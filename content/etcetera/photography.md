@@ -22,6 +22,21 @@ hideSummary: false
 </div>
 <script type="text/javascript">
      // randomly selecting some of my favourite shots:
+     //
+     // Shuffle from: https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+     function shuffle(array) {
+          let currentIndex = array.length,  randomIndex;
+          // While there remain elements to shuffle.
+          while (currentIndex != 0) {
+               // Pick a remaining element.
+               randomIndex = Math.floor(Math.random() * currentIndex);
+               currentIndex--;
+               // And swap it with the current element.
+               [array[currentIndex], array[randomIndex]] = [
+                    array[randomIndex], array[currentIndex]];
+          }
+          return array;
+     };
      list_samples = [
           "https://lh3.googleusercontent.com/pw/AIL4fc-sBWModD1vRVk9dbr06Knsacp5UrxgNA1G7NNzuzcZYXGLnBtZcve2TC7JaTAy-dpLT_ZRti4uq2HKmmO-lpCwtskexAGhzFa7Rs-wNSf_HuCjhbU4=w1920-h1080",
           "https://lh3.googleusercontent.com/pw/AIL4fc-LsXpLTXoZyQ8IJMJ1yGOOcrZA8ypaPea5VpoexIGXTh9jWybVxQFo4GijOvPBM47ACfgjZGvsj_UNWOOiFu2YYnXQSWxQ1yDTSlhpowFoqYoR4H3d=w1920-h1080",
@@ -44,12 +59,11 @@ hideSummary: false
           "https://lh3.googleusercontent.com/pw/AIL4fc_XasmIrqid9R50Lcw31ngikZogBqzf3Rp5picNaeOZ_dQ3WUjK_I-fSwgGXisy_xlcehZEi792nfSXy-6sAGbnksyJ_0BiLMxJuZz7l1UIYL7keb7K=w1920-h1080",
           "https://lh3.googleusercontent.com/pw/AIL4fc9WQ_1Dircu9WlVMYq4xBeLgr6u3IFEyjAO366pW6zbM-Rg414tfXDMAZ23JpJyH-W2bSwZ_aEDIushnxpbqpDafWk91f0oR7gCEaasJ_-BHT8XcO9_=w1920-h1080",
      ];
+     shuffle(list_samples);
      var slideshow = document.querySelector('.pa-carousel-widget');
      for (var i = list_samples.length; i >= 0; i--) {
           temp_object = document.createElement("object");
-          // randomly select an image link and make an object for it:
-          random_img = list_samples[Math.random() * i | 0];
-          temp_object.setAttribute("data", random_img);
+          temp_object.setAttribute("data", list_samples[i]);
           slideshow.appendChild(temp_object);
      }
 </script>
