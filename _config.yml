@@ -1,3 +1,5 @@
-theme: "PaperMod"
-title: David's Homepage
+title: David Paulius, Ph.D.
 description: Link to external website of David Paulius!
+baseURL: "https://davidpaulius.github.io/davidpaulius.github.io/"
+languageCode: en-br
+theme: "PaperMod"
