@@ -12,36 +12,28 @@ tags: ["PhD", "#PhDone"]
 ---
 
 <center>
-<i>(I am a very shy person, and I do not feel easy about posting this openly... but if you find this, thank you for reading.)</i>
-<br>
-<br>
+<i>(If you stumbled upon this entry, thank you for reading. I may not have said "thank you" openly with words, but I am grateful to all the lovely people I have in my life.)</i>
+<center>
+
 As I reflect on what should have been my graduation date, the only words that come to mind are: <i>Thank You</i>. 
-<br>
-<br>
+
 It is very difficult for me to accept this as my own victory: I owe a debt of gratitude to my family, my friends, my mentors, and my colleagues and peers at work.
-<br>
-<br>
+
 This is in no way unattainable by anyone else, as there are many ways that anyone can better themselves. 
 I urge anyone to take a leap of faith and dedicate yourself to <i>growth and change</i>. Do whatever makes you happy. 
-<br>
-<br>
-Do not get into the hype of comparing yourself to others (trust me, I am a victim of that). 
-<br>
-<br>
+
+Do not fall into the trap of constantly comparing yourself to others (trust me, I am a victim of that). 
+
 There is always a way for you to contribute to society. Take the time to find that out for yourself.
-<br>
-<br>
-I have attached my dedication and acknowledgements that I have written in my dissertation here. I hope that I have played a significant part in your lives (in any way, shape or form) or that I can return the favour to you.
-<br>
-<br>
+
+Here is a <a href="https://drive.google.com/file/d/1kFjwMRgsF_hbBAoiRTMAshy5D8asq7n_/view?usp=drive_link" target="_blank">link to my dedication and acknowledgements</a> section directly from my dissertation. I hope that I have played a significant part in your lives or that I can return the favour to you.
+
 To anyone who I did not explicitly mention or thank in my work, <i><b>I did not forget you</b></i>!
-<br>
-<br>
+
 My humblest thanks to you all.
-<br>
-<br>
+
 ---
-<br>
-<br>
+
+<center>
 <i>Sincerely, David</i>
 </center>
