@@ -1,11 +1,15 @@
 ---
 title: "Papers"
-aliases: /archive/
+aliases: /papers/
 description: ""
+disableAnchoredHeadings: false
 ---
 
 <style>
 	.post-entry:hover {
-    	border: 2px solid var(--2022);
+    	border: 2px solid var(--blue);
+	}
+	.list {
+		background: var(--theme);
 	}
 </style>

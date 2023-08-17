@@ -1,0 +1,44 @@
+<!-- Source: https://gist.github.com/jeremybise/a6afea2d4c7f9044180ffeb663a617cf -->
+
+<!-- In your partials folder -->
+
+{{ if .Site.Params.google_fonts }}
+  {{ $fonts := slice }}
+  {{ range .Site.Params.google_fonts }}
+    {{ $family := replace (index (.)  0) " " "+" }}
+    {{ $weights := replace (index (.) 1) " " "" }}
+    {{ $string := print $family ":" $weights }}
+    {{ $fonts = $fonts | append $string }}
+  {{ end }}
+  {{ $url_part := (delimit $fonts "|") | safeHTMLAttr }}
+  <link {{ printf "href=\"//fonts.googleapis.com/css?family=%s\"" $url_part | safeHTMLAttr }} rel="stylesheet">
+  <style>
+	body {
+		font-family: '{{ replace .Site.Params.fonts.body.name "+" " "}}', sans-serif;
+		font-weight: {{ replace .Site.Params.fonts.body.weight "+" " "}};
+		font-style: {{ replace .Site.Params.fonts.body.style "+" " "}};
+	}
+	
+	h1, h2, h3,
+	h4, h5, h6 {
+		font-family: '{{ replace .Site.Params.fonts.heading.name "+" " "}}', sans-serif;
+		font-weight: {{ replace .Site.Params.fonts.heading.weight "+" " "}};
+		font-style: {{ replace .Site.Params.fonts.heading.style "+" " "}};
+	}
+
+	/* blockquote {
+		font-family: '{{ replace .Site.Params.font.blockquote "+" " "}}';
+	
+	}
+	.dropdown a {
+		font-family: '{{ replace .Site.Params.font.nav "+" " "}}'
+	
+	}
+	.post-content p {
+		font-family: '{{ replace .Site.Params.font.paragraph "+" " "}}'
+	} */
+	</style>
+{{ else}}
+  <!-- specify a default in case custom config not present -->
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+{{ end }}

@@ -7,6 +7,7 @@
     line-height: var(--header-height);
     background: var(--code-bg);
     /* background: var(--green); */
+    background-image: var(--header_background);
 }
 
 .nav a {
@@ -24,8 +25,9 @@
 }
 
 .logo a {
+    font-family: 'IBM Plex Mono';
     font-size: var(--headersize);
-    font-weight: var(--semibold);
+    font-weight: var(--bold);
 }
 
 .logo a img, .logo a svg {
@@ -38,7 +40,7 @@
 }
 
 button#theme-toggle {
-    font-size: 20px;
+    font-size: 23px;
     margin: auto 4px;
 }
 
@@ -68,7 +70,8 @@ body:not(.dark) #sun {
 }
 
 #menu .active {
-    border-bottom: 2px solid var(--darkpurple);
+    border-bottom: 2px solid var(--green);
+    font-weight: 900;
 }
 
 .lang-switch li,
