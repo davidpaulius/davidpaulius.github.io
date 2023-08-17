@@ -94,9 +94,9 @@ params:
         hiddenInList: false
         hiddenInSingle: false
     label:
-      text: "David Paulius"
+      text: "David Paulius, Ph.D."
       icon: /imgs/riegan.ico
-      iconHeight: 30
+      iconHeight: 28
     
     # stuff for fonts:
     google_fonts: [
