@@ -3,9 +3,9 @@
     --content-gap: 20px;
     --nav-width: 1024px;
     --main-width: 960px;
-    --header-height: 70px;
-    --footer-height: 70px;
-    --radius: 8px;
+    --header-height: 80px;
+    --footer-height: 60px;
+    --radius: 18px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -25,11 +25,12 @@
     --textsize: 15px;
     --h1size: 25px;
     --entrysize: 15px;
-    --headersize: 18px;
+    --logosize: 20px;
+    --headersize: 17px;
     --footersize: 14px;
-    --lineheight: 1.45;
+    --lineheight: 1.4;
     --lineclamp: 8;
-    --marginleft: 26px;
+    --marginleft: 15px;
     
     /* --entry_background: linear-gradient(0deg, var(--blue), white, white, white); */
     --entry_background: var(--theme);

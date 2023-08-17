@@ -46,16 +46,16 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 
 + Jia Jiang, TED (2017) -- [_What I Learned From 100 Days of Rejection_](https://www.youtube.com/watch?v=-vZXgApsPCQ)
 
-+ Sound Field:
-     + (2021) -- [_The Genius of Fela Kuti and Afrobeat (feat. Femi & Made Kuti)_](https://www.youtube.com/watch?v=ryTTHmUYc2o) 
++ Sound Field --- (**NOTE**: This PBS YouTube series is *amazing*!)
+     + [_The Genius of Fela Kuti and Afrobeat (feat. Femi & Made Kuti)_](https://www.youtube.com/watch?v=ryTTHmUYc2o) 
 
-     + (2023) -- [_How Did The Miseducation of Lauryn Hill Redefine Hip Hop?_](https://www.youtube.com/watch?v=QDkpVWGxtWY)
+     + [_How Did The Miseducation of Lauryn Hill Redefine Hip Hop?_](https://www.youtube.com/watch?v=QDkpVWGxtWY)
 
 #### Music
 
-+ My [_Playlist of Classical Music_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIf1A5XtShJ7eQQKxZztOC-a&feature=share) -- CAUTION: _over 11 hours of content!_
++ My [_Playlist of Classical Music_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIf1A5XtShJ7eQQKxZztOC-a&feature=share) --- (**CAUTION**: _over 11 hours of content!_)
 
-+ My [_Playlist of Favourite 60's, 70's and 80's songs_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIc2MOpxfdwQIiIl9L3HaSHl&feature=share) -- CAUTION: _over 8 hours of content!_
++ My [_Playlist of Favourite 60's, 70's and 80's songs_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIc2MOpxfdwQIiIl9L3HaSHl&feature=share) --- (**CAUTION**: _over 8 hours of content!_)
 
 ---
 

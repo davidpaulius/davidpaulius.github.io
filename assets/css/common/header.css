@@ -26,7 +26,7 @@
 
 .logo a {
     font-family: 'IBM Plex Mono';
-    font-size: var(--headersize);
+    font-size: var(--logosize);
     font-weight: var(--bold);
 }
 

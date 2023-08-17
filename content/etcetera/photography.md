@@ -11,6 +11,12 @@ hideSummary: false
 
 #### Check out more photos <a href="https://goo.gl/photos/r7VYNbVtMnBCmvsx6" target="_blank">here.</a> :) 
 
+These are just a few of my favourite shots taken with my Android Phones (current phone: Pixel 7; previous phones: Nexus 6P, Pixel 2, Pixel 6).
+
+Most of these pictures have been edited to some extent, but I try to retain some realism in their colours.
+
+---
+
 [comment]: pa-gallery-player-widget
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
@@ -38,6 +44,7 @@ hideSummary: false
           return array;
      };
      list_samples = [
+          "https://lh3.googleusercontent.com/pw/AIL4fc_tMYbCfDA1WIMeOoq1yT555_pRWvOT1gCZ1VoGAlDZZTSlpGkQkGnroA6z3el6NdTn2yqcOMk8y15A6RGWbTNpNK5eSClXM3uwLoBvVPRCVv9lVsWtdt3rk_QzboRzaqwXyzP0_OK9uZKu6lNhc_yKsQ=w1920-h1080",
           "https://lh3.googleusercontent.com/pw/AIL4fc-sBWModD1vRVk9dbr06Knsacp5UrxgNA1G7NNzuzcZYXGLnBtZcve2TC7JaTAy-dpLT_ZRti4uq2HKmmO-lpCwtskexAGhzFa7Rs-wNSf_HuCjhbU4=w1920-h1080",
           "https://lh3.googleusercontent.com/pw/AIL4fc-LsXpLTXoZyQ8IJMJ1yGOOcrZA8ypaPea5VpoexIGXTh9jWybVxQFo4GijOvPBM47ACfgjZGvsj_UNWOOiFu2YYnXQSWxQ1yDTSlhpowFoqYoR4H3d=w1920-h1080",
           "https://lh3.googleusercontent.com/pw/AIL4fc-jVg0Iu8p7vyFEZXBQKL5X4b_LaYTT5vymteitOyYTkJojP9dIopeZKgBqJ6w2eDAy9dgfRdJfHLFQlSddD9lW0eUoeHz7ZPSpyP3OgeMRzpzqooIa=w1920-h1080",
@@ -67,3 +74,5 @@ hideSummary: false
           slideshow.appendChild(temp_object);
      }
 </script>
+
+---

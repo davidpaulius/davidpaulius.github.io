@@ -5,6 +5,8 @@ author: ["David Paulius"]
 hideMeta: true
 ---
 
+### Note: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
+
 <table>
     <tr style="vertical-align:top;">
         <td>
@@ -117,11 +119,21 @@ hideMeta: true
     </tr>
     <tr style="vertical-align:top;">
         <td>
-            <span class="date" style="background:var(--2020);">2022-06-26</span>
+            <span class="date" style="background:var(--2020);">2020-10-01</span>
         </td>
         <td>
             <span>
                 I started a new position as Postdoctoral Researcher at Technical University of Munich (TUM), Germany, as a member of the Human-centered Assistive Robotics (HCR) group.
+            </span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2020);">2020-05-31</span>
+        </td>
+        <td>
+            <span>
+                I officially graduated from the University of South Florida! I'm <i>#PhDone</i>!
             </span>
         </td>
     </tr>
