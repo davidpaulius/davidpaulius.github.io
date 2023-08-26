@@ -18,8 +18,8 @@ summary: "TL;DR -- In this paper, we explore methods in natural language process
 #### Related Links:
 
 + Paper: 
-  + [arXiv (best version)](https://arxiv.org/abs/1905.00502)
-  + [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9561680/)
+  + [arXiv (best version)](https://arxiv.org/abs/1807.02189)
+  + [IEEE Xplore](https://ieeexplore.ieee.org/document/8460200)
 
 ---
 

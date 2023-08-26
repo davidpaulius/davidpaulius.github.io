@@ -2,7 +2,7 @@
 title: "Fun Stuff 😜" 
 author: "David Paulius"
 description: "This is an overview of David Paulius, Ph.D." 
-summary: "Random things that fascinate me or about me that are in no way relevant to research or work. :)" 
+summary: "Random things that fascinate me that are not relevant to my own research or work. :)" 
 showToc: false
 disableAnchoredHeadings: true
 ShowReadingTime: false
@@ -31,6 +31,8 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 
 + Kenneth O. Stanley, Joel Lehman and Lisa Soros (2017) -- [_Open-endedness: The last grand challenge you’ve never heard of_](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
 
++ Moamen Elmassry (2023) -- [I wasn’t sure how to be a postdoc. Here’s how I found my way](https://www.science.org/content/article/i-wasn-t-sure-how-be-postdoc-here-s-how-i-found-my-way)
+
 
 #### Videos
 
@@ -57,10 +59,16 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 
 + My [_Playlist of Favourite 60's, 70's and 80's songs_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIc2MOpxfdwQIiIl9L3HaSHl&feature=share) --- (**CAUTION**: _over 8 hours of content!_)
 
+
 ---
 
-### Random Facts
+### Random Facts about Me
 
 + My favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game! 
-     + I am a ***major*** fan of the series.
+    + I am a ***major*** fan of the Fire Emblem series.
 
++ Aside from the FE series, I enjoy other games like Final Fantasy (I've beat 1-6 and 13; 7-8 & 15 are WIP/imminent), Pokémon, Sudoku, and Chess. I am a very casual gamer though.
+
++ I love British comedy (think [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), etc.)
+
++ I am trying to keep track of movies that I watch! Follow me on [Letterboxd](https://letterboxd.com/davi_duck/)!
