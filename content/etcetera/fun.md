@@ -53,6 +53,8 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 
      + [_How Did The Miseducation of Lauryn Hill Redefine Hip Hop?_](https://www.youtube.com/watch?v=QDkpVWGxtWY)
 
++ Adam Neely (2021) -- [_The most elegant key change in all of pop music_](https://www.youtube.com/watch?v=epqYft12nV4)
+
 #### Music
 
 + My [_Playlist of Classical Music_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIf1A5XtShJ7eQQKxZztOC-a&feature=share) --- (**CAUTION**: _over 11 hours of content!_)
@@ -67,7 +69,8 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 + My favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game! 
     + I am a ***major*** fan of the Fire Emblem series.
 
-+ Aside from the FE series, I enjoy other games like Final Fantasy (I've beat 1-6 and 13; 7-8 & 15 are WIP/imminent), Pokémon, Sudoku, and Chess. I am a very casual gamer though.
++ Aside from the FE series, I enjoy other games like Final Fantasy (I've beat 1-6 and 13; 7-8 & 15 are WIP/imminent), Pokémon, Sudoku, and Chess (unrated). I am a very casual gamer though.
+    + Currently playing the Phoenix Wright games!
 
 + I love British comedy (think [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), etc.)
 
