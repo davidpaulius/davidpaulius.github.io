@@ -1,7 +1,7 @@
 ---
 title: "Manipulation Motion Taxonomy and Coding for Robots" 
 date: 2019-11-03
-url: "/papers/IROS-19/"
+url: "/papers/IROS19_motion_codes/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]
 author: ["David Paulius", "Yongqiang Huang", "Jason Meloncon", "Yu Sun"]
 description: "" 

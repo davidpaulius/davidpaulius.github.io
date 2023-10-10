@@ -1,7 +1,7 @@
 ---
 title: "Functional Object-Oriented Network for Manipulation Learning" 
 date: 2016-10-15
-url: "/papers/IROS-16/"
+url: "/papers/IROS16_foon_intro/"
 tags: ["task planning", "functional object-oriented networks", "FOON"]
 author: ["David Paulius", "Yongqiang Huang", "Roger Milton", "William David Buchanan", "Jeanine Sam", "Yu Sun"]
 description: "" 

@@ -10,28 +10,28 @@
     <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/motion-taxonomy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating Motion Codes from Demonstration Videos</title>
-      <link>https://davidpaulius.github.io/papers/IROS-20/</link>
+      <link>https://davidpaulius.github.io/papers/IROS20_motion_codes/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/IROS-20/</guid>
+      <guid>https://davidpaulius.github.io/papers/IROS20_motion_codes/</guid>
       <description>TL;DR &amp;ndash; In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks.</description>
     </item>
     
     <item>
       <title>A Motion Taxonomy for Manipulation Embedding</title>
-      <link>https://davidpaulius.github.io/papers/RSS-20/</link>
+      <link>https://davidpaulius.github.io/papers/RSS20_motion_codes/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RSS-20/</guid>
+      <guid>https://davidpaulius.github.io/papers/RSS20_motion_codes/</guid>
       <description>TL;DR &amp;ndash; In this work, we introduce new changes to the features of the motion taxonomy and show how action verbs encoded as motion codes better capture differences between them than conventional word embedding (as word2vec).</description>
     </item>
     
     <item>
       <title>Manipulation Motion Taxonomy and Coding for Robots</title>
-      <link>https://davidpaulius.github.io/papers/IROS-19/</link>
+      <link>https://davidpaulius.github.io/papers/IROS19_motion_codes/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/IROS-19/</guid>
+      <guid>https://davidpaulius.github.io/papers/IROS19_motion_codes/</guid>
       <description>TL;DR &amp;ndash; This paper introduces the motion taxonomy, a collection of robot-relevant features that are better suited for verb or action embedding than conventional word embedding. Motion codes are constructed per verb using the taxonomy. In this work, we show that motion codes assigned to verbs are closely related to one another based on force and trajectory data.</description>
     </item>
     

@@ -1,7 +1,7 @@
 ---
 title: "A Motion Taxonomy for Manipulation Embedding" 
 date: 2020-07-15
-url: "/papers/RSS-20/"
+url: "/papers/RSS20_motion_codes/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]
 author: ["David Paulius", "Nicholas Eales", "Yu Sun"]
 description: "" 

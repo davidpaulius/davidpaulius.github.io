@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network</title>
-      <link>https://davidpaulius.github.io/papers/CASE-22/</link>
+      <link>https://davidpaulius.github.io/papers/CASE22_foon_assembly/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/CASE-22/</guid>
+      <guid>https://davidpaulius.github.io/papers/CASE22_foon_assembly/</guid>
       <description>TL;DR &amp;ndash; This was a collaboration with Clemson University&amp;rsquo;s Yunyi Jia and Yi Chen, who were interested in using FOONs for representing assembly tasks. They successfully utilized and adapted a FOON to robotic assembly execution.</description>
     </item>
     

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MDP on David Paulius, Ph.D. | Personal Website</title>
+    <link>https://davidpaulius.github.io/tags/mdp/</link>
+    <description>Recent content in MDP on David Paulius, Ph.D. | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 David Paulius</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/mdp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skill Generalization With Verbs</title>
+      <link>https://davidpaulius.github.io/papers/IROS23_skill_gen/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/papers/IROS23_skill_gen/</guid>
+      <description>This paper introduces a deep learning-based method for learning about the effects of verbs &amp;ndash; more specifically, looking at initiation and termination conditions as with Markov Decision Processes (MDPs).</description>
+    </item>
+    
+  </channel>
+</rss>

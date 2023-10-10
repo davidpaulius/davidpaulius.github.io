@@ -1,7 +1,7 @@
 ---
 title: "Long-Horizon Planning and Execution with Functional Object-Oriented Networks" 
 date: 2023-06-13
-url: "/papers/RAL-23/"
+url: "/papers/RAL23_foon_lhpe/"
 tags: ["object-level planning","task and motion planning","TAMP","functional object-oriented networks", "FOON"]
 author: ["David Paulius", "Alejandro Agostini", "Dongheui Lee"]
 description: "" 

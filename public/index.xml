@@ -7,40 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 David Paulius</copyright>
-    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skill Generalization With Verbs</title>
+      <link>https://davidpaulius.github.io/papers/IROS23_skill_gen/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/papers/IROS23_skill_gen/</guid>
+      <description>This paper introduces a deep learning-based method for learning about the effects of verbs &amp;ndash; more specifically, looking at initiation and termination conditions as with Markov Decision Processes (MDPs).</description>
+    </item>
+    
     <item>
       <title>Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
-      <link>https://davidpaulius.github.io/papers/RAL-23/</link>
+      <link>https://davidpaulius.github.io/papers/RAL23_foon_lhpe/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RAL-23/</guid>
+      <guid>https://davidpaulius.github.io/papers/RAL23_foon_lhpe/</guid>
       <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
     
     <item>
       <title>Object-Level Planning and Abstraction</title>
-      <link>https://davidpaulius.github.io/papers/CORL-WS-22/</link>
+      <link>https://davidpaulius.github.io/papers/CoRL22_olp/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/CORL-WS-22/</guid>
+      <guid>https://davidpaulius.github.io/papers/CoRL22_olp/</guid>
       <description>TL;DR &amp;ndash; This workshop paper (specifically, a blue-sky submission) introduces the importance of object-level planning and representation as an additional layer on top of task and motion planning. I present several benefits of using object-level planning for long-term use in robotics.</description>
     </item>
     
     <item>
       <title>Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking</title>
-      <link>https://davidpaulius.github.io/papers/RAL-22/</link>
+      <link>https://davidpaulius.github.io/papers/RAL22_task_tree_ret/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RAL-22/</guid>
+      <guid>https://davidpaulius.github.io/papers/RAL22_task_tree_ret/</guid>
       <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
     
     <item>
       <title>Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network</title>
-      <link>https://davidpaulius.github.io/papers/CASE-22/</link>
+      <link>https://davidpaulius.github.io/papers/CASE22_foon_assembly/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/CASE-22/</guid>
+      <guid>https://davidpaulius.github.io/papers/CASE22_foon_assembly/</guid>
       <description>TL;DR &amp;ndash; This was a collaboration with Clemson University&amp;rsquo;s Yunyi Jia and Yi Chen, who were interested in using FOONs for representing assembly tasks. They successfully utilized and adapted a FOON to robotic assembly execution.</description>
     </item>
     
@@ -55,28 +64,28 @@
     
     <item>
       <title>Task Planning with a Weighted Functional Object-Oriented Network</title>
-      <link>https://davidpaulius.github.io/papers/ICRA-21/</link>
+      <link>https://davidpaulius.github.io/papers/ICRA21_foon_cobot/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/ICRA-21/</guid>
+      <guid>https://davidpaulius.github.io/papers/ICRA21_foon_cobot/</guid>
       <description>TL;DR &amp;ndash; In this paper, we attempt to execute task plan sequences extracted from FOONs. However, these sequences may contain actions that are not executable by a robot. Therefore, a human is introduced in the planning and execution loop, and both the robot and human assistant work together to solve the task.</description>
     </item>
     
     <item>
       <title>Estimating Motion Codes from Demonstration Videos</title>
-      <link>https://davidpaulius.github.io/papers/IROS-20/</link>
+      <link>https://davidpaulius.github.io/papers/IROS20_motion_codes/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/IROS-20/</guid>
+      <guid>https://davidpaulius.github.io/papers/IROS20_motion_codes/</guid>
       <description>TL;DR &amp;ndash; In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks.</description>
     </item>
     
     <item>
       <title>A Motion Taxonomy for Manipulation Embedding</title>
-      <link>https://davidpaulius.github.io/papers/RSS-20/</link>
+      <link>https://davidpaulius.github.io/papers/RSS20_motion_codes/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RSS-20/</guid>
+      <guid>https://davidpaulius.github.io/papers/RSS20_motion_codes/</guid>
       <description>TL;DR &amp;ndash; In this work, we introduce new changes to the features of the motion taxonomy and show how action verbs encoded as motion codes better capture differences between them than conventional word embedding (as word2vec).</description>
     </item>
     
@@ -91,28 +100,28 @@
     
     <item>
       <title>Manipulation Motion Taxonomy and Coding for Robots</title>
-      <link>https://davidpaulius.github.io/papers/IROS-19/</link>
+      <link>https://davidpaulius.github.io/papers/IROS19_motion_codes/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/IROS-19/</guid>
+      <guid>https://davidpaulius.github.io/papers/IROS19_motion_codes/</guid>
       <description>TL;DR &amp;ndash; This paper introduces the motion taxonomy, a collection of robot-relevant features that are better suited for verb or action embedding than conventional word embedding. Motion codes are constructed per verb using the taxonomy. In this work, we show that motion codes assigned to verbs are closely related to one another based on force and trajectory data.</description>
     </item>
     
     <item>
       <title>A Survey of Knowledge Representation in Service Robotics</title>
-      <link>https://davidpaulius.github.io/papers/RAS-19/</link>
+      <link>https://davidpaulius.github.io/papers/RAS19_survey/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RAS-19/</guid>
+      <guid>https://davidpaulius.github.io/papers/RAS19_survey/</guid>
       <description>TL;DR &amp;ndash; This was my first survey paper that covers knowledge representations for service robotics. Although it is dated, it covers an extensive list of approaches used to represent knowledge for several robot sub-tasks.</description>
     </item>
     
     <item>
       <title>Functional Object-Oriented Network: Construction &amp; Expansion</title>
-      <link>https://davidpaulius.github.io/papers/ICRA-18/</link>
+      <link>https://davidpaulius.github.io/papers/ICRA18_foon_gen_exp/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/ICRA-18/</guid>
+      <guid>https://davidpaulius.github.io/papers/ICRA18_foon_gen_exp/</guid>
       <description>TL;DR &amp;ndash; In this paper, we explore methods in natural language processing (NLP) &amp;ndash; specifically semantic similarity &amp;ndash; for expanding or generalizing knowledge contained in a FOON. This alleviates the need for demonstrating and annotating graphs by other means.</description>
     </item>
     

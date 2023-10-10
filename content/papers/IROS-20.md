@@ -1,7 +1,7 @@
 ---
 title: "Estimating Motion Codes from Demonstration Videos" 
 date: 2021-01-24
-url: "/papers/IROS-20/"
+url: "/papers/IROS20_motion_codes/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]
 author: ["Maxat Alibayev", "David Paulius", "Yu Sun"]
 description: "" 

@@ -1,7 +1,7 @@
 ---
 title: "Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking" 
 date: 2022-07-15
-url: "/papers/RAL-22/"
+url: "/papers/RAL22_task_tree_ret/"
 tags: ["task planning","semantic similarity","plan generation","functional object-oriented networks", "FOON"]
 author: ["Md Sadman Sakib", "David Paulius", "Yu Sun"]
 description: "" 

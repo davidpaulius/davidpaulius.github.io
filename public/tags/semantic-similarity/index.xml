@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/semantic-similarity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking</title>
-      <link>https://davidpaulius.github.io/papers/RAL-22/</link>
+      <link>https://davidpaulius.github.io/papers/RAL22_task_tree_ret/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RAL-22/</guid>
+      <guid>https://davidpaulius.github.io/papers/RAL22_task_tree_ret/</guid>
       <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
     

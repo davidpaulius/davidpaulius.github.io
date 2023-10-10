@@ -1,7 +1,7 @@
 ---
 title: "Skill Generalization With Verbs" 
 date: 2023-10-01
-url: "/papers/IROS23~skills/"
+url: "/papers/IROS23_skill_gen/"
 tags: ["deep learning", "options framework", "Markov decision process", "MDP"]
 author: ["Rachel Ma", "Lyndon Lam", "Benjamin A. Spiegel", "Aditya Ganeshan", "Roma Patel", "Ben Abbatematteo", "David Paulius", "Stefanie Tellex", "George Konidaris"]
 description: "" 

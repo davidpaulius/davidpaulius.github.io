@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 David Paulius</copyright>
-    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deep learning</title>
+      <link>https://davidpaulius.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov decision process</title>
+      <link>https://davidpaulius.github.io/tags/markov-decision-process/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/markov-decision-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDP</title>
+      <link>https://davidpaulius.github.io/tags/mdp/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/mdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>options framework</title>
+      <link>https://davidpaulius.github.io/tags/options-framework/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/options-framework/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>FOON</title>
       <link>https://davidpaulius.github.io/tags/foon/</link>
