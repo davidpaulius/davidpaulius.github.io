@@ -10,19 +10,19 @@
     <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/task-and-motion-planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
-      <link>https://davidpaulius.github.io/papers/RAL23_foon_lhpe/</link>
+      <link>https://davidpaulius.github.io/papers/foon_lhpe/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RAL23_foon_lhpe/</guid>
+      <guid>https://davidpaulius.github.io/papers/foon_lhpe/</guid>
       <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
     
     <item>
       <title>Object-Level Planning and Abstraction</title>
-      <link>https://davidpaulius.github.io/papers/CoRL22_olp/</link>
+      <link>https://davidpaulius.github.io/papers/olp_bluesky/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/CoRL22_olp/</guid>
+      <guid>https://davidpaulius.github.io/papers/olp_bluesky/</guid>
       <description>TL;DR &amp;ndash; This workshop paper (specifically, a blue-sky submission) introduces the importance of object-level planning and representation as an additional layer on top of task and motion planning. I present several benefits of using object-level planning for long-term use in robotics.</description>
     </item>
     

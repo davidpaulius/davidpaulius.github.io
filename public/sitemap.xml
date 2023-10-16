@@ -32,7 +32,7 @@
     <loc>https://davidpaulius.github.io/tags/functional-object-oriented-networks/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/RAL23_foon_lhpe/</loc>
+    <loc>https://davidpaulius.github.io/papers/foon_lhpe/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/object-level-planning/</loc>
@@ -44,10 +44,10 @@
     <loc>https://davidpaulius.github.io/tags/task-and-motion-planning/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/CoRL22_olp/</loc>
+    <loc>https://davidpaulius.github.io/papers/olp_bluesky/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/RAL22_task_tree_ret/</loc>
+    <loc>https://davidpaulius.github.io/papers/foon_tree_retrieval/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/assembly/</loc>
@@ -59,7 +59,7 @@
     <loc>https://davidpaulius.github.io/tags/plan-generation/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/CASE22_foon_assembly/</loc>
+    <loc>https://davidpaulius.github.io/papers/foon_assembly/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/semantic-similarity/</loc>
@@ -89,25 +89,31 @@
     <loc>https://davidpaulius.github.io/tags/human-robot-collaboration/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/ICRA21_foon_cobot/</loc>
+    <loc>https://davidpaulius.github.io/papers/foon_cobot/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/action-recognition/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/IROS20_motion_codes/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <loc>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/motion-codes/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/motion-taxonomy/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/video-understanding/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/papers/motion_codes_IROS20/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/word-embedding/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/RSS20_motion_codes/</loc>
+    <loc>https://davidpaulius.github.io/papers/motion_codes_RSS20/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/#phdone/</loc>
@@ -119,10 +125,10 @@
     <loc>https://davidpaulius.github.io/tags/phd/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/IROS19_motion_codes/</loc>
+    <loc>https://davidpaulius.github.io/papers/motion_codes_IROS19/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/RAS19_survey/</loc>
+    <loc>https://davidpaulius.github.io/papers/survey_kr/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/abstractions/</loc>
@@ -134,12 +140,20 @@
     <loc>https://davidpaulius.github.io/tags/survey/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/ICRA18_foon_gen_exp/</loc>
+    <loc>https://davidpaulius.github.io/papers/foon_video_understanding/</loc>
+    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/papers/foon_gen_exp/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/papers/foon_intro/</loc>
+    <lastmod>2016-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/etcetera/about/</loc>
   </url><url>
     <loc>https://davidpaulius.github.io/academia/</loc>
+  </url><url>
+    <loc>https://davidpaulius.github.io/cv/</loc>
   </url><url>
     <loc>https://davidpaulius.github.io/etcetera/</loc>
   </url><url>

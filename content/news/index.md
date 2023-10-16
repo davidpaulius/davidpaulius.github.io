@@ -3,17 +3,29 @@ title: "Latest News"
 description: "My Latest Updates"
 author: ["David Paulius"]
 hideMeta: true
+disableAnchoredHeadings: false
 ---
 
-### Note: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
+### Note #1: I'm on the faculty job market (to start in Fall 2023).
+
+
+### Note #2: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
 
 <table>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2023)">2023-10-05</span>
+        </td>
+        <td>
+            <span>I attended IROS 2023 in Detroit, MI, USA. I was a co-author on a paper about <a href='{{< ref "./papers/IROS-23.md" >}}' target="_blank">generalizing skills described as verbs</a>.</span>
+        </td>
+    </tr>
     <tr style="vertical-align:top;">
         <td>
             <span class="date" style="background:var(--2023)">2023-06-30</span>
         </td>
         <td>
-            <span> Our workshop on <a href="https://leap-workshop.github.io/" target="_blank">Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2023! The workshop will take place on Nov 6, 2023 in Atlanta, GA, USA</span>
+            <span> Our workshop on <a href="https://leap-workshop.github.io/" target="_blank">Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2023! The workshop will take place on Nov 6, 2023 at the CoRL 2023 conference (Atlanta, GA, USA).</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -34,6 +46,14 @@ hideMeta: true
             <span>
                 I attended the NSF FRR-NRI workshop in Arlington, VA, USA, with a travel award (Aspiring PI)!
             </span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2023)">2023-04-05</span>
+        </td>
+        <td>
+            <span>I served as Associate Editor for the <a href="http://2023.ubiquitousrobots.org/" target="_blank">Ubiquitous Robots</a> conference.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">

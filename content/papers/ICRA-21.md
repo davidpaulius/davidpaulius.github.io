@@ -1,7 +1,7 @@
 ---
 title: "Task Planning with a Weighted Functional Object-Oriented Network" 
 date: 2021-05-01
-url: "/papers/ICRA21_foon_cobot/"
+url: "/papers/foon_cobot/"
 tags: ["task planning", "human-robot collaboration","cobots","functional object-oriented networks", "FOON"]
 author: ["David Paulius", "Kelvin Sheng Pei Dong", "Yu Sun"]
 description: "" 

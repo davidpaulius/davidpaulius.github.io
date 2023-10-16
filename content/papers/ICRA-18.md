@@ -1,7 +1,7 @@
 ---
 title: "Functional Object-Oriented Network: Construction & Expansion" 
 date: 2018-05-01
-url: "/papers/ICRA18_foon_gen_exp/"
+url: "/papers/foon_gen_exp/"
 tags: ["task planning", "human-robot collaboration","cobots","functional object-oriented networks", "FOON"]
 author: ["David Paulius", "Ahmad Babaeian Jelodar", "Yu Sun"]
 description: "" 

@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/abstractions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Survey of Knowledge Representation in Service Robotics</title>
-      <link>https://davidpaulius.github.io/papers/RAS19_survey/</link>
+      <link>https://davidpaulius.github.io/papers/survey_kr/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://davidpaulius.github.io/papers/RAS19_survey/</guid>
+      <guid>https://davidpaulius.github.io/papers/survey_kr/</guid>
       <description>TL;DR &amp;ndash; This was my first survey paper that covers knowledge representations for service robotics. Although it is dated, it covers an extensive list of approaches used to represent knowledge for several robot sub-tasks.</description>
     </item>
     

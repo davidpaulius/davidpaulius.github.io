@@ -54,8 +54,6 @@ I am currently a postdoctoral researcher at Brown University and a member of the
 
 As a postdoc, I aim to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course). 
 
-**I will be on the job market soon!**
-
 ---
 
 ## How is David?

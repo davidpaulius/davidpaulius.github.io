@@ -5,7 +5,10 @@ description: ""
 disableAnchoredHeadings: false
 ---
 
-#### NOTE: Sorted from newest to oldest; some papers have not been added yet (WIP).
+<!-- # Papers and Publications -->
+
+### NOTE: Sorted from newest to oldest; some papers have not been added yet (WIP).
+---
 
 <style>
 	.post-entry:hover {

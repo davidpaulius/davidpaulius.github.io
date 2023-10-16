@@ -1,7 +1,7 @@
 ---
 title: "Object-Level Planning and Abstraction" 
 date: 2022-12-14
-url: /papers/CoRL22_olp/
+url: /papers/olp_bluesky/
 tags: ["object-level planning", "task and motion planning", "TAMP"]
 author: ["David Paulius"]
 description: "" 

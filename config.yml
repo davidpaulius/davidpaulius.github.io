@@ -17,7 +17,7 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view"
+          url: /cv/
           weight: 1
         - name: News
           url: /news/
@@ -60,7 +60,7 @@ params:
     profileMode:
           enabled: true
           title: "Hi, I am David:"
-          subtitle: "•	A roboticist from the Caribbean. 🦾🏝️ <br>•	A postdoctoral researcher at Brown University. 🎓🐻"
+          subtitle: "•	A roboticist from the Caribbean. 🦾🏝️ <br>•	A postdoctoral researcher at Brown University. 🎓🐻 <br><br><h4>Note: I am on the job market! Looking for faculty jobs. ;)</h4>"
           imageUrl: "/imgs/profile.jpg"
           imageWidth: 200
           imageHeight: 200
@@ -78,7 +78,7 @@ params:
         - name: Email
           url: "mailto:dpaulius@cs.brown.edu"
         - name: CV
-          url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view"
+          url: "/cv/"
         - name: GitHub
           url: "https://github.com/davidpaulius"
         - name: Google Scholar

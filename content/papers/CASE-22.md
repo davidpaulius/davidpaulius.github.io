@@ -1,7 +1,7 @@
 ---
 title: "Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network" 
 date: 2022-07-15
-url: "/papers/CASE22_foon_assembly/"
+url: "/papers/foon_assembly/"
 tags: ["task planning", "learning from demonstration","assembly","functional object-oriented networks", "FOON"]
 author: ["Yi Chen", "David Paulius", "Yu Sun", "Yunyi Jia"]
 description: "" 
