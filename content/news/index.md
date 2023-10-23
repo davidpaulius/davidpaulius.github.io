@@ -6,7 +6,7 @@ hideMeta: true
 disableAnchoredHeadings: false
 ---
 
-### Note #1: I'm on the faculty job market (to start in Fall 2023).
+### Note #1: I'm on the faculty job market (to start in Fall 2024).
 
 
 ### Note #2: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
