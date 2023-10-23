@@ -14,8 +14,8 @@ I aim to use my researching ability and talents to solve problems for communitie
 ---
 ##### Download:
 
-+ [Research Statement](https://drive.google.com/file/d/1v4jOhsdGRMVCd8P3W3H1VEdetaVFLDJf/view?usp=drive_link)
-+ [Teaching Philosophy](https://drive.google.com/file/d/1FVAbXKFaAIYnpZmS_uHiFTjPfy4DtFtT/view?usp=drive_link)
-+ [Pledge to Diversity, Equity and Inclusion (a.k.a. Diversity Statement)](https://drive.google.com/file/d/1LvxiPmWYA3EoZ0r1W_ch7Rpggq7C14Zs/view?usp=drive_link)
++ [Research Statement](https://drive.google.com/file/d/1axKImxdpir97FAmFjzKJi0FA3PPhDY15/view?usp=share_link)
++ [Teaching Philosophy](https://drive.google.com/file/d/1zJzPoiHdhMoeNpDHPGx-_W_92V7r8_5L/view?usp=share_link)
++ [Pledge to Diversity, Equity and Inclusion (a.k.a. Diversity Statement)](https://drive.google.com/file/d/1k6Z2MbCo8FoRIca4BFrGjQX4vn3GxeFq/view?usp=share_link)
 
 ---
