@@ -14,10 +14,26 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2024)">2024-01-30</span>
+        </td>
+        <td>
+            <span>Our paper entitled <a href="https://shreyas-s-raman.github.io/CAPE/" target="_blank">CAPE: Corrective Actions from Preconditions Errors using Large Language Models</a> has been accepted to IROS 2024!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2023)">2023-11-04</span>
+        </td>
+        <td>
+            <span>I attended CoRL 2023 in Atlanta, GA, USA. I co-organized the <a href="https://leap-workshop.github.io/" target="_blank">1st Workshop on Learning Effective Abstractions for Planning</a>.</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2023)">2023-10-05</span>
         </td>
         <td>
-            <span>I attended IROS 2023 in Detroit, MI, USA. I was a co-author on a paper about <a href='{{< ref "./papers/IROS-23.md" >}}' target="_blank">generalizing skills described as verbs</a>.</span>
+            <span>I attended IROS 2023 in Detroit, MI, USA. I was a co-author entitled <a href='{{< ref "./papers/IROS-23.md" >}}' target="_blank">Skill Generalization with Verbs</a>.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -25,7 +41,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2023)">2023-06-30</span>
         </td>
         <td>
-            <span> Our workshop on <a href="https://leap-workshop.github.io/" target="_blank">Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2023! The workshop will take place on Nov 6, 2023 at the CoRL 2023 conference (Atlanta, GA, USA).</span>
+            <span> Our workshop on <a href="https://leap-workshop.github.io/" target="_blank">Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2023!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -34,7 +50,7 @@ disableAnchoredHeadings: false
         </td>
         <td>
             <span>
-                Our paper entitled <a href="https://arxiv.org/abs/2207.05800" target="_blank">Long-Horizon Planning and Execution with FOONs</a> has been accepted to RA-L!
+                Our paper entitled <a href="https://davidpaulius.github.io/foon-lhpe" target="_blank">Long-Horizon Planning and Execution with FOONs</a> has been accepted to RA-L!
             </span>
         </td>
     </tr>
@@ -82,17 +98,7 @@ disableAnchoredHeadings: false
         </td>
         <td>
             <span>
-                I attended RSS 2022, held at Columbia University, NY, USA. 
-            </span>
-        </td>
-    </tr>
-    <tr style="vertical-align:top;">
-        <td>
-            <span class="date" style="background:var(--2022);">2022-06-26</span>
-        </td>
-        <td>
-            <span>
-                I presented my work at the <a href="https://sites.google.com/view/rsspioneers2022/" target="_blank">RSS Pioneers 2022</a> Workshop!
+                I attended RSS 2022, held at Columbia University, NY, USA. I presented my work at the <a href="https://sites.google.com/view/rsspioneers2022/" target="_blank">RSS Pioneers 2022</a> Workshop!
             </span>
         </td>
     </tr>
@@ -112,7 +118,7 @@ disableAnchoredHeadings: false
         </td>
         <td>
             <span>
-                I started a new position as Postdoctoral Researcher at Brown University, RI, USA! 
+                I started a new position as Postdoctoral Researcher at Brown University, RI, USA!
                 I am jointly mentored by Profs. George Konidaris and Stefanie Tellex.
             </span>
         </td>

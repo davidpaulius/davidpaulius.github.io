@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://davidpaulius.github.io/papers/cape/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/few-shot-planning/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/large-language-models/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/llm/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/papers/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/re-planning/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/task-planning/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/deep-learning/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
@@ -17,13 +41,7 @@
     <loc>https://davidpaulius.github.io/tags/options-framework/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://davidpaulius.github.io/papers/IROS23_skill_gen/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/foon/</loc>
@@ -63,9 +81,6 @@
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/semantic-similarity/</loc>
-    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/task-planning/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/blog/</loc>

@@ -6,8 +6,17 @@
     <description>Recent content in Papers on David Paulius, Ph.D. | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 David Paulius</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 David Paulius</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAPE: Corrective Actions from Precondition Errors using Large Language Models</title>
+      <link>https://davidpaulius.github.io/papers/cape/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/papers/cape/</guid>
+      <description>TL;DR &amp;ndash; In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors.</description>
+    </item>
+    
     <item>
       <title>Skill Generalization With Verbs</title>
       <link>https://davidpaulius.github.io/papers/IROS23_skill_gen/</link>

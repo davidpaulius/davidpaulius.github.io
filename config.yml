@@ -1,8 +1,8 @@
-baseURL: "https://davidpaulius.github.io/" 
+baseURL: "https://davidpaulius.github.io/"
 title: "David Paulius, Ph.D. | Personal Website"
 paginate: 20
 theme: PaperMod
-copyright: "© 2023 David Paulius"
+copyright: "© 2024 David Paulius"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -30,10 +30,10 @@ menu:
           weight: 3
         - name: Blog
           url: /blog/
-          weight: 4    
+          weight: 4
         - name: Etcetera
           url: /etcetera/
-          weight: 5     
+          weight: 5
 
 params:
     description: "I am a postdoctoral researcher at Brown University, working with Profs. George Konidaris and Stefanie Tellex."
@@ -97,7 +97,7 @@ params:
       text: "David Paulius, Ph.D."
       icon: /imgs/riegan.ico
       iconHeight: 28
-    
+
     # stuff for fonts:
     google_fonts: [
       ["Fira Code", "400, 700"],

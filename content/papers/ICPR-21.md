@@ -1,16 +1,16 @@
 ---
-title: "Estimating Motion Codes from Demonstration Videos" 
+title: "Estimating Motion Codes from Demonstration Videos"
 date: 2021-01-10
 url: "/papers/motion_codes_ICPR20/"
 tags: ["motion taxonomy", "motion codes", "action recognition", "video understanding"]
 author: ["Maxat Alibayev", "David Paulius", "Yu Sun"]
-description: "" 
-summary: "TL;DR -- This work uses the features from the motion taxonomy to improve action recognition on egocentric videos from the EPIC-KITCHENS dataset. This is done by integrating motion code detection for action sequences." 
+description: ""
+summary: "TL;DR -- This work uses the features from the motion taxonomy to improve action recognition on egocentric videos from the EPIC-KITCHENS dataset. This is done by integrating motion code detection for action sequences."
 ---
 
 #### Related Links:
 
-+ Paper: 
++ Paper:
   + [arXiv (best version)](https://arxiv.org/abs/2012.05438)
   + [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9413030/)
 

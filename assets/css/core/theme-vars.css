@@ -31,13 +31,14 @@
     --lineheight: 1.4;
     --lineclamp: 8;
     --marginleft: 15px;
-    
+
     /* --entry_background: linear-gradient(0deg, var(--blue), white, white, white); */
     --entry_background: var(--theme);
     --header_background: linear-gradient(to bottom,var(--green), var(--theme));
 
     /* NOTE: colours for the news section: */
-    --2023: #ccff99;
+    --2024: #ccff99;
+    --2023: #ffe499;
     --2020: #ff9999;
     --2021: #bbbbff;
     --2022: #d988ff;
@@ -64,7 +65,7 @@
     --2020: #9c1212;
     --2021: #2a2a99;
     --2022: #6f3a88;
-    
+
 }
 
 .list {
@@ -86,7 +87,7 @@
 @font-face {
     font-family: 'Chiaro';
     src:
-        url('../../fonts/chiaro.otf') 
+        url('../../fonts/chiaro.otf')
         format('opentype');
     font-weight: normal;
     font-style: normal;

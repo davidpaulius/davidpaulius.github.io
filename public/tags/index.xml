@@ -6,8 +6,53 @@
     <description>Recent content in Tags on David Paulius, Ph.D. | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 David Paulius</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 David Paulius</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>few-shot planning</title>
+      <link>https://davidpaulius.github.io/tags/few-shot-planning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/few-shot-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large language models</title>
+      <link>https://davidpaulius.github.io/tags/large-language-models/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://davidpaulius.github.io/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>re-planning</title>
+      <link>https://davidpaulius.github.io/tags/re-planning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/re-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>task planning</title>
+      <link>https://davidpaulius.github.io/tags/task-planning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidpaulius.github.io/tags/task-planning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deep learning</title>
       <link>https://davidpaulius.github.io/tags/deep-learning/</link>
@@ -122,15 +167,6 @@
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidpaulius.github.io/tags/semantic-similarity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>task planning</title>
-      <link>https://davidpaulius.github.io/tags/task-planning/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidpaulius.github.io/tags/task-planning/</guid>
       <description></description>
     </item>
     
