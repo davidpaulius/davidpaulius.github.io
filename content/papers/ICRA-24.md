@@ -3,7 +3,7 @@ title: "CAPE: Corrective Actions from Precondition Errors using Large Language M
 date: 2024-01-01
 url: "/papers/cape/"
 tags: ["task planning", "large language models","LLM","re-planning", "few-shot planning"]
-author: ["David Paulius", "Kelvin Sheng Pei Dong", "Yu Sun"]
+author: ["Shreyas Sundara Raman", "Vanya Cohen", "Ifrah Idrees", "Eric Rosen", "Ray Mooney", "Stefanie Tellex", "David Paulius"]
 description: ""
 summary: "TL;DR -- In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors."
 # cover:

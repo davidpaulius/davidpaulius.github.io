@@ -17,7 +17,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-01-30</span>
         </td>
         <td>
-            <span>Our paper entitled <a href="https://shreyas-s-raman.github.io/CAPE/" target="_blank">CAPE: Corrective Actions from Preconditions Errors using Large Language Models</a> has been accepted to IROS 2024!</span>
+            <span>Our paper entitled <a href='{{< ref "./papers/ICRA-24.md" >}}'" target="_blank">CAPE: Corrective Actions from Preconditions Errors using Large Language Models</a> has been accepted to IROS 2024!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -33,7 +33,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2023)">2023-10-05</span>
         </td>
         <td>
-            <span>I attended IROS 2023 in Detroit, MI, USA. I was a co-author entitled <a href='{{< ref "./papers/IROS-23.md" >}}' target="_blank">Skill Generalization with Verbs</a>.</span>
+            <span>I attended IROS 2023 in Detroit, MI, USA. I was a co-author on a submission entitled <a href='{{< ref "./papers/IROS-23.md" >}}' target="_blank">Skill Generalization with Verbs</a>.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
