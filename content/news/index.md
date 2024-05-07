@@ -6,12 +6,36 @@ hideMeta: true
 disableAnchoredHeadings: false
 ---
 
-### Note #1: I'm on the faculty job market (to start in Fall 2024).
+### Note #1: I'm seeking any research-related jobs in robotics/AI!
 
 
 ### Note #2: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
 
 <table>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-05-05</span>
+        </td>
+        <td>
+            <span>Our RAL-23 paper entitled <a href="https://davidpaulius.github.io/foon-lhpe" target="_blank">Long-Horizon Planning and Execution with FOONs</a> will be featured at IROS 2024!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-03-13</span>
+        </td>
+        <td>
+            <span>I gave a research talk at <a href="https://www.cis.fiu.edu/lectures/object-level-planning-bridging-the-gap-between-human-knowledge-and-task-and-motion-planning/" target="_blank">Florida International University</a>!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-02-15</span>
+        </td>
+        <td>
+            <span>I gave a research talk at the University of Michigan Robotics Department!</span>
+        </td>
+    </tr>
     <tr style="vertical-align:top;">
         <td>
             <span class="date" style="background:var(--2024)">2024-01-30</span>
