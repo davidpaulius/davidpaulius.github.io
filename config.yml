@@ -75,8 +75,8 @@ params:
               url: /etcetera/
 
     socialIcons:
-        - name: "email"
-          url: "mailto:dpaulius@cs.brown.edu"
+        # - name: "email"
+        #   url: "mailto:dpaulius@cs.brown.edu"
         - name: "cv"
           url: "/cv/"
         - name: "gitHub"
