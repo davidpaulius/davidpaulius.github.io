@@ -8,9 +8,6 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 
-social:
-    twitter: davidpaulius
-
 taxonomies:
     tag: tags
 
@@ -43,6 +40,7 @@ params:
     hideFooter: false
     disableThemeToggle: false
     ShowShareButtons: false
+    ShareButtons: ["linkedin"]
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
@@ -75,21 +73,21 @@ params:
             #   url: /academia/
             - name: "About Me"
               url: /etcetera/
+
     socialIcons:
-        - name: Email
+        - name: "email"
           url: "mailto:dpaulius@cs.brown.edu"
-        - name: CV
+        - name: "cv"
           url: "/cv/"
-        - name: GitHub
+        - name: "gitHub"
           url: "https://github.com/davidpaulius"
-        - name: Google Scholar
+        - name: "googlescholar"
           url: "https://scholar.google.com/citations?user=aMxXkWkAAAAJ&hl=en"
-        - name: Orcid
-          url: "https://orcid.org/0000-0002-7891-8749"
-        - name: Twitter
-          url: "https://www.twitter.com/davidpaulius"
-        - name: Letterboxd
+        - name: "x"
+          url: "https://www.x.com/davidpaulius"
+        - name: "letterboxd"
           url: "https://letterboxd.com/davi_duck/"
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true

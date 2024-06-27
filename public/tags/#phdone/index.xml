@@ -4,18 +4,17 @@
     <title>#PhDone on David Paulius, Ph.D. | Personal Website</title>
     <link>https://davidpaulius.github.io/tags/#phdone/</link>
     <description>Recent content in #PhDone on David Paulius, Ph.D. | Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
-    <copyright>© 2024 David Paulius</copyright>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/#phdone/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024 David Paulius</copyright>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidpaulius.github.io/tags/#phdone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Giving Thanks</title>
       <link>https://davidpaulius.github.io/blog/phd-gratitude/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/blog/phd-gratitude/</guid>
       <description>My dedication and acknowledgements to everyone that supported me during my Ph.D. journey.</description>
     </item>
-    
   </channel>
 </rss>

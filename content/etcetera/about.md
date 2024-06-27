@@ -1,18 +1,18 @@
 ---
-title: "About Me 🤓" 
+title: "About Me 🤓"
 author: "David Paulius"
-description: "This is an overview of David Paulius, Ph.D." 
-summary: "Find out more about David Paulius here. Got a little bio here if you want to read..." 
+description: "This is an overview of David Paulius, Ph.D."
+summary: "Find out more about David Paulius here. Got a little bio here if you want to read..."
 showToc: false
 disableAnchoredHeadings: false
 hideMeta: true
-hideSummary: false	
+hideSummary: false
 
 ---
 
 <!-- <img src="/d1.jpg"
      alt="Markdown Monster icon"
-	 caption="LA"	
+	 caption="LA"
      style="width:30%;border-radius:50%;margin:auto"/> -->
 
 ## Who is David?
@@ -28,11 +28,11 @@ I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=1
 <br>
 
 
-I completed my primary and secondary school education in St. Kitts: I attended the St. Theresa's Convent High School (referred to as the "Convent School" locally), a private school affiliated with the Immaculate Conception Catholic Church. Since graduating, it has been renamed to the Immaculate Conception Catholic School (or ICCS). I took a wide array of CSEC subjects (equivalent to the British GSCE O-levels). 
+I completed my primary and secondary school education in St. Kitts: I attended the St. Theresa's Convent High School (locally called the "Convent School"), a private school affiliated with the Immaculate Conception Catholic Church. Since graduating, it has been renamed to the Immaculate Conception Catholic School (or ICCS). I took a wide array of CSEC subjects (equivalent to the British GSCE O-levels).
 
 After high school, I attended our local community college, the Clarence Fitzroy Bryant College (CFBC), where I obtained my Associate's Degree in General Studies by completing a mix of courses (equivalent to British GCSE A-levels): Pure Mathematics, Computer Science, Communication Studies, Caribbean Studies, and Spanish.
 
-After CFBC, I attended the University of the Virgin Islands (UVI) in St. Thomas (U.S. Virgin Islands), where I obtained my bachelor degree in Computer Science and graduated in 2014. From there, I attended the University of South Florida (USF) in Tampa, Florida, USA, to obtain my doctorate in Computer Science & Engineering and graduated in 2020. 
+After CFBC, I attended the University of the Virgin Islands (UVI) in St. Thomas (U.S. Virgin Islands), where I obtained my bachelor degree in Computer Science and graduated in 2014. From there, I attended the University of South Florida (USF) in Tampa, Florida, USA, to obtain my doctorate in Computer Science & Engineering and graduated in 2020.
 
 
 ---
@@ -52,7 +52,7 @@ I dove into the world of robotics and AI at USF, fields of which I had little to
 
 I am currently a postdoctoral researcher at Brown University and a member of the <a href="http://irl.cs.brown.edu/" target="_blank">Intelligent Robot Lab</a> directed by <a href="https://cs.brown.edu/~gdk/" target="_blank">Prof. George Konidaris</a>.
 
-As a postdoc, I aim to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course). 
+As a postdoc, I aim to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course).
 
 ---
 

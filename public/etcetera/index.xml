@@ -4,35 +4,30 @@
     <title>Etcetera on David Paulius, Ph.D. | Personal Website</title>
     <link>https://davidpaulius.github.io/etcetera/</link>
     <description>Recent content in Etcetera on David Paulius, Ph.D. | Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
-    <copyright>© 2024 David Paulius</copyright><atom:link href="https://davidpaulius.github.io/etcetera/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024 David Paulius</copyright>
+    <atom:link href="https://davidpaulius.github.io/etcetera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me 🤓</title>
       <link>https://davidpaulius.github.io/etcetera/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/etcetera/about/</guid>
       <description>This is an overview of David Paulius, Ph.D.</description>
     </item>
-    
     <item>
       <title>Fun Stuff 😜</title>
       <link>https://davidpaulius.github.io/etcetera/fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/etcetera/fun/</guid>
       <description>This is an overview of David Paulius, Ph.D.</description>
     </item>
-    
     <item>
       <title>Photography 📸</title>
       <link>https://davidpaulius.github.io/etcetera/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/etcetera/photography/</guid>
       <description>Check out some of my favourite shots here!</description>
     </item>
-    
   </channel>
 </rss>

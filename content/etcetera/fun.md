@@ -37,8 +37,6 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 
 + People and AI Research (2020) -- [_Q&A: Sabelo Mhlambi on what AI can learn from Ubuntu ethics_](https://medium.com/people-ai-research/q-a-sabelo-mhlambi-on-what-ai-can-learn-from-ubuntu-ethics-4012a53ec2a6)
 
-+ Karen Hao, MIT Technology Review (2020) -- [_We read the paper that forced Timnit Gebru out of Google. Here’s what it says_](https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/)
-
 + Wilka Carvalho (2018) -- [_For the “happy people” that suffer from bouts of depression_](https://medium.com/@wcarvalho92/living-divided-between-extreme-happiness-and-extreme-sadness-778a4aec3165)
 
     + Wilka came to visit Brown sometime ago, and after our interactions, I stumbled upon his Medium articles. This one really stood out for me.
@@ -68,7 +66,6 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 + Pursuit of Wonder:
     + [_The Problem with Nice People_](https://www.youtube.com/watch?v=g7RAPS8mE94)
     + [_Every Person Is One Choice Away from Everything Changing_](https://www.youtube.com/watch?v=x18bXxW3yhY)
-
 
 + Sound Field -- (**NOTE**: This PBS YouTube series is *amazing*!)
     + [_The Genius of Fela Kuti and Afrobeat (feat. Femi & Made Kuti)_](https://www.youtube.com/watch?v=ryTTHmUYc2o)

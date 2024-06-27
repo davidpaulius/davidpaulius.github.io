@@ -4,18 +4,17 @@
     <title>Markov decision process on David Paulius, Ph.D. | Personal Website</title>
     <link>https://davidpaulius.github.io/tags/markov-decision-process/</link>
     <description>Recent content in Markov decision process on David Paulius, Ph.D. | Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
-    <copyright>© 2024 David Paulius</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/markov-decision-process/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024 David Paulius</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidpaulius.github.io/tags/markov-decision-process/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skill Generalization With Verbs</title>
       <link>https://davidpaulius.github.io/papers/IROS23_skill_gen/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/papers/IROS23_skill_gen/</guid>
       <description>TL;DR &amp;ndash; This paper introduces a deep learning-based method for learning about the effects of verbs &amp;ndash; more specifically, looking at initiation and termination conditions as with Markov Decision Processes (MDPs).</description>
     </item>
-    
   </channel>
 </rss>

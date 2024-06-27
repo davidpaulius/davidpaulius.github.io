@@ -4,27 +4,24 @@
     <title>video understanding on David Paulius, Ph.D. | Personal Website</title>
     <link>https://davidpaulius.github.io/tags/video-understanding/</link>
     <description>Recent content in video understanding on David Paulius, Ph.D. | Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
-    <copyright>© 2024 David Paulius</copyright>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidpaulius.github.io/tags/video-understanding/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024 David Paulius</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidpaulius.github.io/tags/video-understanding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimating Motion Codes from Demonstration Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</guid>
       <description>TL;DR &amp;ndash; This work uses the features from the motion taxonomy to improve action recognition on egocentric videos from the EPIC-KITCHENS dataset. This is done by integrating motion code detection for action sequences.</description>
     </item>
-    
     <item>
       <title>Long Activity Video Understanding using Functional Object-Oriented Network</title>
       <link>https://davidpaulius.github.io/papers/foon_video_understanding/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://davidpaulius.github.io/papers/foon_video_understanding/</guid>
       <description>TL;DR &amp;ndash; This work leverages functional object-oriented networks and deep learning for video understanding. In addition, with the deep network framework, we jointly recognize object and action types, which can then be used for constructing new FOON structures.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,18 +6,39 @@ hideMeta: true
 disableAnchoredHeadings: false
 ---
 
-### Note #1: I'm seeking any research-related jobs in robotics/AI!
-
-
-### Note #2: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
+### Note: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
 
 <table>
     <tr style="vertical-align:top;">
         <td>
-            <span class="date" style="background:var(--2024)">2024-05-05</span>
+            <span class="date" style="background:var(--2024)">2024-06-14</span>
         </td>
         <td>
-            <span>Our RAL-23 paper entitled <a href="https://davidpaulius.github.io/foon-lhpe" target="_blank">Long-Horizon Planning and Execution with FOONs</a> will be featured at IROS 2024!</span>
+            <span>I gave a research talk at <a href="https://cs.gmu.edu/events/detail/633/" target="_blank">George Mason University</a>.</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-05-13</span>
+        </td>
+        <td>
+            <span>Together with <a href="https://jasmineberry.github.io/" target="_blank">Dr. Jasmine Berry</a>, we authored two position papers, which we presented at the <a href="https://dracothraxus.github.io/responsiblerobotics/index" target="_blank">IROS 2024 Workshop on Responsible Robotics</a>. We won 1st and 2nd place for both submissions!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-05-13</span>
+        </td>
+        <td>
+            <span>I attended IROS 2024 in Yokohama, Japan! In addition to <a href='{{< ref "./papers/ICRA-24.md" >}}'" target="_blank">CAPE</a>, I presented our paper entitled <a href="https://davidpaulius.github.io/foon-lhpe" target="_blank">Long-Horizon Planning and Execution with FOONs</a>.</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2023-04-05</span>
+        </td>
+        <td>
+            <span>I served as an Associate Editor for the  <a href="https://2024.ubiquitousrobots.org/" target="_blank">Ubiquitous Robots (UR) 2024</a> conference.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -25,7 +46,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-03-13</span>
         </td>
         <td>
-            <span>I gave a research talk at <a href="https://www.cis.fiu.edu/lectures/object-level-planning-bridging-the-gap-between-human-knowledge-and-task-and-motion-planning/" target="_blank">Florida International University</a>!</span>
+            <span>I gave a research talk at <a href="https://www.cis.fiu.edu/lectures/object-level-planning-bridging-the-gap-between-human-knowledge-and-task-and-motion-planning/" target="_blank">Florida International University</a>.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -33,7 +54,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-02-15</span>
         </td>
         <td>
-            <span>I gave a research talk at the University of Michigan Robotics Department!</span>
+            <span>I gave a research talk at the University of Michigan Robotics Department.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -93,7 +114,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2023)">2023-04-05</span>
         </td>
         <td>
-            <span>I served as Associate Editor for the <a href="http://2023.ubiquitousrobots.org/" target="_blank">Ubiquitous Robots</a> conference.</span>
+            <span>I served as an Associate Editor for the <a href="http://2023.ubiquitousrobots.org/" target="_blank">Ubiquitous Robots (UR) 2023</a> conference.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -102,7 +123,7 @@ disableAnchoredHeadings: false
         </td>
         <td>
             <span>
-                I am serving as Social Media & Publicity Chair for the <a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">[RSS Pioneers 2023]</a> workshop! Follow our page <a href="https://twitter.com/RSSPioneers" target="_blank">@RSSPioneers</a> on Twitter for more details!
+                I am serving as Social Media & Publicity Chair for the <a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers 2023 Workshop</a>! Follow our page <a href="https://twitter.com/RSSPioneers" target="_blank">@RSSPioneers</a> on Twitter for more details!
             </span>
         </td>
     </tr>
@@ -122,7 +143,7 @@ disableAnchoredHeadings: false
         </td>
         <td>
             <span>
-                I attended RSS 2022, held at Columbia University, NY, USA. I presented my work at the <a href="https://sites.google.com/view/rsspioneers2022/" target="_blank">RSS Pioneers 2022</a> Workshop!
+                I attended RSS 2022, held at Columbia University, NY, USA. Notably, I participated in the <a href="https://sites.google.com/view/rsspioneers2022/" target="_blank">RSS Pioneers 2022 Workshop</a>: I was selected as an RSS Pioneer (34.8% acceptance rate)!
             </span>
         </td>
     </tr>
