@@ -19,7 +19,7 @@ hideSummary: false
 
 My name is pronounced as <a href="http://ipa-reader.xyz/?text=%20david&voice=Brian" target="_blank">_DAH-veed_</a> or <a href="http://ipa-reader.xyz/?text=%20dav%C9%AAd&voice=Brian" target="_blank">_DAH-vid_</a>.
 
-I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=17.368459,-68.4553&z=5&t=m&hl=en-US&gl=US&mapclient=embed&q=St+Kitts+%26+Nevis" target="_blank_">St. Kitts and Nevis</a>*, W.I. (i.e., _West Indies_).
+I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=17.368459,-68.4553&z=5&t=m&hl=en-US&gl=US&mapclient=embed&q=St+Kitts+%26+Nevis" target="_blank_">St. Kitts and Nevis</a>, W.I. (i.e., _West Indies_).
 
 <details>
 <summary><i>(See map here)</i></summary>
@@ -40,17 +40,17 @@ After CFBC, I attended the University of the Virgin Islands (UVI) in St. Thomas 
 ## What/Why is David?
 I am a roboticist and computer scientist.
 
-I was always an avid learner: I was always fascinated by biology, geography, and technology -- specifically airplanes, handheld electronics, and coding. It has always been a challenge for me to decide on a single area of focus for the remainder of my life. Somehow, I ended up drawn by <i>computing</i> and <i>programming</i>.
+I have always been an avid learner: as a child, I was fascinated by the fields of biology, geography, and technology -- specifically airplanes, handheld electronics, and coding. Somehow, I ended up drawn to <i>computing</i> and <i>programming</i> despite my indecisiveness.
 
 What drew me to this field was the excitement I got from learning about logic and program design for problem-solving. At UVI, I learned that computer science is a diverse and broad field. I thoroughly enjoyed algorithms and machine learning at UVI, and I was curious about robotics and artificial intelligence. I credit my advisors <a href="https://www.uvi.edu/directory/faculty/marc-boumedine.html" target="_blank">Dr. Marc Boumedine</a> and <a href="https://www.linkedin.com/in/drwaynearchibald" target="_blank">Dr. Wayne Archibald</a> for motivating me to pursue my doctorate.
 
-I dove into the world of robotics and AI at USF, fields of which I had little to no clue about! I joined the Robot Perception and Action Lab (RPAL) under the supervision of <a href="https://cse.usf.edu/~yusun/" target="_blank">Dr. Yu Sun</a>.
+I dove into the world of robotics and AI at USF, fields of which I had little to no clue about! I joined the Robot Perception and Action Lab (RPAL) under the supervision of <a href="https://cse.usf.edu/~yusun/" target="_blank">Dr. Yu Sun</a>. I graduated USF in May 2020 during the onset of the COVID-19 pandemic. A few months after graduating, I made the decision to move to Munich, Germany to work as a postdoctoral researcher at the Technical University of Munichh until 2021.
 
 ---
 
 ## Where is David?
 
-I am currently a postdoctoral researcher at Brown University and a member of the <a href="http://irl.cs.brown.edu/" target="_blank">Intelligent Robot Lab</a> directed by <a href="https://cs.brown.edu/~gdk/" target="_blank">Prof. George Konidaris</a>.
+Since 2021, I've been  at Brown University, where I work as a postdoctoral researcher and a member of the <a href="http://irl.cs.brown.edu/" target="_blank">Intelligent Robot Lab</a> directed by <a href="https://cs.brown.edu/~gdk/" target="_blank">Prof. George Konidaris</a>.
 
 As a postdoc, I aim to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course).
 
