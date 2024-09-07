@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>large language models on David Paulius, Ph.D. | Personal Website</title>
-    <link>https://davidpaulius.github.io/tags/large-language-models/</link>
-    <description>Recent content in large language models on David Paulius, Ph.D. | Personal Website</description>
+    <title>spatiotemporal grounding on David Paulius, Ph.D. | Personal Website</title>
+    <link>https://davidpaulius.github.io/tags/spatiotemporal-grounding/</link>
+    <description>Recent content in spatiotemporal grounding on David Paulius, Ph.D. | Personal Website</description>
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
     <copyright>2024 David Paulius</copyright>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidpaulius.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidpaulius.github.io/tags/spatiotemporal-grounding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
       <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
       <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
-    </item>
-    <item>
-      <title>CAPE: Corrective Actions from Precondition Errors using Large Language Models</title>
-      <link>https://davidpaulius.github.io/papers/cape/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/papers/cape/</guid>
-      <description>TL;DR &amp;ndash; In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors.</description>
     </item>
   </channel>
 </rss>

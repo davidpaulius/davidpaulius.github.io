@@ -14,6 +14,14 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-06-14</span>
         </td>
         <td>
+            <span>Our paper entitled <a href='{{< ref "./papers/IROS-24.md" >}}'" target="_blank">Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</a> has been accepted to IROS 2024!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-06-14</span>
+        </td>
+        <td>
             <span>I gave a research talk at <a href="https://cs.gmu.edu/events/detail/633/" target="_blank">George Mason University</a>.</span>
         </td>
     </tr>
@@ -62,7 +70,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-01-30</span>
         </td>
         <td>
-            <span>Our paper entitled <a href='{{< ref "./papers/ICRA-24.md" >}}'" target="_blank">CAPE: Corrective Actions from Preconditions Errors using Large Language Models</a> has been accepted to IROS 2024!</span>
+            <span>Our paper entitled <a href='{{< ref "./papers/ICRA-24.md" >}}'" target="_blank">CAPE: Corrective Actions from Preconditions Errors using Large Language Models</a> has been accepted to ICRA 2024!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">

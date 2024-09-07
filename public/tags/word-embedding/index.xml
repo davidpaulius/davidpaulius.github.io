@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
     <copyright>2024 David Paulius</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/word-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
+      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+    </item>
     <item>
       <title>Estimating Motion Codes from Demonstration Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_IROS20/</link>

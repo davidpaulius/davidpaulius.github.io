@@ -7,13 +7,20 @@
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
     <copyright>2024 David Paulius</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>few-shot planning</title>
-      <link>https://davidpaulius.github.io/tags/few-shot-planning/</link>
+      <title>foundation models</title>
+      <link>https://davidpaulius.github.io/tags/foundation-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/few-shot-planning/</guid>
+      <guid>https://davidpaulius.github.io/tags/foundation-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>grounding</title>
+      <link>https://davidpaulius.github.io/tags/grounding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/grounding/</guid>
       <description></description>
     </item>
     <item>
@@ -21,6 +28,55 @@
       <link>https://davidpaulius.github.io/tags/large-language-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>linear temporal logic</title>
+      <link>https://davidpaulius.github.io/tags/linear-temporal-logic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/linear-temporal-logic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LTL</title>
+      <link>https://davidpaulius.github.io/tags/ltl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/ltl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>natural language</title>
+      <link>https://davidpaulius.github.io/tags/natural-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/natural-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spatiotemporal grounding</title>
+      <link>https://davidpaulius.github.io/tags/spatiotemporal-grounding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/spatiotemporal-grounding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vision-language models</title>
+      <link>https://davidpaulius.github.io/tags/vision-language-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/vision-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>word embedding</title>
+      <link>https://davidpaulius.github.io/tags/word-embedding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/word-embedding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>few-shot planning</title>
+      <link>https://davidpaulius.github.io/tags/few-shot-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/few-shot-planning/</guid>
       <description></description>
     </item>
     <item>
@@ -196,13 +252,6 @@
       <link>https://davidpaulius.github.io/tags/video-understanding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/video-understanding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>word embedding</title>
-      <link>https://davidpaulius.github.io/tags/word-embedding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/word-embedding/</guid>
       <description></description>
     </item>
     <item>
