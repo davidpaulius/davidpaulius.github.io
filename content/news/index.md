@@ -22,7 +22,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-08-20</span>
         </td>
         <td>
-            <span> The<a href="https://leap-workshop.github.io/" target="_blank">2nd Workshop on Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2024 (to be held in Munich, Germany)!</span>
+            <span> The <a href="https://leap-workshop.github.io/" target="_blank">2nd Workshop on Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2024 (to be held in Munich, Germany)!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
