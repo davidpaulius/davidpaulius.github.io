@@ -14,13 +14,12 @@ hideSummary: false
 
 ## Random Facts about Me
 
-+ My favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game!
-    + I am a ***major*** fan of the Fire Emblem series (wonderful conversation starter for me).
++ I am a ***huge*** fan of the [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem) series.
+    + My website's favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game (Golden Deer house ftw)!
 
-+ Aside from the FE series, I enjoy other games like Final Fantasy (I've beat 1-6 and 13; 7-8 & 15 are WIP/imminent), Pokémon, Phoenix Wright, Sudoku, and Chess (unrated). I am a very casual gamer though.
-     + Currently playing ~~the Phoenix Wright games~~ Apollo Justice games!
++ Aside from the FE series, I enjoy other game series like [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) (I've beat 1-6 and 13; 7-8 & 15 are WIP/imminent), Pokémon, [Ace Attorney](https://en.wikipedia.org/wiki/Ace_Attorney), Sudoku, and Chess (unrated). I don't play games as often as I used to, but I still enjoy them casually.
 
-+ I love British comedy (think [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), etc.)
++ I love British comedy (my go-tos are [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), etc.)
 
 
 ---
@@ -33,7 +32,7 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 
 + Neil deGrasse Tyson (2020) -- [_Reflections on the Color of My Skin_](https://www.haydenplanetarium.org/tyson/commentary/2020-06-03-reflections-on-color-of-my-skin.php)
 
-    + In this article, Dr. Tyson reflects on current issues with Black discrimination from the lens of a prolific scientist.
+    + In this article, [Dr. Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson) reflects on current issues with Black discrimination from the lens of a prolific scientist.
 
 + People and AI Research (2020) -- [_Q&A: Sabelo Mhlambi on what AI can learn from Ubuntu ethics_](https://medium.com/people-ai-research/q-a-sabelo-mhlambi-on-what-ai-can-learn-from-ubuntu-ethics-4012a53ec2a6)
 
@@ -59,7 +58,7 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 #### Art & Media
 
 + Thomas Flight (2022) -- [_Why Donald Glover's Atlanta Feels So Weird_](https://youtu.be/8rOU9wrEsoo)
-    + Really amazing video that talks about why [_Atlanta_](https://en.wikipedia.org/wiki/Atlanta_(TV_series)) is such an amazing show, explaining how it falls under the genre of [Afro-surrealism](https://en.wikipedia.org/wiki/Afro-Surrealism).
+    + Really amazing video that talks about why [_Atlanta_](https://en.wikipedia.org/wiki/Atlanta_(TV_series)) is such an amazing show and explains its genre of [Afro-surrealism](https://en.wikipedia.org/wiki/Afro-Surrealism).
 
 + Adam Neely (2021) -- [_The most elegant key change in all of pop music_](https://www.youtube.com/watch?v=epqYft12nV4)
 
