@@ -5,17 +5,17 @@ hideMeta: true
 ---
 ### NOTE: Featured here are documents for Faculty Applications.
 
-#### Personal Research Goal
+#### My Role as an Academic
 
-My major take-away from a keynote speech by Dr. Wayne Book (Georgia Tech) at IROS 2016 was this: we as researchers should use our talents to help those in need. It was truly inspiring to hear someone successful in our field be so proud of their humanitarian efforts achieved through their work or influence.
+I seek to use my academic gifts and talents to solve every-day problems using *robotics and artificial intelligence (AI)*, particularly for peoples, communities or groups in need. Such robots must efficiently and safely operate around and collaborate with humans.
 
-I aim to use my researching ability and talents to solve problems for communities or groups in need. I will explore how robotic solutions can solve every-day problems, where robots can efficiently and safely operate and collaborate with humans.
+My journey into an academic role was inspired by my mentors (both in my undergraduate and graduate studies) as well as prominent researchers in robotics.
 
 ---
-##### Download:
-
-+ [Research Statement](https://drive.google.com/file/d/1axKImxdpir97FAmFjzKJi0FA3PPhDY15/view?usp=share_link)
-+ [Teaching Philosophy](https://drive.google.com/file/d/1zJzPoiHdhMoeNpDHPGx-_W_92V7r8_5L/view?usp=share_link)
-+ [Pledge to Diversity, Equity and Inclusion (a.k.a. Diversity Statement)](https://drive.google.com/file/d/1k6Z2MbCo8FoRIca4BFrGjQX4vn3GxeFq/view?usp=share_link)
+##### Links:
++ [Google Drive](https://drive.google.com/drive/folders/13UVGqM6mMjRFFWoM6DlpaAgxB3a3eglA?usp=sharing) with the following items:
+	+ [Research Statement](https://drive.google.com/file/d/1dZJGgj1guvmT2xBq8bHEQqWEeqVB8StY/view?usp=drive_link)
+	+ [Teaching Philosophy](https://drive.google.com/file/d/18ps5lDPPHRtAp0IJutC24m89z5jFnJeb/view?usp=drive_link)
+	+ [Pledge to Diversity, Equity and Inclusion (a.k.a. Diversity Statement)](https://drive.google.com/file/d/1d6QQEFp1B2rLgJi7IiWYvHOHNb8vAJ3W/view?usp=drive_link)
 
 ---
