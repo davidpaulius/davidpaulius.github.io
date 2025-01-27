@@ -58,8 +58,7 @@ params:
     profileMode:
           enabled: true
           title: "Hi, I am David (dah-veed):"
-          subtitle: "•	A roboticist from the Caribbean (<a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>🇰🇳</a>). 🦾🏝️<br>•	A postdoctoral researcher at Brown University. 🎓🐻<br><br>"
-          #  <h4>Note: I am on the job market! Looking for faculty jobs. ;)</h4>
+          subtitle: "•	A roboticist from the Caribbean (<a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>🇰🇳</a>). 🦾🏝️<br>•	A postdoctoral researcher at Brown University. 🎓🐻<br><br><h4>Note: I am on the job market! Looking for faculty jobs. ;)</h4>"
           imageUrl: "/imgs/profile.jpg"
           imageWidth: 200
           imageHeight: 200

@@ -1,5 +1,5 @@
 ---
-title: "Latest News"
+title: "Latest News & Timeline"
 description: "My Latest Updates"
 author: ["David Paulius"]
 hideMeta: true
@@ -11,10 +11,28 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-01-27</span>
+        </td>
+        <td>
+            <span>Our paper entitled <a href='{{< ref "./papers/ICRA-24.md" >}}'" target="_blank">Bootstrapping Object-level Planning with Large Language Models</a> has been accepted to ICRA 2025!
+            <ul style="margin-bottom:0px"><li>This paper will be featured at several upcoming workshops (<a href="https://llmforplanning.github.io/" target="_blank">LM4Plan 2025</a> and <a href="https://aair-lab.github.io/genplan25/" target="_blank">GenPlan 2025</a>).</li></ul></span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2024)">2024-11-06</span>
+        </td>
+        <td>
+            <span>I attended CoRL 2024 in Munich, Germany! Das war sehr toll und habe viel Spaß gemacht.<br>Thank you all to everyone who attended LEAP 2024!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2024)">2024-09-01</span>
         </td>
         <td>
-            <span>Our paper entitled <a href='{{< ref "./papers/IROS-24.md" >}}'" target="_blank">Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</a> has been accepted to IROS 2024!</span>
+            <span>Our paper entitled <a href='{{< ref "./papers/IROS-24.md" >}}'" target="_blank">Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</a> has been accepted to IROS 2024!
+            <ul style="margin-bottom:0px"><li>This paper will be featured at several upcoming workshops (<a href="https://semrob.github.io/" target="_blank">SemRob 2024</a>, <a href="https://sites.google.com/view/aaai-ur-rad-symposium/home" target="_blank">URAD 2024</a>, <a href="https://leap-workshop.github.io/" target="_blank">LEAP 2024</a>, <a href="https://aair-lab.github.io/genplan25/" target="_blank">GenPlan 2025</a>).</li></ul></span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -22,7 +40,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2024)">2024-08-20</span>
         </td>
         <td>
-            <span> The <a href="https://leap-workshop.github.io/" target="_blank">2nd Workshop on Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2024 (to be held in Munich, Germany)!</span>
+            <span> The <a href="https://leap-workshop.github.io/" target="_blank">2nd Workshop on Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2024!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -86,7 +104,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2023)">2023-11-04</span>
         </td>
         <td>
-            <span>I attended CoRL 2023 in Atlanta, GA, USA. I co-organized the <a href="https://leap-workshop.github.io/" target="_blank">1st Workshop on Learning Effective Abstractions for Planning</a>.</span>
+            <span>I attended CoRL 2023 in Atlanta, GA, USA. I co-organized the <a href="https://leap-workshop.github.io/leap2023.html" target="_blank">1st Workshop on Learning Effective Abstractions for Planning</a>.</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
@@ -102,7 +120,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2023)">2023-06-30</span>
         </td>
         <td>
-            <span> Our workshop on <a href="https://leap-workshop.github.io/" target="_blank">Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2023!</span>
+            <span> Our workshop on <a href="https://leap-workshop.github.io/leap2023.html" target="_blank">Learning Effective Abstractions for Planning (LEAP)</a> has been accepted to CoRL 2023!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
