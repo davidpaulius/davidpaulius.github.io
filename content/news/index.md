@@ -14,7 +14,7 @@ disableAnchoredHeadings: false
             <span class="date" style="background:var(--2025)">2025-01-27</span>
         </td>
         <td>
-            <span>Our paper entitled <a href='{{< ref "./papers/ICRA-24.md" >}}'" target="_blank">Bootstrapping Object-level Planning with Large Language Models</a> has been accepted to ICRA 2025!
+            <span>Our paper entitled <a href='{{< ref "./papers/ICRA-25.md" >}}'" target="_blank">Bootstrapping Object-level Planning with Large Language Models</a> has been accepted to ICRA 2025!
             <ul style="margin-bottom:0px"><li>This paper will be featured at several upcoming workshops (<a href="https://llmforplanning.github.io/" target="_blank">LM4Plan 2025</a> and <a href="https://aair-lab.github.io/genplan25/" target="_blank">GenPlan 2025</a>).</li></ul></span>
         </td>
     </tr>
