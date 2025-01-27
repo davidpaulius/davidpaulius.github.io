@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
     <copyright>2024 David Paulius</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrapping Object-level Planning with Large Language Models</title>
+      <link>https://davidpaulius.github.io/papers/olp-icra25/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/olp-icra25/</guid>
+      <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLM).</description>
+    </item>
     <item>
       <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
       <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>

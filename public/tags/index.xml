@@ -7,8 +7,57 @@
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
     <copyright>2024 David Paulius</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>large language models</title>
+      <link>https://davidpaulius.github.io/tags/large-language-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://davidpaulius.github.io/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>motion planning</title>
+      <link>https://davidpaulius.github.io/tags/motion-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/motion-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>object-level planning</title>
+      <link>https://davidpaulius.github.io/tags/object-level-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/object-level-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>robot simulation</title>
+      <link>https://davidpaulius.github.io/tags/robot-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/robot-simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>task and motion planning</title>
+      <link>https://davidpaulius.github.io/tags/task-and-motion-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/task-and-motion-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>task planning</title>
+      <link>https://davidpaulius.github.io/tags/task-planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/task-planning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>foundation models</title>
       <link>https://davidpaulius.github.io/tags/foundation-models/</link>
@@ -21,13 +70,6 @@
       <link>https://davidpaulius.github.io/tags/grounding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/grounding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>large language models</title>
-      <link>https://davidpaulius.github.io/tags/large-language-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/large-language-models/</guid>
       <description></description>
     </item>
     <item>
@@ -80,24 +122,10 @@
       <description></description>
     </item>
     <item>
-      <title>LLM</title>
-      <link>https://davidpaulius.github.io/tags/llm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>re-planning</title>
       <link>https://davidpaulius.github.io/tags/re-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/re-planning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>task planning</title>
-      <link>https://davidpaulius.github.io/tags/task-planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/task-planning/</guid>
       <description></description>
     </item>
     <item>
@@ -143,24 +171,10 @@
       <description></description>
     </item>
     <item>
-      <title>object-level planning</title>
-      <link>https://davidpaulius.github.io/tags/object-level-planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/object-level-planning/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>TAMP</title>
       <link>https://davidpaulius.github.io/tags/tamp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/tamp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>task and motion planning</title>
-      <link>https://davidpaulius.github.io/tags/task-and-motion-planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/task-and-motion-planning/</guid>
       <description></description>
     </item>
     <item>
