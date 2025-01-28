@@ -6,7 +6,7 @@
     <description>Recent content in Papers on David Paulius, Ph.D. | Personal Website</description>
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
-    <copyright>2024 David Paulius</copyright>
+    <copyright>2025 David Paulius</copyright>
     <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,7 +14,7 @@
       <link>https://davidpaulius.github.io/papers/olp-icra25/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/olp-icra25/</guid>
-      <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLM).</description>
+      <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs).</description>
     </item>
     <item>
       <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
@@ -73,7 +73,7 @@
       <description>TL;DR &amp;ndash; In this paper, we attempt to execute task plan sequences extracted from FOONs. However, these sequences may contain actions that are not executable by a robot. Therefore, a human is introduced in the planning and execution loop, and both the robot and human assistant work together to solve the task.</description>
     </item>
     <item>
-      <title>Estimating Motion Codes from Demonstration Videos</title>
+      <title>Developing Motion Code Embedding for Action Recognition in Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</guid>

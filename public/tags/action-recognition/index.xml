@@ -6,11 +6,11 @@
     <description>Recent content in action recognition on David Paulius, Ph.D. | Personal Website</description>
     <generator>Hugo -- 0.115.4</generator>
     <language>en</language>
-    <copyright>2024 David Paulius</copyright>
+    <copyright>2025 David Paulius</copyright>
     <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/action-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Estimating Motion Codes from Demonstration Videos</title>
+      <title>Developing Motion Code Embedding for Action Recognition in Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</guid>

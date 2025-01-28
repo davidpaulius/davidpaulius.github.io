@@ -1,5 +1,5 @@
 ---
-title: "Estimating Motion Codes from Demonstration Videos"
+title: "Developing Motion Code Embedding for Action Recognition in Videos"
 date: 2021-01-10
 url: "/papers/motion_codes_ICPR20/"
 tags: ["motion taxonomy", "motion codes", "action recognition", "video understanding"]
