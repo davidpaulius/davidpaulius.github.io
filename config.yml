@@ -74,16 +74,16 @@ params:
               url: /etcetera/
 
     socialIcons:
-        # - name: "email"
-        #   url: "mailto:dpaulius@cs.brown.edu"
         - name: "cv"
           url: "/cv/"
         - name: "gitHub"
           url: "https://github.com/davidpaulius"
+        - name: "orcid"
+          url: "https://orcid.org/0000-0002-7891-8749"
         - name: "googlescholar"
           url: "https://scholar.google.com/citations?user=aMxXkWkAAAAJ&hl=en"
-        # - name: "x"
-        #   url: "https://www.x.com/davidpaulius"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/david-paulius/"
         - name: "letterboxd"
           url: "https://letterboxd.com/davi_duck/"
 
