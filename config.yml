@@ -64,9 +64,9 @@ params:
           imageHeight: 200
           imageTitle: "Profile Picture of David Paulius"
           buttons:
-            - name: "News"
+            - name: "Latest News"
               url: /news/
-            - name: "Papers"
+            - name: "Recent Papers"
               url: /papers/
             # - name: "Academia"
             #   url: /academia/
