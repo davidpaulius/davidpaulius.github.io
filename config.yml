@@ -82,8 +82,8 @@ params:
           url: "https://github.com/davidpaulius"
         - name: "googlescholar"
           url: "https://scholar.google.com/citations?user=aMxXkWkAAAAJ&hl=en"
-        - name: "x"
-          url: "https://www.x.com/davidpaulius"
+        # - name: "x"
+        #   url: "https://www.x.com/davidpaulius"
         - name: "letterboxd"
           url: "https://letterboxd.com/davi_duck/"
 
