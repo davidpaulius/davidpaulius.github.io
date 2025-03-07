@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="description"
-        content="FOON-LHPE: Supplementary materials for Long-Horizon Planning and Execution with Functional Object-Oriented Networks">
+        content="ICRA-25: Bootstrapping Object-Level Planning with Large Language Models">
     <meta name="keywords" content="FOON, functional object-oriented networks, foonets">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -145,103 +145,30 @@
                     <h2 class="title is-3">Summary Video</h2>
                     <video poster="" id="summary" autoplay controls muted loop playsinline allowfullscreen height="100%"
                         style="border: 2px solid #000000;">
-                        <source src="./demos/summary.mp4" type="video/mp4">
+                        <source src="./demos/ICRA25_summary.mp4" type="video/mp4">
                     </video>
                 </div>
             </div>
-            <!--/ Paper video. -->
-            <br>
-            <br>
-            <!-- Paper video. -->
-            <div class="columns is-centered has-text-centered">
-                <div class="column is-four-fifths">
-                    <h2 class="title is-3">Overview of Webpage</h2>
-                    <p>
-                        Below you will find some videos for experimental results from <b>Section V</b> of our paper.
-                    </p>
-                    <p>
-                        Other materials can be found in our <a
-                            href="https://drive.google.com/drive/folders/1KTG8wWEMkqC8YGPwwsiNafkuGs5ruSxx"
-                            target="_blank">Google Drive</a>.
-                    </p>
-                </div>
-            </div>
-
         </div>
     </section>
-
-    <br>
-    <br>
 
     <section class="section">
         <div class="container is-max-desktop">
             <div class="columns is-centered has-text-centered">
                 <div class="column is-four-fifths">
-                    <h2 class="title is-3">Qualitative Examples: Micro-Plan Variety<br>(Section V-B)</h2>
+                    <h2 class="title is-3">Sample Code</h2>
                     <div class="content has-text-justified">
                         <p>
-                            In <b>Section V-B</b>, our goal is to show how our approach produces micro-plans that adapt
-                            to the configuration of the environment.
-                            It is important to note here that these plans are derived directly from the Fast-Downward
-                            planner,
-                            and we do not handcraft these plans as would be needed for hierarchical task networks (HTN).
+                            We provide a <a href="https://github.com/davidpaulius/olp_llm/blob/main/ICRA25_pipeline.ipynb" target="_blank">Jupyter Notebook file</a> in
+                            our <a href="https://github.com/davidpaulius/olp_llm/" target="_blank">GitHub repository</a>, which you can use to test our object-level planning method
+                            as well as implementations of the baselines implemented in our work. You will however need to have a valid OpenAI API key on your machine to access GPT-4.0!
                         </p>
                         <p>
-                            Below are videos corresponding to <b>Figure 7</b> in the paper.
-                            Each video is a solution to a single functional unit or macro-planning operator. Notably,
-                            each execution varies due to the state of the robot's environment.
+                            In order to see robot execution, you will also need to set up CoppeliaSim and its corresponding Python API.
+                            Read more <a href="https://manual.coppeliarobotics.com/en/zmqRemoteApiOverview.htm" target="_blank">here</a>.
+                            If you are interested in using the OMPL method implemented for this work, please refer to this
+                            <a href="https://github.com/davidpaulius/OMPLement" target="_blank">repository</a>.
                         </p>
-                    </div>
-                </div>
-            </div>
-    </section>
-
-    <section class="hero is-light is-small" align="center">
-        <div class="hero-body" style="background-color:#455f79">
-            <div class="container">
-                <h3 class="title is-4" style="color:#ffffff">Micro-Plan Variations</h3>
-                <div id="results-carousel" class="carousel results-carousel">
-                    <div class="item item-salad-1" style="background-color:#111111">
-                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Salad Config #1: Pick-and-Place Tomato</h4>
-                        <video poster="" id="salad-1" controls autoplay muted loop playsinline allowfullscreen
-                            height="100%">
-                            <source src="./demos/experiment_1/pick_and_place_tomato_1.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="item item-salad-2" style="background-color:#111111">
-                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Salad Config #2: Pick-and-Place Tomato</h4>
-                        <video poster="" id="salad-2" controls autoplay muted loop playsinline allowfullscreen
-                            height="100%">
-                            <source src="./demos/experiment_1/pick_and_place_tomato_2.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="item item-salad-3" style="background-color:#111111">
-                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Salad Config #3: Pick-and-Place Tomato</h4>
-                        <video poster="" id="salad-3" controls autoplay muted loop playsinline allowfullscreen
-                            height="100%">
-                            <source src="./demos/experiment_1/pick_and_place_tomato_3.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="item item-cocktail-1" style="background-color:#111111">
-                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Cocktail Config #1: Pour Lemon Juice</h4>
-                        <video poster="" id="cocktail-1" controls autoplay muted loop playsinline allowfullscreen
-                            height="100%">
-                            <source src="./demos/experiment_1/pour_lemon_juice_1.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="item item-cocktail-2" style="background-color:#111111">
-                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Cocktail Config #2: Pour Lemon Juice</h4>
-                        <video poster="" id="cocktail-2" controls autoplay muted loop playsinline allowfullscreen
-                            height="100%">
-                            <source src="./demos/experiment_1/pour_lemon_juice_2.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="item item-cocktail-3" style="background-color:#111111">
-                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Cocktail Config #3: Pour Lemon Juice</h4>
-                        <video poster="" id="cocktail-3" controls autoplay muted loop playsinline allowfullscreen
-                            height="100%">
-                            <source src="./demos/experiment_1/pour_lemon_juice_3.mp4" type="video/mp4">
-                        </video>
                     </div>
                 </div>
             </div>
@@ -249,79 +176,33 @@
     </section>
 
     <br>
-    <br>
 
-    <section class="section">
+    <section class="section" style="background-color:#345b33">
         <div class="container is-max-desktop">
             <div class="columns is-centered has-text-centered">
                 <div class="column is-four-fifths">
-                    <h2 class="title is-3">Qualitative Examples: Long-Horizon Execution<br>(Section V-C)</h2>
-                    <div class="content has-text-justified">
-                        <p>
-                            We show some examples of <i>whole recipe execution</i> and <i>partial recipe execution</i>
-                            for the Bloody Mary cocktail and Greek salad recipes.
-                            A simulated robot uses a total of 703 action contexts (635 from the cocktail scenario + 68
-                            from the salad scenario) learned from demonstration.
-                        </p>
-                        <p>
-                            In the <i>cocktail</i> task, robot execution was <b>96% successful for whole execution</b>
-                            and <b>92% for partial execution</b>;
-                            in the <i>salad</i> task, robot execution was <b>80% successful for whole execution</b> and
-                            <b>84% for partial execution</b>.
-                        </p>
-                        <p>
-                            <b>Note:</b> Micro-plans can be opened with a text editor.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <br>
-
-    <section class="section" style="background-color:#33475b">
-
-        <div class="container is-max-desktop">
-            <div class="columns is-centered has-text-centered">
-                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Demonstration Examples</h2>
                     <div class="content" align="center">
-                        <h3 class="title is-5" style="color:#ffffff">Whole Recipe (Salad)</h3>
-                        <video poster="" id="salad_whole" controls autoplay muted loop playsinline allowfullscreen
+                        <h3 class="title is-5" style="color:#ffffff">Making a Tower of 7 Blocks</h3>
+                        <video poster="" id="towers" controls autoplay muted loop playsinline allowfullscreen
                             height="90%">
-                            <source src="./demos/experiment_2/salad_whole.mp4" type="video/mp4">
+                            <source src="./demos/ICRA25_towers_demo.mp4" type="video/mp4">
                         </video>
-                        <br>
-                        <p>
-                            <a href="https://drive.google.com/file/d/1c6Q0saGRI-UxNGWSv2lj0jlwpMkM-5M3/view"
-                                target="_blank">[Whole
-                                Salad Micro-plan]</a>
-                        </p>
                     </div>
 
                     <div class="content" align="center">
-                        <h3 class="title is-5" style="color:#ffffff">Whole Recipe (Cocktail)</h3>
-                        <video poster="" id="cocktail_whole" controls autoplay muted loop playsinline allowfullscreen
+                        <h3 class="title is-5" style="color:#ffffff">Spelling "UPPERCUT"</h3>
+                        <video poster="" id="spelling" controls autoplay muted loop playsinline allowfullscreen
                             height="90%">
-                            <source src="./demos/experiment_2/cocktail_whole.mp4" type="video/mp4">
+                            <source src="./demos/ICRA25_spelling_demo.mp4" type="video/mp4">
                         </video>
-                        <br>
-                        <p>
-                            <a href="https://drive.google.com/file/d/1C9QttYrPJe3___yWBClkDbk2GiGPRQzL/view"
-                                target="_blank">[Whole
-                                Cocktail Micro-plan]</a>
-                        </p>
                     </div>
                     <div class="content" align="center">
-                        <h3 class="title is-5" style="color:#ffffff">Partial Recipe (Cocktail)</h3>
-                        <video poster="" id="cocktail_partial" controls autoplay muted loop playsinline allowfullscreen
+                        <h3 class="title is-5" style="color:#ffffff">Organizing Table (4 block types, 3 instances each)</h3>
+                        <video poster="" id="organize" controls autoplay muted loop playsinline allowfullscreen
                             height="90%">
-                            <source src="./demos/experiment_2/cocktail_partial.mp4" type="video/mp4">
+                            <source src="./demos/ICRA25_organize_demo.mp4" type="video/mp4">
                         </video>
-                        <br>
-                        <p>
-                            <a href="https://drive.google.com/file/d/1-tVVyBPsgfICJkmszpkWh-nXLHkr1Ovg/view"
-                                target="_blank">[Partial Cocktail Micro-plan]</a>
-                        </p>
                     </div>
                 </div>
             </div>
