@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description"
+        content="FOON-LHPE: Supplementary materials for Long-Horizon Planning and Execution with Functional Object-Oriented Networks">
+    <meta name="keywords" content="FOON, functional object-oriented networks, foonets">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ICRA-25: Bootstrapping Object-Level Planning with Large Language Models</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+    <link rel="stylesheet" href="../nerfies.github.io/css/bulma.min.css">
+    <link rel="stylesheet" href="../nerfies.github.io/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="../nerfies.github.io/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="../nerfies.github.io/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="../nerfies.github.io/css/index.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚠</text></svg>">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script defer src="../nerfies.github.io/js/fontawesome.all.min.js"></script>
+    <script src="../nerfies.github.io/js/bulma-carousel.min.js"></script>
+    <script src="../nerfies.github.io/js/bulma-slider.min.js"></script>
+    <script src="..nerfies.github.io/js/index.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+                <a class="navbar-item" href="https://davidpaulius.github.io">
+                    <span class="icon"><i class="fas fa-home"></i></span>
+                </a>
+            </div>
+
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-body">
+            <div class="container is-max-desktop">
+                <div class="columns is-centered">
+                    <div class="column has-text-centered">
+                        <h1 class="title is-1 publication-title">Bootstrapping Object-Level Planning with Large Language Models</h1>
+
+                        <h1 class="title is-5 publication-title">Featured in ICRA 2025</a></h1>
+
+                        <div class="is-size-5 publication-authors">
+                            <span class="author-block"><a href="https://davidpaulius.github.io">David Paulius</a><sup>1</sup></span>,
+                            <span class="author-block"><a href="https://iis.uibk.ac.at/people/agostini">Alejandro Agostini</a><sup>2</sup></span>,
+                            <span class="author-block"><a href="https://benedictquartey.github.io/">Benedict Quartey</a><sup>1</sup></span>,
+                            <span class="author-block"><a href="https://cs.brown.edu/people/gdk/">George Konidaris</a><sup>1</sup></span>
+                        </div>
+
+                        <div class="is-size-6 publication-authors">
+                            <span class="author-block"><sup>1</sup>Brown University</span>
+                            <span class="author-block"><sup>2</sup>Universität Innsbruck</span>
+                        </div>
+
+                        <div class="is-size-7 publication-authors">
+                            This work was supported by the Office of Naval Research (ONR) under the REPRISM MURI N000142412603,
+                            ONR grants N00014-21-1-2584 and N00014-22-1-2592, Echo Labs, and the Austrian Science Fund (FWF) Project P36965 [DOI: 10.55776/P36965].
+                            Partial funding for this work was provided by The Robotics and AI Institute (formerly "The AI Institute").
+                        </div>
+
+                        <div class="column has-text-centered">
+                            <div class="publication-links">
+                                <!-- PDF Link. -->
+                                <span class="link-block">
+                                    <a href="https://arxiv.org/pdf/2409.12262"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon"><i class="fas fa-file-pdf"></i>
+                                        </span><span>Paper</span>
+                                    </a>
+                                </span>
+                                <span class="link-block">
+                                    <a href="https://arxiv.org/abs/2409.12262"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon"><i class="ai ai-arxiv"></i>
+                                        </span><span>arXiv</span>
+                                    </a>
+                                </span>
+                                <!-- Video Link. -->
+                                <span class="link-block">
+                                    <a href="https://github.com/davidpaulius/olp_llm"
+                                        target="_blank" class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon"><i class="fab fa-github"></i>
+                                        </span><span>Code</span>
+                                    </a>
+                                </span>
+                                <span class="link-block">
+                                    <a href="https://drive.google.com/file/d/1poibjI7UI_AOVa81F-yF5ImM4FouEAnc/view"
+                                        target="_blank" class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon"><i class="fab fa-youtube"></i>
+                                        </span><span>Video</span>
+                                    </a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <!-- Abstract. -->
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Abstract</h2>
+                    <div class="content has-text-justified">
+                        <p>
+                            We introduce a new method that extracts knowledge from a large language model (LLM) to produce
+                            <a href="https://openreview.net/forum?id=YfjoSxZekWW" target="_blank">object-level plans</a>,
+                            which describe high-level changes to object state, and uses them to bootstrap task and motion planning (TAMP).
+                            Existing work uses LLMs to directly output task plans or generate goals in representations like PDDL.
+                            However, these methods fall short because they rely on the LLM to do the actual planning or output a hard-to-satisfy goal.
+                            Our approach instead extracts knowledge from an LLM in the form of plan schemas as an object-level representation
+                            called functional object-oriented networks (FOON), from which we automatically generate PDDL subgoals.
+                            Our method markedly outperforms alternative planning strategies across several pick-place tasks in simulation.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--/ Abstract. -->
+            <br>
+            <br>
+            <!-- Paper video. -->
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Summary Video</h2>
+                    <video poster="" id="summary" autoplay controls muted loop playsinline allowfullscreen height="100%"
+                        style="border: 2px solid #000000;">
+                        <source src="./demos/summary.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+            <!--/ Paper video. -->
+            <br>
+            <br>
+            <!-- Paper video. -->
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Overview of Webpage</h2>
+                    <p>
+                        Below you will find some videos for experimental results from <b>Section V</b> of our paper.
+                    </p>
+                    <p>
+                        Other materials can be found in our <a
+                            href="https://drive.google.com/drive/folders/1KTG8wWEMkqC8YGPwwsiNafkuGs5ruSxx"
+                            target="_blank">Google Drive</a>.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <br>
+    <br>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Qualitative Examples: Micro-Plan Variety<br>(Section V-B)</h2>
+                    <div class="content has-text-justified">
+                        <p>
+                            In <b>Section V-B</b>, our goal is to show how our approach produces micro-plans that adapt
+                            to the configuration of the environment.
+                            It is important to note here that these plans are derived directly from the Fast-Downward
+                            planner,
+                            and we do not handcraft these plans as would be needed for hierarchical task networks (HTN).
+                        </p>
+                        <p>
+                            Below are videos corresponding to <b>Figure 7</b> in the paper.
+                            Each video is a solution to a single functional unit or macro-planning operator. Notably,
+                            each execution varies due to the state of the robot's environment.
+                        </p>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <section class="hero is-light is-small" align="center">
+        <div class="hero-body" style="background-color:#455f79">
+            <div class="container">
+                <h3 class="title is-4" style="color:#ffffff">Micro-Plan Variations</h3>
+                <div id="results-carousel" class="carousel results-carousel">
+                    <div class="item item-salad-1" style="background-color:#111111">
+                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Salad Config #1: Pick-and-Place Tomato</h4>
+                        <video poster="" id="salad-1" controls autoplay muted loop playsinline allowfullscreen
+                            height="100%">
+                            <source src="./demos/experiment_1/pick_and_place_tomato_1.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="item item-salad-2" style="background-color:#111111">
+                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Salad Config #2: Pick-and-Place Tomato</h4>
+                        <video poster="" id="salad-2" controls autoplay muted loop playsinline allowfullscreen
+                            height="100%">
+                            <source src="./demos/experiment_1/pick_and_place_tomato_2.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="item item-salad-3" style="background-color:#111111">
+                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Salad Config #3: Pick-and-Place Tomato</h4>
+                        <video poster="" id="salad-3" controls autoplay muted loop playsinline allowfullscreen
+                            height="100%">
+                            <source src="./demos/experiment_1/pick_and_place_tomato_3.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="item item-cocktail-1" style="background-color:#111111">
+                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Cocktail Config #1: Pour Lemon Juice</h4>
+                        <video poster="" id="cocktail-1" controls autoplay muted loop playsinline allowfullscreen
+                            height="100%">
+                            <source src="./demos/experiment_1/pour_lemon_juice_1.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="item item-cocktail-2" style="background-color:#111111">
+                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Cocktail Config #2: Pour Lemon Juice</h4>
+                        <video poster="" id="cocktail-2" controls autoplay muted loop playsinline allowfullscreen
+                            height="100%">
+                            <source src="./demos/experiment_1/pour_lemon_juice_2.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="item item-cocktail-3" style="background-color:#111111">
+                        <h4 class="title is-6" style="color:#ffffff;font-weight:lighter;font-style:italic;">Cocktail Config #3: Pour Lemon Juice</h4>
+                        <video poster="" id="cocktail-3" controls autoplay muted loop playsinline allowfullscreen
+                            height="100%">
+                            <source src="./demos/experiment_1/pour_lemon_juice_3.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <br>
+    <br>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-3">Qualitative Examples: Long-Horizon Execution<br>(Section V-C)</h2>
+                    <div class="content has-text-justified">
+                        <p>
+                            We show some examples of <i>whole recipe execution</i> and <i>partial recipe execution</i>
+                            for the Bloody Mary cocktail and Greek salad recipes.
+                            A simulated robot uses a total of 703 action contexts (635 from the cocktail scenario + 68
+                            from the salad scenario) learned from demonstration.
+                        </p>
+                        <p>
+                            In the <i>cocktail</i> task, robot execution was <b>96% successful for whole execution</b>
+                            and <b>92% for partial execution</b>;
+                            in the <i>salad</i> task, robot execution was <b>80% successful for whole execution</b> and
+                            <b>84% for partial execution</b>.
+                        </p>
+                        <p>
+                            <b>Note:</b> Micro-plans can be opened with a text editor.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br>
+
+    <section class="section" style="background-color:#33475b">
+
+        <div class="container is-max-desktop">
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <div class="content" align="center">
+                        <h3 class="title is-5" style="color:#ffffff">Whole Recipe (Salad)</h3>
+                        <video poster="" id="salad_whole" controls autoplay muted loop playsinline allowfullscreen
+                            height="90%">
+                            <source src="./demos/experiment_2/salad_whole.mp4" type="video/mp4">
+                        </video>
+                        <br>
+                        <p>
+                            <a href="https://drive.google.com/file/d/1c6Q0saGRI-UxNGWSv2lj0jlwpMkM-5M3/view"
+                                target="_blank">[Whole
+                                Salad Micro-plan]</a>
+                        </p>
+                    </div>
+
+                    <div class="content" align="center">
+                        <h3 class="title is-5" style="color:#ffffff">Whole Recipe (Cocktail)</h3>
+                        <video poster="" id="cocktail_whole" controls autoplay muted loop playsinline allowfullscreen
+                            height="90%">
+                            <source src="./demos/experiment_2/cocktail_whole.mp4" type="video/mp4">
+                        </video>
+                        <br>
+                        <p>
+                            <a href="https://drive.google.com/file/d/1C9QttYrPJe3___yWBClkDbk2GiGPRQzL/view"
+                                target="_blank">[Whole
+                                Cocktail Micro-plan]</a>
+                        </p>
+                    </div>
+                    <div class="content" align="center">
+                        <h3 class="title is-5" style="color:#ffffff">Partial Recipe (Cocktail)</h3>
+                        <video poster="" id="cocktail_partial" controls autoplay muted loop playsinline allowfullscreen
+                            height="90%">
+                            <source src="./demos/experiment_2/cocktail_partial.mp4" type="video/mp4">
+                        </video>
+                        <br>
+                        <p>
+                            <a href="https://drive.google.com/file/d/1-tVVyBPsgfICJkmszpkWh-nXLHkr1Ovg/view"
+                                target="_blank">[Partial Cocktail Micro-plan]</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <br>
+    <br>
+
+    <section class="section" id="BibTeX">
+        <div class="container is-max-desktop content" align="center">
+            <h2 class="title">BibTeX</h2>
+            <div align="left">
+                <pre><code>@inproceedings{paulius2025olp,
+    title={\href{https://arxiv.org/abs/2409.12262}{Bootstrapping Object-Level Planning with Large Language Models}},
+    author={Paulius, David and Agostini, Alejandro and Quartey, Benedict and Konidaris, George},
+    booktitle={Proceedings of the 2025 IEEE International Conference on Robotics and Automation (ICRA)},
+    year={2025}
+}</code></pre>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="footer">
+        <div class="container">
+            <div class="columns is-centered">
+                <div class="column">
+                    <div class="content has-text-centered">
+                        <p>
+                            Website template borrowed from <a
+                                href="https://github.com/nerfies/nerfies.github.io">NeRFies</a>
+                            made by the amazing <a href="https://keunhong.com/">Keunhong Park</a>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
