@@ -11,6 +11,14 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-03-15</span>
+        </td>
+        <td>
+            <span>I am honoured to serve as an Area Chair for <a href="https://www.corl.org/" target="_blank">CoRL (Conference on Robot Learning) 2025</a>!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-01-27</span>
         </td>
         <td>
