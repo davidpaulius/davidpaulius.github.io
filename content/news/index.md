@@ -11,6 +11,14 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-03-21</span>
+        </td>
+        <td>
+            <span> The <a href="https://sites.google.com/view/rss2025-reliable-robotics/" target="_blank">1st Workshop on Reliable Robotics: Safety and Security in the Face of GenAI</a> has been accepted to RSS 2025!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-03-15</span>
         </td>
         <td>
