@@ -17,9 +17,10 @@ summary: "TL;DR -- This paper formalizes the concept of object-level planning an
 
 #### Related Links:
 
++ [Website](https://davidpaulius.github.io/olp_llm/)
++ [GitHub Repository](https://github.com/davidpaulius/olp_llm)
 + Paper:
   + [arXiv (best version)](https://arxiv.org/abs/2409.12262)
-
 ---
 
 #### NOTES
@@ -34,5 +35,5 @@ summary: "TL;DR -- This paper formalizes the concept of object-level planning an
 
 #### Citation
 
-D. Paulius, A. Agostini, B. Quartey, G. Konidaris (2025). " Bootstrapping Object-level Planning with Large Language Models". In: *2025 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE.
+D. Paulius, A. Agostini, B. Quartey, G. Konidaris (2025). "Bootstrapping Object-level Planning with Large Language Models". In: *Proceedings of the 2025 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE.
 
