@@ -11,6 +11,22 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-05-20</span>
+        </td>
+        <td>
+            <span> I attended ICRA 2025 in Atlanta, GA, USA!<ul style="margin-bottom:0px"><li>I attended the <a href="https://dyalab.mines.edu/2025/icra-workshop/" target="_blank">ICRA 2025 Workshop on the Language and Semantics of Task and Motion Planning</a>, where our recent work on <a href='{{< ref "./papers/ICRA-25.md" >}}'" target="_blank">language models for object-level planning</a> and <a href="https://dyalab.mines.edu/2025/icra-workshop/16.pdf" target="_blank">SkillWrapper</a>!</li><li><a href="https://dyalab.mines.edu/2025/icra-workshop/16.pdf" target="_blank">SkillWrapper: Autonomously Learning Interpretable Skill Abstractions with Foundation Models</a> received the Best Poster Award at the ICRA 2025 TAMP workshop!</li></ul></span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
+            <span class="date" style="background:var(--2025)">2025-05-05</span>
+        </td>
+        <td>
+            <span> I gave a research talk at McGill University!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-04-20</span>
         </td>
         <td>
