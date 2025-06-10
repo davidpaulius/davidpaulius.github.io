@@ -6,10 +6,10 @@ tags: ["task planning", "large language models","LLM","re-planning", "few-shot p
 author: ["Shreyas Sundara Raman", "Vanya Cohen", "Ifrah Idrees", "Eric Rosen", "Ray Mooney", "Stefanie Tellex", "David Paulius"]
 description: ""
 summary: "TL;DR -- In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors."
-# cover:
-#     image: "/1.png"
-#     alt: "Rationing and frictional unemployment in the United States, 1964–2009"
-#     relative: false
+cover:
+    image: "/imgs/ICRA24_CAPE_process.png"
+    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
+    relative: false
 # editPost:
 #     URL: "https://davidpaulius.github.io/foon-lhpe/"
 #     Text: "Webpage"

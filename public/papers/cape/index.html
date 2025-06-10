@@ -8,9 +8,9 @@
 <title>CAPE: Corrective Actions from Precondition Errors using Large Language Models | David Paulius, Ph.D. | Personal Website</title>
 <meta name="keywords" content="task planning, large language models, LLM, re-planning, few-shot planning">
 <meta name="description" content="TL;DR &ndash; In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors.">
-<meta name="author" content="Shreyas Sundara Raman,&thinsp;Vanya Cohen,&thinsp;Ifrah Idrees,&thinsp;Eric Rosen,&thinsp;Ray Mooney,&thinsp;Stefanie Tellex,&thinsp;David Paulius">
+<meta name="author" content="Shreyas Sundara Raman, Vanya Cohen, Ifrah Idrees, Eric Rosen, Ray Mooney, Stefanie Tellex, David Paulius">
 <link rel="canonical" href="https://davidpaulius.github.io/papers/cape/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.6e5c6530729a34debe4ffe1bfc6776eb35bca44c4207bedf07473754b11a2df7.css" integrity="sha256-blxlMHKaNN6&#43;T/4b/Gd26zW8pExCB77fB0c3VLEaLfc=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.1488dce2209b7f539dd94e1128238c7b4ad5fd6c5afae8a0a1c14408c0d09af0.css" integrity="sha256-FIjc4iCbf1Od2U4RKCOMe0rV/Wxa&#43;uigocFECMDQmvA=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://davidpaulius.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://davidpaulius.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://davidpaulius.github.io/favicon-32x32.png">
@@ -18,6 +18,7 @@
 
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://davidpaulius.github.io/papers/cape/">
 <script src="/js/scramble.js"></script>
 
 <noscript>
@@ -56,16 +57,25 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="CAPE: Corrective Actions from Precondition Errors using Large Language Models" />
-<meta property="og:description" content="TL;DR &ndash; In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://davidpaulius.github.io/papers/cape/" /><meta property="article:section" content="papers" />
-<meta property="article:published_time" content="2024-01-01T00:00:00+00:00" />
-<meta property="article:modified_time" content="2024-01-01T00:00:00+00:00" />
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="CAPE: Corrective Actions from Precondition Errors using Large Language Models"/>
-<meta name="twitter:description" content="TL;DR &ndash; In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors."/>
+</noscript><meta property="og:url" content="https://davidpaulius.github.io/papers/cape/">
+  <meta property="og:site_name" content="David Paulius, Ph.D. | Personal Website">
+  <meta property="og:title" content="CAPE: Corrective Actions from Precondition Errors using Large Language Models">
+  <meta property="og:description" content="TL;DR – In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="papers">
+    <meta property="article:published_time" content="2024-01-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-01-01T00:00:00+00:00">
+    <meta property="article:tag" content="Task Planning">
+    <meta property="article:tag" content="Large Language Models">
+    <meta property="article:tag" content="LLM">
+    <meta property="article:tag" content="Re-Planning">
+    <meta property="article:tag" content="Few-Shot Planning">
+    <meta property="og:image" content="https://davidpaulius.github.io/imgs/ICRA24_CAPE_process.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://davidpaulius.github.io/imgs/ICRA24_CAPE_process.png">
+<meta name="twitter:title" content="CAPE: Corrective Actions from Precondition Errors using Large Language Models">
+<meta name="twitter:description" content="TL;DR &ndash; In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors.">
 
 
 <script type="application/ld+json">
@@ -101,7 +111,7 @@
   "articleBody": "Related Links: Webpage with Supplementary Materials Paper: arXiv (best version) Previous version (FMDM @ NeurIPS 2022) NOTES In this paper, we introduce CAPE: an approach to address errors encountered by a robot or agent when executing a plan. We use large language models (LLM) to perform planning and to infer the causes of errors. We assume that these errors lie in preconditions that are not being met by the agent. This work builds upon a submission made to the NeurIPS 2022 Workshop on Foundation Models for Decision Making . We showcase our method in simulation (AI2THOR) and with a real robot (Boston Dynamics Spot quadruped robot). This paper is to appear at ICRA 2024! Citation S. Sundara Raman, V. Cohen, I. Idrees, E. Rosen, R. Mooney, S. Tellex, and D. Paulius (2024). “CAPE: Corrective Actions from Precondition Errors using Large Language Models”. In: 2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE.\n",
   "wordCount" : "153",
   "inLanguage": "en",
-  "datePublished": "2024-01-01T00:00:00Z",
+  "image":"https://davidpaulius.github.io/imgs/ICRA24_CAPE_process.png","datePublished": "2024-01-01T00:00:00Z",
   "dateModified": "2024-01-01T00:00:00Z",
   "author":[{
     "@type": "Person",
@@ -263,6 +273,8 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
+                <ul class="lang-switch"><li>|</li>
+                </ul>
             </div>
         </div>
         <ul id="menu">
@@ -309,7 +321,7 @@
       CAPE: Corrective Actions from Precondition Errors using Large Language Models
     </h1>
 
-    <div class="post-meta"><span title='2024-01-01 00:00:00 +0000 UTC'>January 2024</span>&nbsp;&middot;&nbsp;Shreyas Sundara Raman,&thinsp;Vanya Cohen,&thinsp;Ifrah Idrees,&thinsp;Eric Rosen,&thinsp;Ray Mooney,&thinsp;Stefanie Tellex,&thinsp;David Paulius
+    <div class="post-meta"><span title='2024-01-01 00:00:00 +0000 UTC'>January 2024</span>&nbsp;·&nbsp;Shreyas Sundara Raman, Vanya Cohen, Ifrah Idrees, Eric Rosen, Ray Mooney, Stefanie Tellex, David Paulius
 
 </div>
   </header>
@@ -349,11 +361,11 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://davidpaulius.github.io/tags/task-planning/">task planning</a></li>
-      <li><a href="https://davidpaulius.github.io/tags/large-language-models/">large language models</a></li>
+      <li><a href="https://davidpaulius.github.io/tags/task-planning/">Task Planning</a></li>
+      <li><a href="https://davidpaulius.github.io/tags/large-language-models/">Large Language Models</a></li>
       <li><a href="https://davidpaulius.github.io/tags/llm/">LLM</a></li>
-      <li><a href="https://davidpaulius.github.io/tags/re-planning/">re-planning</a></li>
-      <li><a href="https://davidpaulius.github.io/tags/few-shot-planning/">few-shot planning</a></li>
+      <li><a href="https://davidpaulius.github.io/tags/re-planning/">Re-Planning</a></li>
+      <li><a href="https://davidpaulius.github.io/tags/few-shot-planning/">Few-Shot Planning</a></li>
     </ul>
 <nav class="paginav">
   <a class="prev" href="https://davidpaulius.github.io/papers/IROS24_spatiotemp/">

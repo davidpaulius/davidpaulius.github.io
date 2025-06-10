@@ -1,6 +1,7 @@
 baseURL: "https://davidpaulius.github.io/"
 title: "David Paulius, Ph.D. | Personal Website"
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 copyright: "© 2025 David Paulius"
 
@@ -91,8 +92,9 @@ params:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
+        hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
     label:
       text: "David Paulius, Ph.D."
       icon: /imgs/riegan.ico

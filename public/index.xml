@@ -4,15 +4,15 @@
     <title>David Paulius, Ph.D. | Personal Website</title>
     <link>https://davidpaulius.github.io/</link>
     <description>Recent content on David Paulius, Ph.D. | Personal Website</description>
-    <generator>Hugo -- 0.115.4</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <copyright>2025 David Paulius</copyright>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrapping Object-level Planning with Large Language Models</title>
       <link>https://davidpaulius.github.io/papers/olp-icra25/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/olp-icra25/</guid>
       <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs).</description>
     </item>
@@ -154,15 +154,20 @@
       <link>https://davidpaulius.github.io/academia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/academia/</guid>
-      <description>NOTE: Featured here are documents for Faculty Applications. My Role as an Academic I seek to use my academic gifts and talents to solve every-day problems using robotics and artificial intelligence (AI), particularly for peoples, communities or groups in need. Such robots must efficiently and safely operate around and collaborate with humans.
-My journey into an academic role was inspired by my mentors (both in my undergraduate and graduate studies) as well as prominent researchers in robotics.</description>
+      <description>&lt;h3 id=&#34;note-featured-here-are-documents-for-faculty-applications&#34;&gt;NOTE: Featured here are documents for Faculty Applications.&lt;/h3&gt;
+&lt;h4 id=&#34;my-role-as-an-academic&#34;&gt;My Role as an Academic&lt;/h4&gt;
+&lt;p&gt;I seek to use my academic gifts and talents to solve every-day problems using &lt;em&gt;robotics and artificial intelligence (AI)&lt;/em&gt;, particularly for peoples, communities or groups in need. Such robots must efficiently and safely operate around and collaborate with humans.&lt;/p&gt;
+&lt;p&gt;My journey into an academic role was inspired by my mentors (both in my undergraduate and graduate studies) as well as prominent researchers in robotics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
       <link>https://davidpaulius.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/cv/</guid>
-      <description> NOTE: Redirecting to CV&amp;hellip; If this page does not redirect, please use this link . </description>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;note-redirecting-to-cv&#34;&gt;NOTE: Redirecting to CV&amp;hellip;&lt;/h3&gt;
+&lt;h4 id=&#34;if-this-page-does-not-redirect-please-use-this-link&#34;&gt;If this page does not redirect, please use this &lt;a href=&#34;https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view&#34; target=&#34;_blank&#34;&gt;link &lt;/a&gt;.&lt;/h4&gt;
+&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view&#34; /&gt;</description>
     </item>
     <item>
       <title>Fun Stuff 😜</title>

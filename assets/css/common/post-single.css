@@ -73,11 +73,11 @@
 }
 
 .post-content h3 {
-    font-size: 19px;    
+    font-size: 19px;
 }
 
 .post-content h4 {
-    font-size: 15px;    
+    font-size: 15px;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
@@ -130,7 +130,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
-    margin-left: var(--marginleft); 
+    margin-left: var(--marginleft);
 }
 
 .post-content li {
