@@ -6,10 +6,10 @@ tags: ["object-level planning", "task planning", "motion planning", "task and mo
 author: ["David Paulius", "Alejandro Agostini", "Benedict Quartey", "George Konidaris"]
 description: ""
 summary: "TL;DR -- This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs)."
-# cover:
-#     image: "/1.png"
-#     alt: "Rationing and frictional unemployment in the United States, 1964–2009"
-#     relative: false
+cover:
+    image: "/imgs/ICRA25_OLP.png"
+    alt: "Example of simple block stacking task performed in our LLM-OLP paper"
+    relative: false
 # editPost:
 #     URL: "https://davidpaulius.github.io/foon-lhpe/"
 #     Text: "Webpage"

@@ -97,8 +97,8 @@
 
 .entry-cover img {
     border-radius: 0;
-    width: 50%;
-    /* height: 50%; */
+    /* width: auto; */
+    height: 30ch;
     margin: auto;
 }
 

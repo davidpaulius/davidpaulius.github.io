@@ -7,8 +7,8 @@ author: ["Shreyas Sundara Raman", "Vanya Cohen", "Ifrah Idrees", "Eric Rosen", "
 description: ""
 summary: "TL;DR -- In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors."
 cover:
-    image: "/imgs/ICRA24_CAPE_process.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
+    image: "/imgs/ICRA24_CAPE.png"
+    alt: "Overview of CAPE's reprompting methodology"
     relative: false
 # editPost:
 #     URL: "https://davidpaulius.github.io/foon-lhpe/"

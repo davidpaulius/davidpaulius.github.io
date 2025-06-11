@@ -6,6 +6,10 @@ tags: ["linear temporal logic", "LTL", "spatiotemporal grounding", "grounding", 
 author: ["Jason Xinyu Liu", "Ankit Shah", "George Konidaris", "Stefanie Tellex", "David Paulius"]
 description: ""
 summary: "TL;DR -- Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic)."
+cover:
+    image: "/imgs/IROS24_overview.png"
+    alt: "Overview of Lang2LTL-2 system"
+    relative: false
 ---
 
 ##### Related Links:
