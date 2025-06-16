@@ -38,6 +38,13 @@
       <description></description>
     </item>
     <item>
+      <title>Robot Simulation</title>
+      <link>https://davidpaulius.github.io/tags/robot-simulation/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/robot-simulation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Large Language Models</title>
       <link>https://davidpaulius.github.io/tags/large-language-models/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
@@ -66,10 +73,10 @@
       <description></description>
     </item>
     <item>
-      <title>Robot Simulation</title>
-      <link>https://davidpaulius.github.io/tags/robot-simulation/</link>
+      <title>TAMP</title>
+      <link>https://davidpaulius.github.io/tags/tamp/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/robot-simulation/</guid>
+      <guid>https://davidpaulius.github.io/tags/tamp/</guid>
       <description></description>
     </item>
     <item>
@@ -91,13 +98,6 @@
       <link>https://davidpaulius.github.io/tags/foundation-models/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/foundation-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grounding</title>
-      <link>https://davidpaulius.github.io/tags/grounding/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/grounding/</guid>
       <description></description>
     </item>
     <item>
@@ -136,6 +136,13 @@
       <description></description>
     </item>
     <item>
+      <title>VLM</title>
+      <link>https://davidpaulius.github.io/tags/vlm/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/vlm/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Word Embedding</title>
       <link>https://davidpaulius.github.io/tags/word-embedding/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -154,6 +161,13 @@
       <link>https://davidpaulius.github.io/tags/re-planning/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/re-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Articulated Objects</title>
+      <link>https://davidpaulius.github.io/tags/articulated-objects/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/articulated-objects/</guid>
       <description></description>
     </item>
     <item>
@@ -199,10 +213,10 @@
       <description></description>
     </item>
     <item>
-      <title>TAMP</title>
-      <link>https://davidpaulius.github.io/tags/tamp/</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/tamp/</guid>
+      <title>Object-Level Representations</title>
+      <link>https://davidpaulius.github.io/tags/object-level-representations/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/object-level-representations/</guid>
       <description></description>
     </item>
     <item>

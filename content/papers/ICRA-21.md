@@ -32,5 +32,5 @@ summary: "TL;DR -- In this paper, we attempt to execute task plan sequences extr
 
 #### Citation
 
-D. Paulius, K. S. P. Dong, and Y. Sun (2021). "Task Planning with a Weighted Functional Object-Oriented Network". In: *2021 IEEE International Conference on Robotics and Automation (ICRA)* (pp. 3904-3910). IEEE.
+D. Paulius, K. S. P. Dong, and Y. Sun (2021). "Task Planning with a Weighted Functional Object-Oriented Network". In: *2021 IEEE International Conference on Robotics and Automation (ICRA)*, (pp. 3904-3910). IEEE.
 

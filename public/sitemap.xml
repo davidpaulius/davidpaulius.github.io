@@ -23,6 +23,9 @@
     <loc>https://davidpaulius.github.io/papers/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidpaulius.github.io/tags/robot-simulation/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/tags/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,7 +44,7 @@
     <loc>https://davidpaulius.github.io/tags/object-level-planning/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/robot-simulation/</loc>
+    <loc>https://davidpaulius.github.io/tags/tamp/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/task-and-motion-planning/</loc>
@@ -51,9 +54,6 @@
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/foundation-models/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/grounding/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</loc>
@@ -74,6 +74,9 @@
     <loc>https://davidpaulius.github.io/tags/vision-language-models/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidpaulius.github.io/tags/vlm/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/tags/word-embedding/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -85,6 +88,9 @@
   </url><url>
     <loc>https://davidpaulius.github.io/tags/re-planning/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/articulated-objects/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/deep-learning/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
@@ -110,10 +116,10 @@
     <loc>https://davidpaulius.github.io/papers/foon_lhpe/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/tamp/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://davidpaulius.github.io/papers/olp_bluesky/</loc>
+    <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/object-level-representations/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/foon_tree_retrieval/</loc>

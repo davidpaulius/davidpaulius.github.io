@@ -1,11 +1,11 @@
 ---
-title: "Skill Generalization With Verbs" 
+title: "Skill Generalization With Verbs"
 date: 2023-10-01
 url: "/papers/IROS23_skill_gen/"
-tags: ["deep learning", "options framework", "Markov decision process", "MDP"]
+tags: ["deep learning", "options framework", "Markov decision process", "MDP", "articulated objects"]
 author: ["Rachel Ma", "Lyndon Lam", "Benjamin A. Spiegel", "Aditya Ganeshan", "Roma Patel", "Ben Abbatematteo", "David Paulius", "Stefanie Tellex", "George Konidaris"]
-description: "" 
-summary: "TL;DR -- This paper introduces a deep learning-based method for learning about the effects of verbs -- more specifically, looking at initiation and termination conditions as with Markov Decision Processes (MDPs)." 
+description: ""
+summary: "TL;DR -- This paper introduces a deep learning-based method for learning about the effects of verbs -- more specifically, looking at initiation and termination conditions as with Markov Decision Processes (MDPs)."
 ---
 
 ##### Related Links:

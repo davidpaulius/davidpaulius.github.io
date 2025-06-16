@@ -2,7 +2,7 @@
 title: "Least Commitment Planning for the Object Scouting Problem"
 date: 2025-06-15
 url: "/papers/iros25/"
-tags: ["least commitment planning", "object scouting", "LOMDP", "locally observable Markov decision process"]
+tags: ["least commitment planning", "object scouting", "LOMDP", "locally observable Markov decision process", "robot simulation"]
 author: ["Max Merlin", "Ziyi Yang", "George Konidaris", "David Paulius"]
 description: ""
 summary: "TL;DR -- This paper introduces a new planning framework specifically designed for object scouting with LOMDPs called the Scouting Partial-Order Planner (SPOP), which exploits the characteristics of partial order and regression planning to plan around gaps in knowledge the robot may have about the existence, location, and state of relevant objects in its environment."
@@ -33,5 +33,5 @@ summary: "TL;DR -- This paper introduces a new planning framework specifically d
 #### Citation
 
 M. Merlin, Z. Yang, G. Konidaris*, and D. Paulius* (2025). "Least Commitment Planning for the Object Scouting Problem". In:
-Proceedings of the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+*Proceedings of the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 

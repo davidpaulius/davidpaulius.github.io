@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VLM on David Paulius, Ph.D. | Personal Website</title>
+    <link>https://davidpaulius.github.io/tags/vlm/</link>
+    <description>Recent content in VLM on David Paulius, Ph.D. | Personal Website</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <copyright>2025 David Paulius</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidpaulius.github.io/tags/vlm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
+      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+    </item>
+  </channel>
+</rss>

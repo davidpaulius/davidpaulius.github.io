@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <copyright>2025 David Paulius</copyright>
-    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/robot-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Least Commitment Planning for the Object Scouting Problem</title>
+      <link>https://davidpaulius.github.io/papers/iros25/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/iros25/</guid>
+      <description>TL;DR &amp;ndash; This paper introduces a new planning framework specifically designed for object scouting with LOMDPs called the Scouting Partial-Order Planner (SPOP), which exploits the characteristics of partial order and regression planning to plan around gaps in knowledge the robot may have about the existence, location, and state of relevant objects in its environment.</description>
+    </item>
     <item>
       <title>Bootstrapping Object-level Planning with Large Language Models</title>
       <link>https://davidpaulius.github.io/papers/olp-icra25/</link>

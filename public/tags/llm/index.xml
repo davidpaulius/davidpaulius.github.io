@@ -17,6 +17,13 @@
       <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs).</description>
     </item>
     <item>
+      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
+      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+    </item>
+    <item>
       <title>CAPE: Corrective Actions from Precondition Errors using Large Language Models</title>
       <link>https://davidpaulius.github.io/papers/cape/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>

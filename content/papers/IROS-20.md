@@ -1,16 +1,16 @@
 ---
-title: "Estimating Motion Codes from Demonstration Videos" 
+title: "Estimating Motion Codes from Demonstration Videos"
 date: 2020-10-24
 url: "/papers/motion_codes_IROS20/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]
 author: ["Maxat Alibayev", "David Paulius", "Yu Sun"]
-description: "" 
-summary: "TL;DR -- In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks." 
+description: ""
+summary: "TL;DR -- In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks."
 ---
 
 #### Related Links:
 
-+ Paper: 
++ Paper:
   + [arXiv (best version)](https://arxiv.org/abs/2007.15841)
   + [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9341065)
 
@@ -18,7 +18,7 @@ summary: "TL;DR -- In this work, we showed how motion codes (which can be constr
 
 #### NOTES
 
-+ In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks.
++ In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our [RSS 2020]({{< ref "RSS-20.md" >}}) paper) can be used to improve action recognition with deep neural networks.
 + This paper was set to appear in October 2020, but due to the COVID pandemic, the conference was delayed until the following year.
 
 ---

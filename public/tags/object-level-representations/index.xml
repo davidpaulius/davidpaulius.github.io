@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Object-Level Representations on David Paulius, Ph.D. | Personal Website</title>
+    <link>https://davidpaulius.github.io/tags/object-level-representations/</link>
+    <description>Recent content in Object-Level Representations on David Paulius, Ph.D. | Personal Website</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <copyright>2025 David Paulius</copyright>
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidpaulius.github.io/tags/object-level-representations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Object-Level Planning and Abstraction</title>
+      <link>https://davidpaulius.github.io/papers/olp_bluesky/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/olp_bluesky/</guid>
+      <description>TL;DR &amp;ndash; This workshop paper (specifically, a blue-sky submission) introduces the importance of object-level planning and representation as an additional layer on top of task and motion planning. I present several benefits of using object-level planning for long-term use in robotics.</description>
+    </item>
+  </channel>
+</rss>

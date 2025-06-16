@@ -2,7 +2,7 @@
 title: "Bootstrapping Object-level Planning with Large Language Models"
 date: 2025-05-20
 url: "/papers/olp-icra25/"
-tags: ["object-level planning", "task planning", "motion planning", "task and motion planning", "large language models","LLM","robot simulation"]
+tags: ["object-level planning", "task planning", "motion planning", "task and motion planning", "TAMP", "large language models", "LLM", "robot simulation"]
 author: ["David Paulius", "Alejandro Agostini", "Benedict Quartey", "George Konidaris"]
 description: ""
 summary: "TL;DR -- This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs)."
@@ -10,9 +10,9 @@ cover:
     image: "/imgs/ICRA25_OLP.png"
     alt: "Example of simple block stacking task performed in our LLM-OLP paper"
     relative: false
-# editPost:
-#     URL: "https://davidpaulius.github.io/foon-lhpe/"
-#     Text: "Webpage"
+editPost:
+    URL: "https://davidpaulius.github.io/olp_llm/"
+    Text: "Project Website"
 ---
 
 #### Related Links:
