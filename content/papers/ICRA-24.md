@@ -2,7 +2,7 @@
 title: "CAPE: Corrective Actions from Precondition Errors using Large Language Models"
 date: 2024-01-01
 url: "/papers/cape/"
-tags: ["task planning", "large language models","LLM","re-planning", "few-shot planning"]
+tags: ["task planning", "large language models", "LLM", "re-planning", "few-shot planning"]
 author: ["Shreyas Sundara Raman", "Vanya Cohen", "Ifrah Idrees", "Eric Rosen", "Ray Mooney", "Stefanie Tellex", "David Paulius"]
 description: ""
 summary: "TL;DR -- In this paper, we introduce CAPE: an approach to correct errors encountered during robot plan execution. We exploit the ability of large language models to generate high-level plans and to reason about causes of errors."
@@ -24,7 +24,7 @@ cover:
 
 ---
 
-#### NOTES
+#### NOTES:
 
 + In this paper, we introduce CAPE: an approach to address errors encountered by a robot or agent when executing a plan.
   + We use large language models (LLM) to perform planning and to infer the causes of errors.
@@ -35,7 +35,7 @@ cover:
 
 ---
 
-#### Citation
+#### Citation:
 
 S. Sundara Raman, V. Cohen, I. Idrees, E. Rosen, R. Mooney, S. Tellex, and D. Paulius (2024). "CAPE: Corrective Actions from Precondition Errors using Large Language Models". In: *2024 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE.
 

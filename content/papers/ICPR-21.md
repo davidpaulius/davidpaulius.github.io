@@ -16,7 +16,7 @@ summary: "TL;DR -- This work uses the features from the motion taxonomy to impro
 
 ---
 
-#### NOTES
+#### NOTES:
 
 + This paper was submitted to the [2020 International Conference on Pattern Recognition (ICPR)](https://micc.unifi.it/icpr2020/) but was presented in January 2021 due to the COVID pandemic.
 + This work leverages motion code detection for improving action recognition.
@@ -24,6 +24,6 @@ summary: "TL;DR -- This work uses the features from the motion taxonomy to impro
 
 ---
 
-#### Citation
+#### Citation:
 
 Alibayev, M., Paulius, D., and Sun, Y. (2021) "Developing Motion Code Embedding for Action Recognition in Videos". In *2020 25th International Conference on Pattern Recognition (ICPR)*, pp. 7529--7536.

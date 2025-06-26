@@ -18,10 +18,9 @@ cover:
   + [arXiv (best version)](https://arxiv.org/abs/2007.06695)
   + [RSS Proceedings (minor text errors)](https://roboticsproceedings.org/rss16/p045.pdf)
 
----
+<!-- ---
 
-#### NOTES
-
+#### NOTES -->
 
 ---
 

@@ -25,14 +25,14 @@ editPost:
 
 ---
 
-#### NOTES
+#### NOTES:
 
 + David Paulius and [Alejandro Agostini](https://alejandroagostini.github.io/) are joint first authors and corresponding authors.
 + In this work, we introduce the concept of hierarchical planning centered around FOON graphs. Prior to this work, we did not use FOON for robotic execution, so this work was the first of its kind in FOON-related projects.
 
 ---
 
-#### Citation
+#### Citation:
 
 D. Paulius*, A. Agostini*, and D. Lee. (2023). "Long-Horizon Planning and Execution with Functional Object-Oriented Networks." In: *IEEE Robotics and Automation Letters* 8 (8): pgs. 4513--4520. https://doi.org/10.1109/LRA.2023.3285510.
 

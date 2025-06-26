@@ -23,7 +23,7 @@ editPost:
   + [arXiv (best version)](https://arxiv.org/abs/2409.12262)
 ---
 
-#### NOTES
+#### NOTES:
 
 + This paper builds upon our prior work on [FOON-bootstrapped task and motion planning]({{< ref "RAL-23.md" >}}) by naturally interfacing hierarchical planning with large language models (LLMs).
   + Language models are all the rage nowadays and are excellent at doing few-shot learning and deployment.
@@ -32,7 +32,7 @@ editPost:
 
 ---
 
-#### Citation
+#### Citation:
 
 D. Paulius, A. Agostini, B. Quartey, G. Konidaris (2025). "Bootstrapping Object-level Planning with Large Language Models". In: *Proceedings of the 2025 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE.
 

@@ -22,7 +22,7 @@ summary: "TL;DR -- This paper introduces a new planning framework specifically d
   + Complete Paper Coming Soon!
 ---
 
-#### NOTES
+#### NOTES:
 
 + This paper introduces the _object scouting problem_: a way of tackling different types of uncertainty (spatial uncertainty and state uncertainty) related to mobile manipulation and long-horizon task execution.
 + The object scouting problem is modelled using the **locally observable Markov decision process (LOMDP)** previously introduced by [Merlin et al. 2024](https://ieeexplore.ieee.org/abstract/document/10610876).
@@ -30,8 +30,7 @@ summary: "TL;DR -- This paper introduces a new planning framework specifically d
 
 ---
 
-#### Citation
+#### Citation:
 
-M. Merlin, Z. Yang, G. Konidaris*, and D. Paulius* (2025). "Least Commitment Planning for the Object Scouting Problem". In:
-*Proceedings of the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
+M. Merlin, Z. Yang, G. Konidaris*, and D. Paulius* (2025). "Least Commitment Planning for the Object Scouting Problem". In: *Proceedings of the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 

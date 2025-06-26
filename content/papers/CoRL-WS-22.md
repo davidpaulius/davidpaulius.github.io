@@ -16,19 +16,19 @@ editPost:
 hide: true
 ---
 
-#### Read the paper here:
+#### Related Links:
 
 + [OpenReview](https://openreview.net/pdf?id=YfjoSxZekWW)
 
 ---
 
-#### NOTES
+#### NOTES:
 
 + This work was submitted as a "blue-sky" workshop paper, where the goal is to outline some big idea or take some kind of position in terms of a research direction or agenda.
 + Here, I talk about the benefits of object-level planning, where a robot needs to start with some schematic plan that then is broken down into task- and motion-level planning (as in <a href="https://arxiv.org/abs/2010.01083" target="_blank">TAMP</a>).
 
 ---
 
-#### Citation
+#### Citation:
 
 D. Paulius (2022). "Object-Level Planning and Abstraction". In: *Conference on Robot Learning (CoRL) 2022 Workshop on Learning, Perception, and Abstraction for Long-Horizon Planning*, https://openreview.net/forum?id=YfjoSxZekWW.

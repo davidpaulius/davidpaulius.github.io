@@ -11,6 +11,19 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-06-25</span>
+        </td>
+        <td>
+            <span>I attended RSS 2025 in Los Angeles, CA!
+            <ul style="margin-bottom:0px">
+                <li><a href="https://dyalab.mines.edu/2025/icra-workshop/16.pdf" target="_blank">SkillWrapper: Autonomously Learning Interpretable Skill Abstractions with Foundation Models</a> was presented at the <a href="https://rss25-roboreps.github.io/" target="_blank">RSS Workshop on Learned Robot Representations (RoboReps)</a>!
+                </li>
+            </ul>
+            </span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-06-15</span>
         </td>
         <td>

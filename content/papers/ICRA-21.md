@@ -23,14 +23,14 @@ summary: "TL;DR -- In this paper, we attempt to execute task plan sequences extr
 
 ---
 
-#### NOTES
+#### NOTES:
 
 + In this paper, we attempt to execute task plan sequences extracted from FOONs. However, these sequences may contain actions that are not executable by a robot. A human is introduced in the planning and execution loop, and both the robot and human assistant work together to solve the task.
 + This was my first attempt at robot execution directly from a FOON. However, I believe a better solution to this problem lies in [task and motion planning bootstrapped by FOONs]({{< ref "RAL-23.md" >}}). [Hierachical planning]({{< ref "CoRL-WS-22.md" >}}) is the way to go!
 
 ---
 
-#### Citation
+#### Citation:
 
 D. Paulius, K. S. P. Dong, and Y. Sun (2021). "Task Planning with a Weighted Functional Object-Oriented Network". In: *2021 IEEE International Conference on Robotics and Automation (ICRA)*, (pp. 3904-3910). IEEE.
 
