@@ -18,6 +18,9 @@ disableAnchoredHeadings: false
             <ul style="margin-bottom:0px">
                 <li><a href="https://dyalab.mines.edu/2025/icra-workshop/16.pdf" target="_blank">SkillWrapper: Autonomously Learning Interpretable Skill Abstractions with Foundation Models</a> was presented at the <a href="https://rss25-roboreps.github.io/" target="_blank">RSS Workshop on Learned Robot Representations (RoboReps)</a>!
                 </li>
+                <li>
+                <a href='{{< ref "./papers/IROS-24.md" >}}'" target="_blank">Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</a> and <a href='{{< ref "./papers/ICRA-25.md" >}}'" target="_blank">Bootstrapping Object-level Planning with Large Language Models</a> were presented at the <a href="https://sites.google.com/brown.edu/fm4roboplan/home?authuser=0" target="_blank">RSS Workshop on Robot Planning in the Era of Foundation Models (FM4RoboPlan)</a>!
+                </li>
             </ul>
             </span>
         </td>
