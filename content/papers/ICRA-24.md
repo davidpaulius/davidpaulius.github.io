@@ -27,15 +27,19 @@ cover:
 #### NOTES:
 
 + In this paper, we introduce CAPE: an approach to address errors encountered by a robot or agent when executing a plan.
-  + We use large language models (LLM) to perform planning and to infer the causes of errors.
-  + We assume that these errors lie in preconditions that are not being met by the agent.
-  + This work builds upon a [submission made to the NeurIPS 2022 Workshop on Foundation Models for Decision Making](https://openreview.net/forum?id=cMDMRBe1TKs).
+  + We use large language models (LLM) to perform planning and, more importantly, infer the *causes* of errors.
+  + We assume that these errors lie in skill preconditions that are not being met by the agent or its environment.
+  + This work builds upon a [submission made to the NeurIPS 2022 Workshop on Foundation Models for Decision Making (FDM)](https://openreview.net/forum?id=cMDMRBe1TKs).
 + We showcase our method in simulation (AI2THOR) and with a real robot (Boston Dynamics Spot quadruped robot).
-+ This paper is to appear at ICRA 2024!
 
 ---
 
 #### Citation:
 
+##### Latest Version (ICRA 2024)
+
 S. Sundara Raman, V. Cohen, I. Idrees, E. Rosen, R. Mooney, S. Tellex, and D. Paulius (2024). "CAPE: Corrective Actions from Precondition Errors using Large Language Models". In: *2024 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE.
 
+##### Workshop Version (NeurIPS 2022 FDM Workshop)
+
+S. Sundara Raman, V. Cohen, E. Rosen, I. Idrees, D. Paulius, and S. Tellex (2022). "Planning With Large Language Models Via Corrective Re-Prompting". In: *NeurIPS Workshop on Foundation Models for Decision Making (FMDM)*, NeurIPS 2022.
