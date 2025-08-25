@@ -1,5 +1,5 @@
 ---
-title: "Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network"
+title: "[CASE-22] Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network"
 date: 2022-07-15
 url: "/papers/foon_assembly/"
 tags: ["task planning", "learning from demonstration","assembly","functional object-oriented networks", "FOON"]

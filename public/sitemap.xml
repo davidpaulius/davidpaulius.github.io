@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://davidpaulius.github.io/papers/iros25/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/least-commitment-planning/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/papers/iros25/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/locally-observable-markov-decision-process/</loc>
@@ -53,10 +53,10 @@
     <loc>https://davidpaulius.github.io/tags/task-planning/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/foundation-models/</loc>
+    <loc>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</loc>
+    <loc>https://davidpaulius.github.io/tags/foundation-models/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/linear-temporal-logic/</loc>
@@ -89,6 +89,9 @@
     <loc>https://davidpaulius.github.io/tags/re-planning/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidpaulius.github.io/papers/IROS23_skill_gen/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/tags/articulated-objects/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -104,8 +107,8 @@
     <loc>https://davidpaulius.github.io/tags/options-framework/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/IROS23_skill_gen/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <loc>https://davidpaulius.github.io/papers/foon_lhpe/</loc>
+    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/foon/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
@@ -113,14 +116,14 @@
     <loc>https://davidpaulius.github.io/tags/functional-object-oriented-networks/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/foon_lhpe/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://davidpaulius.github.io/papers/olp_bluesky/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/object-level-representations/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/papers/foon_assembly/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/foon_tree_retrieval/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
@@ -132,9 +135,6 @@
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/plan-generation/</loc>
-    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/papers/foon_assembly/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/semantic-similarity/</loc>
@@ -155,19 +155,19 @@
     <loc>https://davidpaulius.github.io/tags/tum/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidpaulius.github.io/papers/foon_cobot/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/tags/cobots/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/human-robot-collaboration/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/foon_cobot/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/action-recognition/</loc>
+    <loc>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</loc>
+    <loc>https://davidpaulius.github.io/tags/action-recognition/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/motion-codes/</loc>

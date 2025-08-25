@@ -1,5 +1,5 @@
 ---
-title: "Skill Generalization With Verbs"
+title: "[IROS-23] Skill Generalization With Verbs"
 date: 2023-10-01
 url: "/papers/IROS23_skill_gen/"
 tags: ["deep learning", "options framework", "Markov decision process", "MDP", "articulated objects"]

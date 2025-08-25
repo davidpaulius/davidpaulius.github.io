@@ -1,5 +1,5 @@
 ---
-title: "Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking"
+title: "[RAL-22] Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking"
 date: 2022-07-15
 url: "/papers/foon_tree_retrieval/"
 tags: ["task planning","semantic similarity","plan generation","functional object-oriented networks", "FOON"]

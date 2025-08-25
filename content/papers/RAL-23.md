@@ -1,5 +1,5 @@
 ---
-title: "Long-Horizon Planning and Execution with Functional Object-Oriented Networks"
+title: "[RAL-23] Long-Horizon Planning and Execution with Functional Object-Oriented Networks"
 date: 2023-06-13
 url: "/papers/foon_lhpe/"
 tags: ["object-level planning","task and motion planning","TAMP","functional object-oriented networks", "FOON"]

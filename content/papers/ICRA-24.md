@@ -1,5 +1,5 @@
 ---
-title: "CAPE: Corrective Actions from Precondition Errors using Large Language Models"
+title: "[ICRA-24] CAPE: Corrective Actions from Precondition Errors using Large Language Models"
 date: 2024-01-01
 url: "/papers/cape/"
 tags: ["task planning", "large language models", "LLM", "re-planning", "few-shot planning"]

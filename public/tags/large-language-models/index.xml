@@ -10,21 +10,21 @@
     <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bootstrapping Object-level Planning with Large Language Models</title>
+      <title>[ICRA-25] Bootstrapping Object-level Planning with Large Language Models</title>
       <link>https://davidpaulius.github.io/papers/olp-icra25/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/olp-icra25/</guid>
       <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs).</description>
     </item>
     <item>
-      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <title>[IROS-24] Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models </title>
       <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
-      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+      <description>IROS-24</description>
     </item>
     <item>
-      <title>CAPE: Corrective Actions from Precondition Errors using Large Language Models</title>
+      <title>[ICRA-24] CAPE: Corrective Actions from Precondition Errors using Large Language Models</title>
       <link>https://davidpaulius.github.io/papers/cape/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/cape/</guid>

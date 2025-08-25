@@ -1,5 +1,5 @@
 ---
-title: "Long Activity Video Understanding using Functional Object-Oriented Network" 
+title: "[TMM-18] Long Activity Video Understanding using Functional Object-Oriented Network" 
 date: 2018-12-05
 url: "/papers/foon_video_understanding/"
 tags: ["functional object-oriented networks", "FOON", "action recognition", "video understanding"]

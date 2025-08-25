@@ -1,5 +1,5 @@
 ---
-title: "Estimating Motion Codes from Demonstration Videos"
+title: "[IROS-20] Estimating Motion Codes from Demonstration Videos"
 date: 2020-10-24
 url: "/papers/motion_codes_IROS20/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]

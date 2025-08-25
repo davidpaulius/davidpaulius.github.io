@@ -10,11 +10,11 @@
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/ltl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <title>[IROS-24] Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models </title>
       <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
-      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+      <description>IROS-24</description>
     </item>
   </channel>
 </rss>

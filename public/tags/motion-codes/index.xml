@@ -10,28 +10,28 @@
     <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/motion-codes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Developing Motion Code Embedding for Action Recognition in Videos</title>
+      <title>[ICPR-21] Developing Motion Code Embedding for Action Recognition in Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</guid>
       <description>TL;DR &amp;ndash; This work uses the features from the motion taxonomy to improve action recognition on egocentric videos from the EPIC-KITCHENS dataset. This is done by integrating motion code detection for action sequences.</description>
     </item>
     <item>
-      <title>Estimating Motion Codes from Demonstration Videos</title>
+      <title>[IROS-20] Estimating Motion Codes from Demonstration Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_IROS20/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_IROS20/</guid>
       <description>TL;DR &amp;ndash; In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks.</description>
     </item>
     <item>
-      <title>A Motion Taxonomy for Manipulation Embedding</title>
+      <title>[RSS-20] A Motion Taxonomy for Manipulation Embedding</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_RSS20/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_RSS20/</guid>
       <description>TL;DR &amp;ndash; In this work, we introduce new changes to the features of the motion taxonomy and show how action verbs encoded as motion codes better capture differences between them than conventional word embedding (as word2vec).</description>
     </item>
     <item>
-      <title>Manipulation Motion Taxonomy and Coding for Robots</title>
+      <title>[IROS-19] Manipulation Motion Taxonomy and Coding for Robots</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_IROS19/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_IROS19/</guid>

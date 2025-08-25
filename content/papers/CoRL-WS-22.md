@@ -1,5 +1,5 @@
 ---
-title: "Object-Level Planning and Abstraction"
+title: "[CoRL-WS-22] Object-Level Planning and Abstraction"
 date: 2022-12-14
 url: /papers/olp_bluesky/
 tags: ["object-level planning", "task and motion planning", "TAMP", "object-level representations"]

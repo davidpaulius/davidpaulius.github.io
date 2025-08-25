@@ -10,14 +10,14 @@
     <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/human-robot-collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Task Planning with a Weighted Functional Object-Oriented Network</title>
+      <title>[ICRA-21] Task Planning with a Weighted Functional Object-Oriented Network</title>
       <link>https://davidpaulius.github.io/papers/foon_cobot/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_cobot/</guid>
-      <description>TL;DR &amp;ndash; In this paper, we attempt to execute task plan sequences extracted from FOONs. However, these sequences may contain actions that are not executable by a robot. Therefore, a human is introduced in the planning and execution loop, and both the robot and human assistant work together to solve the task.</description>
+      <description>TL;DR &amp;ndash; In this paper, we attempt to execute task plan sequences extracted from FOONs. Since these sequences may contain actions that are not executable by a robot, we introduce a human assistant in planning, and the robot and assistant work together to solve the task.</description>
     </item>
     <item>
-      <title>Functional Object-Oriented Network: Construction &amp; Expansion</title>
+      <title>[ICRA-18] Functional Object-Oriented Network: Construction &amp; Expansion</title>
       <link>https://davidpaulius.github.io/papers/foon_gen_exp/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_gen_exp/</guid>

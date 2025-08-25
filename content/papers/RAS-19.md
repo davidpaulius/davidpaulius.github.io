@@ -1,5 +1,5 @@
 ---
-title: "A Survey of Knowledge Representation in Service Robotics"
+title: "[RAS-19] A Survey of Knowledge Representation in Service Robotics"
 date: 2019-08-01
 url: "/papers/survey_kr/"
 tags: ["knowledge representation","survey", "abstractions"]

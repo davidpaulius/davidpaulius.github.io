@@ -1,5 +1,5 @@
 ---
-title: "Manipulation Motion Taxonomy and Coding for Robots"
+title: "[IROS-19] Manipulation Motion Taxonomy and Coding for Robots"
 date: 2019-11-03
 url: "/papers/motion_codes_IROS19/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]

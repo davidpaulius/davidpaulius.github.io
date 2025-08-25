@@ -1,5 +1,5 @@
 ---
-title: "Bootstrapping Object-level Planning with Large Language Models"
+title: "[ICRA-25] Bootstrapping Object-level Planning with Large Language Models"
 date: 2025-05-20
 url: "/papers/olp-icra25/"
 tags: ["object-level planning", "task planning", "motion planning", "task and motion planning", "TAMP", "large language models", "LLM", "robot simulation"]

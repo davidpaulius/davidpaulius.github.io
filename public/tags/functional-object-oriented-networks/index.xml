@@ -10,49 +10,49 @@
     <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/functional-object-oriented-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
+      <title>[RAL-23] Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
       <link>https://davidpaulius.github.io/papers/foon_lhpe/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_lhpe/</guid>
       <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
     <item>
-      <title>Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking</title>
-      <link>https://davidpaulius.github.io/papers/foon_tree_retrieval/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/papers/foon_tree_retrieval/</guid>
-      <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
-    </item>
-    <item>
-      <title>Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network</title>
+      <title>[CASE-22] Robot Learning of Assembly Tasks from Non-expert Demonstrations using Functional Object-Oriented Network</title>
       <link>https://davidpaulius.github.io/papers/foon_assembly/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_assembly/</guid>
       <description>TL;DR &amp;ndash; This was a collaboration with Clemson University&amp;rsquo;s Yunyi Jia and Yi Chen, who were interested in using FOONs for representing assembly tasks. They successfully utilized and adapted a FOON to robotic assembly execution.</description>
     </item>
     <item>
-      <title>Task Planning with a Weighted Functional Object-Oriented Network</title>
+      <title>[RAL-22] Approximate Task Tree Retrieval in a Knowledge Network for Robotic Cooking</title>
+      <link>https://davidpaulius.github.io/papers/foon_tree_retrieval/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/foon_tree_retrieval/</guid>
+      <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
+    </item>
+    <item>
+      <title>[ICRA-21] Task Planning with a Weighted Functional Object-Oriented Network</title>
       <link>https://davidpaulius.github.io/papers/foon_cobot/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_cobot/</guid>
-      <description>TL;DR &amp;ndash; In this paper, we attempt to execute task plan sequences extracted from FOONs. However, these sequences may contain actions that are not executable by a robot. Therefore, a human is introduced in the planning and execution loop, and both the robot and human assistant work together to solve the task.</description>
+      <description>TL;DR &amp;ndash; In this paper, we attempt to execute task plan sequences extracted from FOONs. Since these sequences may contain actions that are not executable by a robot, we introduce a human assistant in planning, and the robot and assistant work together to solve the task.</description>
     </item>
     <item>
-      <title>Long Activity Video Understanding using Functional Object-Oriented Network</title>
+      <title>[TMM-18] Long Activity Video Understanding using Functional Object-Oriented Network</title>
       <link>https://davidpaulius.github.io/papers/foon_video_understanding/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_video_understanding/</guid>
       <description>TL;DR &amp;ndash; This work leverages functional object-oriented networks and deep learning for video understanding. In addition, with the deep network framework, we jointly recognize object and action types, which can then be used for constructing new FOON structures.</description>
     </item>
     <item>
-      <title>Functional Object-Oriented Network: Construction &amp; Expansion</title>
+      <title>[ICRA-18] Functional Object-Oriented Network: Construction &amp; Expansion</title>
       <link>https://davidpaulius.github.io/papers/foon_gen_exp/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_gen_exp/</guid>
       <description>TL;DR &amp;ndash; In this paper, we explore methods in natural language processing (NLP) &amp;ndash; specifically semantic similarity &amp;ndash; for expanding or generalizing knowledge contained in a FOON. This alleviates the need for demonstrating and annotating graphs by other means.</description>
     </item>
     <item>
-      <title>Functional Object-Oriented Network for Manipulation Learning</title>
+      <title>[IROS-16] Functional Object-Oriented Network for Manipulation Learning</title>
       <link>https://davidpaulius.github.io/papers/foon_intro/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_intro/</guid>

@@ -1,11 +1,11 @@
 ---
-title: "Task Planning with a Weighted Functional Object-Oriented Network"
+title: "[ICRA-21] Task Planning with a Weighted Functional Object-Oriented Network"
 date: 2021-05-01
 url: "/papers/foon_cobot/"
 tags: ["task planning", "human-robot collaboration","cobots","functional object-oriented networks", "FOON"]
 author: ["David Paulius", "Kelvin Sheng Pei Dong", "Yu Sun"]
 description: ""
-summary: "TL;DR -- In this paper, we attempt to execute task plan sequences extracted from FOONs. However, these sequences may contain actions that are not executable by a robot. Therefore, a human is introduced in the planning and execution loop, and both the robot and human assistant work together to solve the task."
+summary: "TL;DR -- In this paper, we attempt to execute task plan sequences extracted from FOONs. Since these sequences may contain actions that are not executable by a robot, we introduce a human assistant in planning, and the robot and assistant work together to solve the task."
 # cover:
 #     image: "/1.png"
 #     alt: "Rationing and frictional unemployment in the United States, 1964–2009"

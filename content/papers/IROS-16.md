@@ -1,5 +1,5 @@
 ---
-title: "Functional Object-Oriented Network for Manipulation Learning"
+title: "[IROS-16] Functional Object-Oriented Network for Manipulation Learning"
 date: 2016-10-15
 url: "/papers/foon_intro/"
 tags: ["task planning", "functional object-oriented networks", "FOON"]

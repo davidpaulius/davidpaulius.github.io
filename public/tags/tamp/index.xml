@@ -10,21 +10,21 @@
     <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/tamp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bootstrapping Object-level Planning with Large Language Models</title>
+      <title>[ICRA-25] Bootstrapping Object-level Planning with Large Language Models</title>
       <link>https://davidpaulius.github.io/papers/olp-icra25/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/olp-icra25/</guid>
       <description>TL;DR &amp;ndash; This paper formalizes the concept of object-level planning and discusses how this level of planning naturally integrates with large language models (LLMs).</description>
     </item>
     <item>
-      <title>Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
+      <title>[RAL-23] Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
       <link>https://davidpaulius.github.io/papers/foon_lhpe/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/foon_lhpe/</guid>
       <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
     <item>
-      <title>Object-Level Planning and Abstraction</title>
+      <title>[CoRL-WS-22] Object-Level Planning and Abstraction</title>
       <link>https://davidpaulius.github.io/papers/olp_bluesky/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/olp_bluesky/</guid>

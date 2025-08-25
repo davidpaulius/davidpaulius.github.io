@@ -1,5 +1,5 @@
 ---
-title: "A Motion Taxonomy for Manipulation Embedding"
+title: "[RSS-20] A Motion Taxonomy for Manipulation Embedding"
 date: 2020-07-15
 url: "/papers/motion_codes_RSS20/"
 tags: ["motion taxonomy", "motion codes", "word embedding", "learning from demonstration", "action recognition"]

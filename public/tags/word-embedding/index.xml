@@ -10,28 +10,28 @@
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/word-embedding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <title>[IROS-24] Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models </title>
       <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
-      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+      <description>IROS-24</description>
     </item>
     <item>
-      <title>Estimating Motion Codes from Demonstration Videos</title>
+      <title>[IROS-20] Estimating Motion Codes from Demonstration Videos</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_IROS20/</link>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_IROS20/</guid>
       <description>TL;DR &amp;ndash; In this work, we showed how motion codes (which can be constructed using the motion taxonomy proposed in our RSS 2020 paper) can be used to improve action recognition with deep neural networks.</description>
     </item>
     <item>
-      <title>A Motion Taxonomy for Manipulation Embedding</title>
+      <title>[RSS-20] A Motion Taxonomy for Manipulation Embedding</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_RSS20/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_RSS20/</guid>
       <description>TL;DR &amp;ndash; In this work, we introduce new changes to the features of the motion taxonomy and show how action verbs encoded as motion codes better capture differences between them than conventional word embedding (as word2vec).</description>
     </item>
     <item>
-      <title>Manipulation Motion Taxonomy and Coding for Robots</title>
+      <title>[IROS-19] Manipulation Motion Taxonomy and Coding for Robots</title>
       <link>https://davidpaulius.github.io/papers/motion_codes_IROS19/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/motion_codes_IROS19/</guid>
