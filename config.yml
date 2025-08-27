@@ -59,7 +59,28 @@ params:
     profileMode:
           enabled: true
           title: "Hi, I am David (dah-veed):"
-          subtitle: "•	A roboticist from the Caribbean (<a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>🇰🇳</a>). 🦾🏝️<br>•	A postdoctoral researcher at Brown University. 🎓🐻<br><br><h4>Note: I am on the job market! Looking for research-related jobs. ;)</h4><br>"
+          subtitle: "•	A roboticist from the Caribbean (<a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>🇰🇳</a>). 🦾🏝️\
+                    <br>\
+                    •	A postdoctoral researcher at Brown University. 🎓🐻\
+                    <br><br>\
+                    <h4>Note: I am on the <u>job market</u>! Looking for research-related jobs. ;)</h4><br>\
+                    <details>\
+                    <br>\
+                    <summary>Short Bio:</summary>\
+                    <p style='text-align: justify; border-width: 3px; border-style: solid; padding: 20px;'>David Paulius (he/him) is a postdoctoral researcher in the <a href='http://irl.cs.brown.edu/' target='_blank'>Intelligent Robot Lab</a> at \
+                    Brown University, working jointly with Professors <a href='https://cs.brown.edu/~gdk/' target='_blank'>George Konidaris</a> and <a href='https://h2r.cs.brown.edu/' target='_blank'>Stefanie Tellex</a>. \
+                    Before joining Brown University, he was a postdoctoral researcher in the \
+                    Human-centered Assistive Robotics (HCR) group at the Technical University of Munich, Germany. \
+                    David received his PhD in Computer Science & Engineering from the University \
+                    of South Florida, where he was advised by Professor Yu Sun and began his journey in \
+                    robotics and AI. He received his BSc in Computer Science from the University of the \
+                    Virgin Islands, St. Thomas, USVI. He was recognized as a <a href='https://sites.google.com/view/rsspioneers2022/' target='_blank'>Robotics: Science and \
+                    Systems (RSS) Pioneer</a> in 2022. David is interested in enabling robots to solve complex \
+                    goal-directed tasks in dynamic human environments by exploiting commonly available \
+                    but unstructured world knowledge. His work explores the integration of classical \
+                    planning and foundation models for long-term autonomy and generalization across \
+                    robots, task settings, and domains.</p>\
+                    </details><br>"
           imageUrl: "/imgs/profile.jpg"
           imageWidth: 200
           imageHeight: 200
