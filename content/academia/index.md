@@ -15,8 +15,8 @@ My journey into an academic role was inspired by my mentors (both in my undergra
 ##### Links:
 + [Google Drive](https://drive.google.com/drive/folders/13UVGqM6mMjRFFWoM6DlpaAgxB3a3eglA?usp=sharing) with the following items:
 	+ [Research Statement](https://drive.google.com/file/d/17JLFbe2gO-4XVHVS1595TLMksIEkBR5o/view?usp=drive_link)
-	+ [Teaching Philosophy](https://drive.google.com/file/d/1j8RuDSMgHBYVU4kBdpL9Sb__mFbO5lYT/view?usp=drive_link)
-	+ [Pledge to Diversity, Equity and Inclusion (a.k.a. Diversity Statement)](https://drive.google.com/file/d/1pbEFmzTCuwIDh5n0Wg02QJL139HWZr-F/view?usp=drive_link)
+	+ Teaching Philosophy
+	+ Diversity Statement
 	+ Teaching Evaluation Report (from my Summer 2018 course)
 	+ Significant Publications
 
