@@ -15,13 +15,15 @@ hideSummary: false
 ## Random Facts about Me
 
 + I am a ***huge*** fan of the [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem) series.
-    + My website's favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game (Golden Deer house ftw)!
+    + My website's favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game (Golden Deer ftw)!
 
-+ Aside from the FE series, I enjoy other game series like [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) (I've beat 1-6 and 13; 7-8 & 15 are WIP/imminent), Pokémon, [Ace Attorney](https://en.wikipedia.org/wiki/Ace_Attorney), Sudoku, and Chess (unrated). I don't play games as often as I used to, but I still enjoy them casually.
++ Aside from the FE series, I enjoy other game series like [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) (I've beat 1-6, 8, 13, and Tactics Advance (1 & 2); 7 & 15 are WIP), Pokémon, [Ace Attorney](https://en.wikipedia.org/wiki/Ace_Attorney), Sudoku, and Chess (unrated). I don't play games as often as I used to, but I still enjoy them casually.
 
 + I love British comedy (my go-tos are [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), etc.)
 
++ I also like watching movies, typically watching non-mainstream, indie, or classic ones. Follow me on [Letterboxd](https://letterboxd.com/davi_duck/), and please feel free to recommend movies!
 
++ I like listening to different genres of music. What I really love are classical (especially [Romantic composers](https://en.wikipedia.org/wiki/Romantic_music)), 70's and 80's, [soca](https://en.wikipedia.org/wiki/Soca_music), [Afrobeats](https://en.wikipedia.org/wiki/Afrobeats).
 ---
 
 ## Must-Reads / Must-Listens
@@ -85,17 +87,3 @@ Below are some articles, videos, or talks that have stood out for me over the pa
 + Then & Now (2022) -- [_Spinoza: A Complete Guide to Life_](https://youtu.be/leoBccWOZfo?si=RyPvdcrex-Jb0G0h)
 
 + Sisyphus 55 (2021) -- [_A GUIDE TO ABSURDISM: The Philosophy For Living Fully_](https://youtu.be/6KC1YrxJma8?si=h8U1Oych4PmhFamK)
-
----
-
-### Music
-
-+ My [_Playlist of Classical Music_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIf1A5XtShJ7eQQKxZztOC-a&feature=share) --- (**CAUTION**: _over 11 hours of content!_)
-
-+ My [_Playlist of Favourite 60's, 70's and 80's songs_](https://music.youtube.com/playlist?list=PL8VyqT-4dMIc2MOpxfdwQIiIl9L3HaSHl&feature=share) --- (**CAUTION**: _over 8 hours of content!_)
-
----
-
-### Movies
-
-+ I am trying to keep track of movies that I watch! Follow me on [Letterboxd](https://letterboxd.com/davi_duck/)!

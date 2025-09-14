@@ -15,20 +15,23 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: /cv/
+          url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view"
           weight: 1
+        - name: Resume
+          url: "https://drive.google.com/file/d/1tabAmFvz4KC_yAgRbN2dha_btvL4NsEg/view"
+          weight: 2
         - name: News
           url: /news/
-          weight: 1
+          weight: 3
         - name: Papers
           url: /papers/
-          weight: 2
+          weight: 4
         - name: Academia
           url: /academia/
-          weight: 3
+          weight: 5
         - name: Blog
           url: /blog/
-          weight: 4
+          weight: 5
         - name: Etcetera
           url: /etcetera/
           weight: 5
@@ -97,7 +100,7 @@ params:
 
     socialIcons:
         - name: "cv"
-          url: "/cv/"
+          url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view?usp=drive_link"
         - name: "gitHub"
           url: "https://github.com/davidpaulius"
         - name: "orcid"
