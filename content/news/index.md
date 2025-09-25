@@ -11,6 +11,14 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-09-25</span>
+        </td>
+        <td>
+            <span>I am honoured to serve as an Associate Editor for <a href="https://2026.ieee-icra.org/" target="_blank">ICRA (IEEE International Conference on Robotics and Automation) 2026</a>!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-06-25</span>
         </td>
         <td>
