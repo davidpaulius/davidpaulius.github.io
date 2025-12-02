@@ -11,6 +11,14 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-11-18</span>
+        </td>
+        <td>
+            <span> I gave a research talk at Williams College!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-09-25</span>
         </td>
         <td>
