@@ -1,7 +1,7 @@
 ---
 title: "[IROS-25] Least Commitment Planning for the Object Scouting Problem"
 date: 2025-10-19
-url: "/papers/iros25/"
+url: "/papers/spop_iros25/"
 tags: ["least commitment planning", "object scouting", "LOMDP", "locally observable Markov decision process", "robot simulation"]
 author: ["Max Merlin", "Ziyi Yang", "George Konidaris", "David Paulius"]
 description: ""
@@ -18,8 +18,9 @@ summary: "TL;DR -- This paper introduces a new planning framework for object sco
 #### Related Links:
 
 + Paper:
+  + [Paper (best version)](http://irl.cs.brown.edu/pubs/scouting_pop.pdf)
   + [Workshop Paper](https://openreview.net/forum?id=t3mtZQqwNS) (Work-in-Progress Paper presented at LEAP Workshop (CoRL 2024))
-  + [Paper](http://irl.cs.brown.edu/pubs/scouting_pop.pdf)
+
 ---
 
 #### NOTES:

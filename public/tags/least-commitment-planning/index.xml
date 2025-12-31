@@ -6,14 +6,14 @@
     <description>Recent content in Least Commitment Planning on David Paulius, Ph.D. | Personal Website</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <copyright>2025 David Paulius</copyright>
+    <copyright>2026 David Paulius</copyright>
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/least-commitment-planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[IROS-25] Least Commitment Planning for the Object Scouting Problem</title>
-      <link>https://davidpaulius.github.io/papers/iros25/</link>
+      <link>https://davidpaulius.github.io/papers/spop_iros25/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/papers/iros25/</guid>
+      <guid>https://davidpaulius.github.io/papers/spop_iros25/</guid>
       <description>TL;DR &amp;ndash; This paper introduces a new planning framework for object scouting called the Scouting Partial-Order Planner, which exploits partial order and regression planning to plan around gaps in knowledge the robot may have about the existence, location, and state of relevant objects in its environment.</description>
     </item>
   </channel>

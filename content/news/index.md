@@ -11,6 +11,14 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2025)">2025-12-31</span>
+        </td>
+        <td>
+            <span> I have completed my postdoctoral research at Brown University! 🐻</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2025)">2025-11-18</span>
         </td>
         <td>
