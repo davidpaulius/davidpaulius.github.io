@@ -2,12 +2,13 @@
 title: "Leben in München: A Reflection of my Year Living in Munich" 
 author: "David Paulius"
 date: 2021-11-15
-description: "This template produces a minimalist academic presentation with LaTeX Beamer." 
-summary: "This template produces a minimalist academic presentation with LaTeX Beamer." 
+description: "A reflection of my year (2020-2021) living in Munich as a postdoc at TUM." 
+summary: "A reflection of my year (2020-2021) living in Munich as a postdoc at TUM." 
 showToc: true
 disableAnchoredHeadings: true
-hideSummary: true
-tags: ["Munich", "TUM", "Postdoc"]
+hideSummary: false
+url: "/blog/tum-postdoc/"
+tags: ["Munich", "TUM", "postdoc", "academia"]
 
 ---
 

@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidpaulius.github.io/tags/abstractions/</loc>
-    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+    <loc>https://davidpaulius.github.io/tags/academia/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/blog/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/professorship/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/research/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/blog/faculty-job-search/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/abstractions/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/foundation-models/</loc>
@@ -30,9 +48,6 @@
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/skill-wrapper/</loc>
-    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/task-planning/</loc>
@@ -164,10 +179,7 @@
     <loc>https://davidpaulius.github.io/tags/semantic-similarity/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/blog/</loc>
-    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/blog/muenchen/</loc>
+    <loc>https://davidpaulius.github.io/blog/tum-postdoc/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/munich/</loc>

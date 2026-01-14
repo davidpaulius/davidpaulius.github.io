@@ -11,10 +11,10 @@
     <atom:link href="https://davidpaulius.github.io/tags/postdoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leben in München: A Reflection of my Year Living in Munich</title>
-      <link>https://davidpaulius.github.io/blog/muenchen/</link>
+      <link>https://davidpaulius.github.io/blog/tum-postdoc/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/blog/muenchen/</guid>
-      <description>This template produces a minimalist academic presentation with LaTeX Beamer.</description>
+      <guid>https://davidpaulius.github.io/blog/tum-postdoc/</guid>
+      <description>A reflection of my year (2020-2021) living in Munich as a postdoc at TUM.</description>
     </item>
   </channel>
 </rss>

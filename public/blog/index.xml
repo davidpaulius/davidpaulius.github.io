@@ -7,14 +7,21 @@
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <copyright>2026 David Paulius</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tips for the Faculty Job Search</title>
+      <link>https://davidpaulius.github.io/blog/faculty-job-search/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/blog/faculty-job-search/</guid>
+      <description>This article is a short summary of recommendations and tips for the faculty job search.</description>
+    </item>
+    <item>
       <title>Leben in München: A Reflection of my Year Living in Munich</title>
-      <link>https://davidpaulius.github.io/blog/muenchen/</link>
+      <link>https://davidpaulius.github.io/blog/tum-postdoc/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/blog/muenchen/</guid>
-      <description>This template produces a minimalist academic presentation with LaTeX Beamer.</description>
+      <guid>https://davidpaulius.github.io/blog/tum-postdoc/</guid>
+      <description>A reflection of my year (2020-2021) living in Munich as a postdoc at TUM.</description>
     </item>
     <item>
       <title>Giving Thanks</title>
