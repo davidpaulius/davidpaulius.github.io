@@ -11,7 +11,7 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
-            <span class="date" style="background:var(--2026)">2025-11-18</span>
+            <span class="date" style="background:var(--2026)">2026-01-13</span>
         </td>
         <td>
             <span> I gave a research talk at the <a href="https://cse.nd.edu/events/object-level-planning-bridging-human-knowledge-and-task-and-motion-planning/" target="_blank">University of Notre Dame</a>!</span>
