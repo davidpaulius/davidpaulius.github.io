@@ -21,13 +21,11 @@ I have been on the faculty job market for a while now (having applied several ti
 First, I outline some useful links and resources that I found to be very helpful. Second, I will give some very general recommendations and tips.
 
 
-### Useful Links and Resources
-
-#### Guides on the Faculty Application Process
+## Guides on the Faculty Application Process
 + [Faculty Application Experience](https://docs.google.com/document/d/1lmqOBtka-QA4OhOkzq_VlIjfi1Eb4Si6bBgSn8wUknk/mobilebasic) by Prof. Daniel Seita (USC) -- This is written by a fellow RSS Pioneer. Daniel eloquently writes in great detail about the entire process from start to finish. He has been very successful in his applications and search process, so he clearly knows what he is saying!
 + [Guide for the CS/IS Tenure-Track Job Market](https://shomir.net/tt_job_guide.html) by Prof. Shomir Wilson (Penn State) -- Another guide that I found to be very helpful.
 
-#### Faculty Job Websites
+## Faculty Job Websites
 These are sorted in order of my preference, with the most preferred website first.
 + [Computing Research Association (CRA) Career Center](https://careercenter.cra.org/jobs)
 + [HigherEdJobs](https://www.higheredjobs.com/)
@@ -36,7 +34,7 @@ These are sorted in order of my preference, with the most preferred website firs
 + [German Academic Jobs](https://www.academics.com/)
 + [LinkedIn](https://www.linkedin.com/jobs/)
 
-#### Faculty Job Cheatsheets
+## Faculty Job Cheatsheets
 + [My University Notes](https://docs.google.com/document/d/12AlMf8ScyRqQ_qj4DTU4bFhcQIYChQGnN2kN84gSWs0/edit?usp=drivesdk)
 	+ For every school you chat and/or interview with, you should make a cheatsheet of key points about the school, the department, the faculty you would want to collaborate with, and the courses you would be interested and able to teach. It is also good to review information about the PhD program if you are considering a research university. 
 	+ Some universities also have interdisciplinary or cross-departmental institutes or groups that could be of interest to you, and they are worth mentioning in your cover letters and interviews.
@@ -45,7 +43,7 @@ These are sorted in order of my preference, with the most preferred website firs
 	+ I have created a Google Sheet that you can use to keep track of your applications and interviews. All you need to do is to copy the template and fill in the relevant information.
 	+ I would highly recommend that you share this template with your closest mentors and letter writers so that they can keep track of letters that they have sent out. 
 
-### Questions for the Interviewers
+## Questions for the Interviewers
 + How are the undergraduate students like at your university? Do they get involved in research? Are they passionate about graduate school?
 + What is the expected teaching load for faculty members?
 + What are the student-to-teacher ratios like?
@@ -54,7 +52,7 @@ These are sorted in order of my preference, with the most preferred website firs
 + What are some of your favourite aspects of the university? 
 + What do you like about the city/town?
 
-### Questions for your Personal Reflection 
+## Questions for your Personal Reflection 
 + Why do you want an academic position?
 + Do you want to do research? Do you want to teach? Do you want to do both or only one of these?
 + Do you want to teach at a research university?
