@@ -7,7 +7,7 @@ author: ["Ziyi Yang", "Benned Hedegaard", "Ahmad Jaafar", "Yichen Wei", "Skye Th
 description: ""
 summary: "TL;DR -- This paper introduces SkillWrapper, a system for creating abstract representations of skills using foundation models."
 cover:
-    image: "/imgs/skill-wrapper.png"
+    image: "/imgs/skillwrapper.png"
     alt: "Overview of the SkillWrapper architecture."
     relative: false
 editPost:
