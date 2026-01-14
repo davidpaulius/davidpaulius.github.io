@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://davidpaulius.github.io/tags/abstractions/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/foundation-models/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/large-language-models/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/llm/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/planning/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/predicate-invention/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/robot-simulation/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/papers/skill-wrapper/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/task-planning/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/spop_iros25/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
@@ -23,19 +53,7 @@
     <loc>https://davidpaulius.github.io/tags/object-scouting/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/robot-simulation/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://davidpaulius.github.io/papers/olp-icra25/</loc>
-    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/large-language-models/</loc>
-    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidpaulius.github.io/tags/llm/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/motion-planning/</loc>
@@ -50,13 +68,13 @@
     <loc>https://davidpaulius.github.io/tags/task-and-motion-planning/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/task-planning/</loc>
-    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/foundation-models/</loc>
+    <loc>https://davidpaulius.github.io/tags/grounding/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/language-grounding/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/linear-temporal-logic/</loc>
@@ -86,7 +104,7 @@
     <loc>https://davidpaulius.github.io/tags/few-shot-planning/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/re-planning/</loc>
+    <loc>https://davidpaulius.github.io/tags/plan-recovery/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/IROS23_skill_gen/</loc>
@@ -105,6 +123,12 @@
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/tags/options-framework/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/skill-generalization/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/skill-learning/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/foon_lhpe/</loc>
@@ -161,7 +185,16 @@
     <loc>https://davidpaulius.github.io/tags/cobots/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidpaulius.github.io/tags/hrc/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/hri/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidpaulius.github.io/tags/human-robot-collaboration/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/human-robot-interaction/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/motion_codes_ICPR20/</loc>
@@ -200,9 +233,6 @@
     <loc>https://davidpaulius.github.io/papers/survey_kr/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidpaulius.github.io/tags/abstractions/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://davidpaulius.github.io/tags/knowledge-representation/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -213,6 +243,9 @@
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/foon_gen_exp/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidpaulius.github.io/tags/natural-language-processing/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidpaulius.github.io/papers/foon_intro/</loc>

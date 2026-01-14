@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Natural Language Processing on David Paulius, Ph.D. | Personal Website</title>
+    <link>https://davidpaulius.github.io/tags/natural-language-processing/</link>
+    <description>Recent content in Natural Language Processing on David Paulius, Ph.D. | Personal Website</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <copyright>2026 David Paulius</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidpaulius.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ICRA-18] Functional Object-Oriented Network: Construction &amp; Expansion</title>
+      <link>https://davidpaulius.github.io/papers/foon_gen_exp/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/foon_gen_exp/</guid>
+      <description>TL;DR &amp;ndash; In this paper, we explore methods in natural language processing (NLP) &amp;ndash; specifically semantic similarity &amp;ndash; for expanding or generalizing knowledge contained in a FOON. This alleviates the need for demonstrating and annotating graphs by other means.</description>
+    </item>
+  </channel>
+</rss>

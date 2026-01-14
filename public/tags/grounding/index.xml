@@ -4,17 +4,24 @@
     <title>Grounding on David Paulius, Ph.D. | Personal Website</title>
     <link>https://davidpaulius.github.io/tags/grounding/</link>
     <description>Recent content in Grounding on David Paulius, Ph.D. | Personal Website</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <copyright>2025 David Paulius</copyright>
+    <copyright>2026 David Paulius</copyright>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/grounding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models</title>
+      <title>[IROS-24] Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models </title>
       <link>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/papers/IROS24_spatiotemp/</guid>
-      <description>TL;DR &amp;ndash; Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as the formal language LTL (linear temporal logic).</description>
+      <description>IROS-24</description>
+    </item>
+    <item>
+      <title>[RAL-23] Long-Horizon Planning and Execution with Functional Object-Oriented Networks</title>
+      <link>https://davidpaulius.github.io/papers/foon_lhpe/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/foon_lhpe/</guid>
+      <description>TL;DR &amp;ndash; In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks).</description>
     </item>
   </channel>
 </rss>

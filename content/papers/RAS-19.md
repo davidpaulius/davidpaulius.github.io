@@ -2,7 +2,7 @@
 title: "[RAS-19] A Survey of Knowledge Representation in Service Robotics"
 date: 2019-08-01
 url: "/papers/survey_kr/"
-tags: ["knowledge representation","survey", "abstractions"]
+tags: ["knowledge representation","survey", "abstractions", "task planning"]
 author: ["David Paulius", "Yu Sun"]
 description: ""
 summary: "TL;DR -- This was my first survey paper that covers knowledge representations for service robotics. Although it is dated, it covers an extensive list of approaches used to represent knowledge for several robot sub-tasks."

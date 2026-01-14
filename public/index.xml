@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <copyright>2026 David Paulius</copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SkillWrapper: Generative Predicate Invention for Skill Abstraction</title>
+      <link>https://davidpaulius.github.io/papers/skill-wrapper/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/papers/skill-wrapper/</guid>
+      <description>TL;DR &amp;ndash; This paper introduces SkillWrapper, a system for creating abstract representations of skills using foundation models.</description>
+    </item>
     <item>
       <title>[IROS-25] Least Commitment Planning for the Object Scouting Problem</title>
       <link>https://davidpaulius.github.io/papers/spop_iros25/</link>

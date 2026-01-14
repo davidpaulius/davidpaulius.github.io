@@ -25,12 +25,12 @@ summary: "TL;DR -- This paper introduces a new planning framework for object sco
 
 #### NOTES:
 
-+ David Paulius and [George Konidaris](https://cs.brown.edu/~gdk/) are joint last authors (equal advising).
 + This paper introduces the _object scouting problem_: a way of tackling different types of uncertainty (_spatial uncertainty_ and _state uncertainty_) related to mobile manipulation and long-horizon task execution.
 + The object scouting problem is modelled using the **locally observable Markov decision process (LOMDP)** previously introduced by [Merlin et al. 2024](https://ieeexplore.ieee.org/abstract/document/10610876).
 + We introduce a new planner specifically designed for object scouting known as **SPOP** (scouting partial-order planner), which is based on the idea of least commitment planning by [Weld 1994](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1109).
 + We show how this planner is better suited for planning to find task-relevant objects and resolve the plans to incorporate these objects than the previous LOMDP planner.
   + These are specifically highlighted in the AI2THOR simulator environment.
++ David Paulius and [George Konidaris](https://cs.brown.edu/~gdk/) are joint last authors (equal advising).
 
 
 ---

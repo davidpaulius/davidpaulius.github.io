@@ -2,7 +2,7 @@
 title: "[CoRL-WS-22] Object-Level Planning and Abstraction"
 date: 2022-12-14
 url: /papers/olp_bluesky/
-tags: ["object-level planning", "task and motion planning", "TAMP", "object-level representations"]
+tags: ["object-level planning", "task and motion planning", "TAMP", "object-level representations", "task planning", "abstractions"]
 author: ["David Paulius"]
 description: ""
 Summary: "TL;DR -- This workshop paper (specifically, a blue-sky submission) introduces the importance of object-level planning and representation as an additional layer on top of task and motion planning. I present several benefits of using object-level planning for long-term use in robotics."

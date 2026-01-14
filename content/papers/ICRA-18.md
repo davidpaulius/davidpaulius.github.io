@@ -2,7 +2,7 @@
 title: "[ICRA-18] Functional Object-Oriented Network: Construction & Expansion"
 date: 2018-05-01
 url: "/papers/foon_gen_exp/"
-tags: ["task planning", "human-robot collaboration", "cobots", "functional object-oriented networks", "FOON", "semantic similarity"]
+tags: ["task planning", "human-robot collaboration", "cobots", "functional object-oriented networks", "FOON", "semantic similarity", "natural language processing"]
 author: ["David Paulius", "Ahmad Babaeian Jelodar", "Yu Sun"]
 description: ""
 summary: "TL;DR -- In this paper, we explore methods in natural language processing (NLP) -- specifically semantic similarity -- for expanding or generalizing knowledge contained in a FOON. This alleviates the need for demonstrating and annotating graphs by other means."

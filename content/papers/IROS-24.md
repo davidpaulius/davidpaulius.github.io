@@ -2,7 +2,7 @@
 title: "[IROS-24] Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models "
 date: 2024-09-01
 url: "/papers/IROS24_spatiotemp/"
-tags: ["linear temporal logic", "LTL", "spatiotemporal grounding", "natural language", "foundation models", "vision-language models", "VLM", "large language models", "LLM", "word embedding"]
+tags: ["linear temporal logic", "LTL", "spatiotemporal grounding", "natural language", "foundation models", "vision-language models", "VLM", "large language models", "LLM", "word embedding", "language grounding", "grounding"]
 author: ["Jason Xinyu Liu", "Ankit Shah", "George Konidaris", "Stefanie Tellex", "David Paulius"]
 description: "IROS-24"
 summary: "TL;DR -- Building on prior work (Lang2LTL - CoRL 2023), this paper introduces a modular system that enables robots to follow natural language commands with spatiotemporal referring expressions. This system leverages multi-modal foundation models as well as linear temporal logic."

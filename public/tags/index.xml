@@ -7,8 +7,64 @@
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <copyright>2026 David Paulius</copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidpaulius.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstractions</title>
+      <link>https://davidpaulius.github.io/tags/abstractions/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/abstractions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foundation Models</title>
+      <link>https://davidpaulius.github.io/tags/foundation-models/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/foundation-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Large Language Models</title>
+      <link>https://davidpaulius.github.io/tags/large-language-models/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://davidpaulius.github.io/tags/llm/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>https://davidpaulius.github.io/tags/planning/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predicate Invention</title>
+      <link>https://davidpaulius.github.io/tags/predicate-invention/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/predicate-invention/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robot Simulation</title>
+      <link>https://davidpaulius.github.io/tags/robot-simulation/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/robot-simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Task Planning</title>
+      <link>https://davidpaulius.github.io/tags/task-planning/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/task-planning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Least Commitment Planning</title>
       <link>https://davidpaulius.github.io/tags/least-commitment-planning/</link>
@@ -35,27 +91,6 @@
       <link>https://davidpaulius.github.io/tags/object-scouting/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/object-scouting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robot Simulation</title>
-      <link>https://davidpaulius.github.io/tags/robot-simulation/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/robot-simulation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Large Language Models</title>
-      <link>https://davidpaulius.github.io/tags/large-language-models/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/large-language-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LLM</title>
-      <link>https://davidpaulius.github.io/tags/llm/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
@@ -87,17 +122,17 @@
       <description></description>
     </item>
     <item>
-      <title>Task Planning</title>
-      <link>https://davidpaulius.github.io/tags/task-planning/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/task-planning/</guid>
+      <title>Grounding</title>
+      <link>https://davidpaulius.github.io/tags/grounding/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/grounding/</guid>
       <description></description>
     </item>
     <item>
-      <title>Foundation Models</title>
-      <link>https://davidpaulius.github.io/tags/foundation-models/</link>
+      <title>Language Grounding</title>
+      <link>https://davidpaulius.github.io/tags/language-grounding/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/foundation-models/</guid>
+      <guid>https://davidpaulius.github.io/tags/language-grounding/</guid>
       <description></description>
     </item>
     <item>
@@ -157,10 +192,10 @@
       <description></description>
     </item>
     <item>
-      <title>Re-Planning</title>
-      <link>https://davidpaulius.github.io/tags/re-planning/</link>
+      <title>Plan Recovery</title>
+      <link>https://davidpaulius.github.io/tags/plan-recovery/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/re-planning/</guid>
+      <guid>https://davidpaulius.github.io/tags/plan-recovery/</guid>
       <description></description>
     </item>
     <item>
@@ -196,6 +231,20 @@
       <link>https://davidpaulius.github.io/tags/options-framework/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/options-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skill Generalization</title>
+      <link>https://davidpaulius.github.io/tags/skill-generalization/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/skill-generalization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skill Learning</title>
+      <link>https://davidpaulius.github.io/tags/skill-learning/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/skill-learning/</guid>
       <description></description>
     </item>
     <item>
@@ -276,10 +325,31 @@
       <description></description>
     </item>
     <item>
+      <title>HRC</title>
+      <link>https://davidpaulius.github.io/tags/hrc/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/hrc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HRI</title>
+      <link>https://davidpaulius.github.io/tags/hri/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/hri/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Human-Robot Collaboration</title>
       <link>https://davidpaulius.github.io/tags/human-robot-collaboration/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/human-robot-collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human-Robot Interaction</title>
+      <link>https://davidpaulius.github.io/tags/human-robot-interaction/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/human-robot-interaction/</guid>
       <description></description>
     </item>
     <item>
@@ -325,13 +395,6 @@
       <description></description>
     </item>
     <item>
-      <title>Abstractions</title>
-      <link>https://davidpaulius.github.io/tags/abstractions/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidpaulius.github.io/tags/abstractions/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Knowledge Representation</title>
       <link>https://davidpaulius.github.io/tags/knowledge-representation/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -343,6 +406,13 @@
       <link>https://davidpaulius.github.io/tags/survey/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://davidpaulius.github.io/tags/survey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://davidpaulius.github.io/tags/natural-language-processing/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://davidpaulius.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
   </channel>

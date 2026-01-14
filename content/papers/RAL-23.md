@@ -2,7 +2,7 @@
 title: "[RAL-23] Long-Horizon Planning and Execution with Functional Object-Oriented Networks"
 date: 2023-06-13
 url: "/papers/foon_lhpe/"
-tags: ["object-level planning","task and motion planning","TAMP","functional object-oriented networks", "FOON"]
+tags: ["object-level planning", "task and motion planning", "TAMP", "functional object-oriented networks", "FOON", "grounding", "robot simulation"]
 author: ["David Paulius", "Alejandro Agostini", "Dongheui Lee"]
 description: ""
 summary: "TL;DR -- In this paper, we introduce the idea of connecting FOONs to robotic task and motion planning. We automatically transform a FOON graph, which exists at the object level (i.e., it is a representation that uses meaningful labels or expressions close to human language), into task planning specifications written in PDDL (not a very intuitive way to communicate about tasks)."
