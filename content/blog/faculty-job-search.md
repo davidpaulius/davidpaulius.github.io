@@ -39,7 +39,7 @@ These are sorted in order of my preference, with the most preferred website firs
 	+ For every school you chat and/or interview with, you should make a cheatsheet of key points about the school, the department, the faculty you would want to collaborate with, and the courses you would be interested and able to teach. It is also good to review information about the PhD program if you are considering a research university. 
 	+ Some universities also have interdisciplinary or cross-departmental institutes or groups that could be of interest to you, and they are worth mentioning in your cover letters and interviews.
 	+ I highly recommend that you review the way I structured my notes and do it your own way. I personally like to go crawling on the department websites and copy-paste as much information as possible.
-+ [Faculty Application Tracker](https://docs.google.com/spreadsheets/d/1N9JRXNfNPZOVaO8c4DSk_a1Fix1UltaamB3by4e9Uvk/edit?usp=sharing)
++ [Faculty Application Tracker](https://docs.google.com/spreadsheets/d/1GVP5T5iAP2eWPFBEWvKS8_-uuf5fGGokxcGzJHXQp_k/edit?usp=sharing)
 	+ I have created a Google Sheet that you can use to keep track of your applications and interviews. All you need to do is to copy the template and fill in the relevant information.
 	+ I would highly recommend that you share this template with your closest mentors and letter writers so that they can keep track of letters that they have sent out. 
 
