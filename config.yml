@@ -88,7 +88,7 @@ params:
           imageUrl: "/imgs/profile.jpg"
           imageWidth: 200
           imageHeight: 200
-          imageTitle: "Profile Picture of David Paulius"
+          imageTitle: "Headshot of David Paulius. David is wearing a dapper black suit with a red tie in front of a 400-year old Saman tree at Romney Manor, St. Kitts."
           buttons:
             - name: "Latest News"
               url: /news/
