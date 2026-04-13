@@ -44,15 +44,15 @@ I have always been an avid learner: as a child, I was fascinated by the fields o
 
 Somehow, I ended up drawn to <i>computing</i> (despite my major case of indecisiveness), as I thoroughly enjoyed learning about logic and program design for problem-solving. It was at UVI where I learned that computer science is a diverse field that goes beyond programming. My favourite courses at UVI included algorithms and machine learning. I was also curious about robotics and artificial intelligence. I credit my advisors <a href="https://www.uvi.edu/directory/faculty/marc-boumedine.html" target="_blank">Dr. Marc Boumedine</a> and <a href="https://www.linkedin.com/in/drwaynearchibald" target="_blank">Dr. Wayne Archibald</a> for motivating me to pursue my doctorate.
 
-After completing my undergraduate studies, I dove into the world of robotics and AI, which I had little to no clue about! I joined the Robot Perception and Action Lab (RPAL) at USF under the supervision of <a href="https://cse.usf.edu/~yusun/" target="_blank">Dr. Yu Sun</a>. I graduated USF in May 2020 during the onset of the COVID-19 pandemic. A few months after graduating, I made the decision to move to Munich, Germany to work as a postdoctoral researcher at the Technical University of Munich until 2021, after which I then moved to my present appointment at Brown University.
+After completing my undergraduate studies, I dove into the world of robotics and AI, which I had little to no clue about! I joined the Robot Perception and Action Lab (RPAL) at USF under the supervision of <a href="https://cse.usf.edu/~yusun/" target="_blank">Dr. Yu Sun</a>. I graduated USF in May 2020 during the onset of the COVID-19 pandemic. A few months after graduating, I made the decision to move to Munich, Germany to work as a postdoctoral researcher at the Technical University of Munich until 2021, after which I then moved to Brown University, where I continued research from 2021 to 2025.
 
 ---
 
 ## Where is David?
 
-I am presently affiliated with Brown University, where I work as a postdoctoral researcher and a member of the <a href="http://irl.cs.brown.edu/" target="_blank">Intelligent Robot Lab</a> directed by <a href="https://cs.brown.edu/~gdk/" target="_blank">Prof. George Konidaris</a>.
+I am presently based in St. Kitts and Nevis!
 
-As a postdoc, I aim to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course).
+I am no longer affiliated with Brown University, as my term as a postdoctoral researcher in the <a href="http://irl.cs.brown.edu/" target="_blank">Intelligent Robot Lab</a> (directed by <a href="https://cs.brown.edu/~gdk/" target="_blank">Prof. George Konidaris</a>) has ended. As a postdoc, I aimed to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course). Looking back, I believe I've achieved this and more.
 
 ---
 
