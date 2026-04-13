@@ -2,7 +2,8 @@
 title: "Papers"
 aliases: /papers/
 description: ""
-disableAnchoredHeadings: false
+hideMeta: true
+disableAnchoredHeadings: true
 ---
 
 <!-- # Papers and Publications -->
@@ -10,6 +11,7 @@ disableAnchoredHeadings: false
 ### NOTE: Sorted from newest to oldest; some papers have not been added yet (WIP).
 
 You may find a complete list of my publications on <a href="https://scholar.google.com/citations?user=aMxXkWkAAAAJ" target="_blank">Google Scholar</a>.
+
 ---
 
 <style>

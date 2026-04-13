@@ -3,7 +3,7 @@ title: "Latest News & Timeline"
 description: "My Latest Updates"
 author: ["David Paulius"]
 hideMeta: true
-disableAnchoredHeadings: false
+disableAnchoredHeadings: true
 ---
 
 ### Note: Check out [this link]({{< ref "./papers/_index.md" >}}) for a comprehensive list of paper updates!
@@ -11,10 +11,10 @@ disableAnchoredHeadings: false
 <table>
     <tr style="vertical-align:top;">
         <td>
-            <span class="date" style="background:var(--2026)">2025-04-12</span>
+            <span class="date" style="background:var(--2026)">2026-04-12</span>
         </td>
         <td>
-            <span>I am honoured to serve as an Area Chair for <a href="https://www.corl.org/" target="_blank">CoRL (Conference on Robot Learning) 2025</a>!</span>
+            <span>I am honoured to serve as an Area Chair for <a href="https://www.corl.org/" target="_blank">CoRL (Conference on Robot Learning) 2026</a>!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
