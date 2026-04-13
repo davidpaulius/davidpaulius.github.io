@@ -1,16 +1,19 @@
 ---
 title: "Papers"
+author: ["David Paulius"]
 aliases: /papers/
 description: ""
 hideMeta: true
 disableAnchoredHeadings: true
 ---
 
-<!-- # Papers and Publications -->
+# Papers & Projects
 
-### NOTE: Sorted from newest to oldest; some papers have not been added yet (WIP).
+---
 
-You may find a complete list of my publications on <a href="https://scholar.google.com/citations?user=aMxXkWkAAAAJ" target="_blank">Google Scholar</a>.
+### Note 1: Sorted from newest to oldest; some papers have not been added yet (WIP).
+
+### Note 2: You may find a complete list of my publications on <a href="https://scholar.google.com/citations?user=aMxXkWkAAAAJ" target="_blank">Google Scholar</a>.
 
 ---
 

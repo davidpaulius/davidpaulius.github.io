@@ -1,9 +1,10 @@
 ---
 title: "Academic Philosophy"
-author: "David Paulius"
+author: ["David Paulius"]
 hideMeta: true
 ---
-### NOTE: Featured here are documents for Faculty Applications.
+
+### Note: Featured here are documents for Faculty Applications.
 
 #### My Role as an Academic
 
