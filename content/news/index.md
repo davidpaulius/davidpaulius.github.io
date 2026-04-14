@@ -11,6 +11,14 @@ disableAnchoredHeadings: true
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2026)">2026-04-14</span>
+        </td>
+        <td>
+            <span>I gave a guest lecture on <i>Object-level Planning</i> as part of the <a href="https://cs.brown.edu/courses/cs1952d/" target="_blank">Brown University CSCI1952D: Intelligent Robotics</a> course!</span>
+        </td>
+    </tr>
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2026)">2026-04-12</span>
         </td>
         <td>
