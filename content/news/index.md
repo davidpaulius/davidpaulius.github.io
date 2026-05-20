@@ -11,6 +11,14 @@ disableAnchoredHeadings: true
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2026)">2026-05-20</span>
+        </td>
+        <td>
+            <span> The <a href="https://worldmodelworkshop.github.io/" target="_blank">1st Workshop on Bridging the Gap between Neural and Symbolic World Models for Robot Planning, Reasoning, and Action</a> has been accepted to IROS 2026!</span>
+        </td>
+    </tr>    
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2026)">2026-04-14</span>
         </td>
         <td>

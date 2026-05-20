@@ -11,19 +11,21 @@ hideSummary: false
 
 ---
 
-
 ## Random Facts about Me
 
-+ I am a ***huge*** fan of the [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem) series.
++ I am a ***huge*** fan of the [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem) video game series.
     + My website's favicon is the <a href="https://fireemblem.fandom.com/wiki/Crest">Crest of Riegan</a> from the Fire Emblem: Three Houses game (Golden Deer ftw)!
 
-+ Aside from the FE series, I enjoy other game series like [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) (I've beat 1-6, 8, 13, and Tactics Advance (1 & 2); 7 & 15 are WIP), Pokémon, [Ace Attorney](https://en.wikipedia.org/wiki/Ace_Attorney), Sudoku, and Chess (unrated). I don't play games as often as I used to, but I still enjoy them casually.
++ Aside from the FE series, I enjoy other games like [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) (I've beat 1-6, 8, 13, and Tactics Advance (1 & 2); 7 & 15 are WIP), Pokémon, [Ace Attorney](https://en.wikipedia.org/wiki/Ace_Attorney), Sudoku, and Chess (unrated). I don't play games as often as I used to, but I still enjoy them casually.
 
-+ I love British comedy (my go-tos are [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), etc.)
++ I love British comedy shows! My go-tos are [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)), [Peep Show](https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)), [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd), [WILTY](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)), [Cats Countdown](https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown), and many more.
 
-+ I also like watching movies, typically watching non-mainstream, indie, or classic ones. Follow me on [Letterboxd](https://letterboxd.com/davi_duck/), and please feel free to recommend movies!
++ I love movies! I typically enjoy watching non-mainstream, indie, or classic ones. Follow me on [Letterboxd](https://letterboxd.com/davi_duck/), and please feel free to recommend movies!
 
-+ I like listening to different genres of music. What I really love are classical (especially [Romantic composers](https://en.wikipedia.org/wiki/Romantic_music)), 70's and 80's, [soca](https://en.wikipedia.org/wiki/Soca_music), [Afrobeats](https://en.wikipedia.org/wiki/Afrobeats).
++ I like listening to different genres of music. What I really love are:
+    + Classical music, especially [Romantic composers](https://en.wikipedia.org/wiki/Romantic_music). My favourite composers are [Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k), [Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff), and [Debussy](https://en.wikipedia.org/wiki/Claude_Debussy) (in no particular order).
+    + 70's and 80's music (rock, pop, disco, R&B, etc).
+    + [Soca](https://en.wikipedia.org/wiki/Soca_music) and [Afrobeats](https://en.wikipedia.org/wiki/Afrobeats).
 ---
 
 ## Must-Reads / Must-Listens

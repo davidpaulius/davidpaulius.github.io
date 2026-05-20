@@ -19,7 +19,7 @@ hideSummary: false
 
 My name is pronounced as <a href="http://ipa-reader.xyz/?text=%20david&voice=Brian" target="_blank">_DAH-veed_</a> or <a href="http://ipa-reader.xyz/?text=%20dav%C9%AAd&voice=Brian" target="_blank">_DAH-vid_</a>.
 
-I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=17.368459,-68.4553&z=5&t=m&hl=en-US&gl=US&mapclient=embed&q=St+Kitts+%26+Nevis" target="_blank_">St. Kitts and Nevis</a>, W.I. (i.e., _West Indies_).
+I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=17.368459,-68.4553&z=5&t=m&hl=en-US&gl=US&mapclient=embed&q=St+Kitts+%26+Nevis" target="_blank_">St. Kitts and Nevis</a>, W.I. (i.e., _West Indies_) since I was a toddler.
 
 <details>
 <summary><i>(See map here)</i></summary>
@@ -28,7 +28,7 @@ I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=1
 <br>
 
 
-I completed my primary and secondary school education in St. Kitts: I attended the St. Theresa's Convent High School (locally called the "Convent School"), a private school affiliated with the Immaculate Conception Catholic Church. Since graduating, it has been renamed to the Immaculate Conception Catholic School (or ICCS). I took a wide array of CSEC subjects (equivalent to the British GSCE O-levels).
+I completed my primary and secondary school education in St. Kitts. I attended the St. Theresa's Convent High School (locally called the "Convent School"), a private school affiliated with the Immaculate Conception Catholic Church. Since graduating, it has been renamed to the Immaculate Conception Catholic School (or ICCS). I took a wide array of CSEC subjects (equivalent to the British GSCE O-levels).
 
 After high school, I attended our local community college, the Clarence Fitzroy Bryant College (CFBC), where I obtained my Associate's Degree in General Studies by completing a mix of courses (equivalent to British GCSE A-levels): Pure Mathematics, Computer Science, Communication Studies, Caribbean Studies, and Spanish.
 
