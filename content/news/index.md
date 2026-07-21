@@ -11,10 +11,18 @@ disableAnchoredHeadings: true
 <table>
     <tr style="vertical-align:top;">
         <td>
+            <span class="date" style="background:var(--2026)">2026-07-20</span>
+        </td>
+        <td>
+            <span>I am honoured to serve as a organizer for the <a href="https://leap-workshop.github.io/" target="_blank">4th Workshop on Learning Effective Abstractions for Planning (LEAP)</a>, which has been accepted to CoRL 2026!</span>
+        </td>
+    </tr>    
+    <tr style="vertical-align:top;">
+        <td>
             <span class="date" style="background:var(--2026)">2026-05-20</span>
         </td>
         <td>
-            <span> The <a href="https://worldmodelworkshop.github.io/" target="_blank">1st Workshop on Bridging the Gap between Neural and Symbolic World Models for Robot Planning, Reasoning, and Action</a> has been accepted to IROS 2026!</span>
+            <span>I am honoured to serve as a program committee member for the <a href="https://worldmodelworkshop.github.io/" target="_blank">1st Workshop on Bridging the Gap between Neural and Symbolic World Models for Robot Planning, Reasoning, and Action</a>, which has been accepted to IROS 2026!</span>
         </td>
     </tr>    
     <tr style="vertical-align:top;">
@@ -133,7 +141,7 @@ disableAnchoredHeadings: true
             <span class="date" style="background:var(--2025)">2025-03-21</span>
         </td>
         <td>
-            <span> The <a href="https://sites.google.com/view/rss2025-reliable-robotics/" target="_blank">1st Workshop on Reliable Robotics: Safety and Security in the Face of GenAI</a> has been accepted to RSS 2025!</span>
+            <span> I am honoured to serve as a organizer for the <a href="https://sites.google.com/view/rss2025-reliable-robotics/" target="_blank">1st Workshop on Reliable Robotics: Safety and Security in the Face of GenAI</a>, which has been accepted to RSS 2025!</span>
         </td>
     </tr>
     <tr style="vertical-align:top;">
