@@ -1,7 +1,7 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
     <span>{{ site.Copyright | markdownify }}</span>
-<!--     {{- if site.Copyright }}
+    <!--     {{- if site.Copyright }}
     {{- else }} -->
     <!-- <span><a href="mailto:pascalmichaillat@brown.edu">Contact by email</a>&ensp;&middot;&ensp;<a href="https://pmichaillat.substack.com">Subscribe to newsletter</a></span> -->
     <!-- by <a href="{{ "" | absLangURL }}">{{ site.Title }} -->
@@ -9,15 +9,20 @@
     <!-- {{- end }} -->
     <span> • </span>
     <span>
-        Email: 
+        Email:
         <span id="email"></span>
         <script>
-                emailScramble = new scrambledString(
-                    document.getElementById('email'),
-                    'emailScramble', 
-                    'uadsid.wropes.nb@uclu',
-                    [21, 3, 20, 11, 6, 1, 12, 16, 14, 15, 2, 19, 8, 18, 17, 13, 9, 7, 10, 5, 4]
-                );
+            emailScramble = new scrambledString(
+                document.getElementById('email'),
+                'emailScramble',
+                // NOTE: for future me, here's what you need to do:
+                // -- 1. set some string to the email, e.g. `[EMAIL_ADDRESS]`: 'x.d.lopa@es'.
+                // -- 2. make a list of indices equal to the length of the email
+                // -- 3. randomly shuffle the order of the list in step 2 using "random.shuffle(...)"
+                // -- 4. put the scrambled string here, and the shuffled list of indices here.
+                'udln@ue.daupdsi',
+                [6, 0, 4, 9, 8, 3, 12, 11, 13, 2, 14, 1, 10, 7, 5]
+            );
         </script>
     </span>
     <span> • </span>

@@ -1,0 +1,100 @@
+<div class="profile">
+    {{- with site.Params.profileMode }}
+    <div class="profile_inner">
+        {{- if .imageUrl -}}
+        {{- $img := "" }}
+        {{- if not (urls.Parse .imageUrl).IsAbs }}
+        {{- $img = resources.Get .imageUrl }}
+        {{- end }}
+        <div class="avatar-container{{ if .imageClickable }} clickable{{ end }}">
+            <div class="avatar-wrapper" style="{{ printf " width: %dpx; height: %dpx;" (.imageWidth | default 150)
+                (.imageHeight | default 150) | safeCSS }}">
+                {{- if $img }}
+                <img id="profile-avatar" class="{{ if .imageClickable }}clickable-avatar{{ end }}" draggable="false"
+                    src="{{ $img.Permalink }}" alt="{{ .imageTitle | default " profile image" }}"
+                    title="{{ .imageTitle }}" height="{{ .imageHeight | default 150 }}"
+                    width="{{ .imageWidth | default 150 }}" />
+                {{- else }}
+                <img id="profile-avatar" class="{{ if .imageClickable }}clickable-avatar{{ end }}" draggable="false"
+                    src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default " profile image" }}"
+                    title="{{ .imageTitle }}" height="{{ .imageHeight | default 150 }}"
+                    width="{{ .imageWidth | default 150 }}" />
+                {{- end }}
+            </div>
+        </div>
+        {{- end }}
+        <h1>{{ .title | default site.Title | markdownify }}</h1>
+        <span>{{ .subtitle | markdownify }}</span>
+        {{- partial "social_icons.html" -}}
+
+        {{- with .buttons }}
+        <div class="buttons">
+            {{- range . }}
+            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+                <span class="button-inner">
+                    {{ .name }}
+                    {{- if (findRE "://" .url) }}&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                    {{- end }}
+                </span>
+            </a>
+            {{- end }}
+        </div>
+        {{- end }}
+    </div>
+    {{- end}}
+</div>
+
+{{- if site.Params.profileMode.imageClickable }}
+<div id="image-modal" class="image-modal">
+    <span class="modal-close">&times;</span>
+    <div class="modal-wrapper">
+        <img class="modal-content{{ if site.Params.profileMode.fullImageCaption }} has-caption{{ end }}" id="modal-img"
+            alt="Profile Image Expanded">
+        {{- with site.Params.profileMode.fullImageCaption }}
+        <div class="modal-caption" id="modal-caption">{{ . | markdownify }}</div>
+        {{- end }}
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const modal = document.getElementById("image-modal");
+        const modalImg = document.getElementById("modal-img");
+        const closeBtn = document.querySelector(".modal-close");
+        const avatars = document.querySelectorAll(".clickable-avatar");
+
+        avatars.forEach(avatar => {
+            avatar.style.cursor = "pointer";
+            avatar.addEventListener("click", function () {
+                modal.classList.add("active");
+                modalImg.src = "{{ site.Params.profileMode.imageUrl | absURL }}";
+                document.body.style.overflow = "hidden";
+            });
+        });
+
+        function closeModal() {
+            modal.classList.remove("active");
+            document.body.style.overflow = "";
+        }
+
+        closeBtn.addEventListener("click", closeModal);
+        modal.addEventListener("click", function (e) {
+            if (e.target === modal || e.target === closeBtn) {
+                closeModal();
+            }
+        });
+
+        document.addEventListener("keydown", function (e) {
+            if (e.key === "Escape" && modal.classList.contains("active")) {
+                closeModal();
+            }
+        });
+    });
+</script>
+{{- end }}
