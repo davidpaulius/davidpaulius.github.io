@@ -1,5 +1,5 @@
 ---
-title: "Blog" 
+title: "Thoughts & Musings" 
 author: "David Paulius"
 description: "This template produces a minimalist academic presentation with LaTeX Beamer." 
 summary: "This template produces a minimalist academic presentation with LaTeX Beamer." 
@@ -9,7 +9,7 @@ disableAnchoredHeadings: false
 ---
 <style>
 	.post-entry:hover {
-    	border: 2px solid var(--2021);
+    	border: 1px solid var(--2021);
 	}
 	.list {
 		background: var(--theme);

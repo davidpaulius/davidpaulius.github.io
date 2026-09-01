@@ -44,7 +44,7 @@ params:
     hideFooter: false
     disableThemeToggle: false
     ShowShareButtons: false
-    ShareButtons: ["linkedin"]
+    ShareButtons: ["linkedin", "whatsapp"]
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
@@ -67,7 +67,7 @@ params:
                     •	A postdoc at <a href='https://www.cse.nd.edu/' target='_blank'>Notre Dame</a> (prior: Brown University and TU Munich). 🍀⛪\ 
                     <br><br><details><br>\
                     <summary>Short Bio:</summary>\
-                    <p style='text-align: justify; border-width: 3px; border-style: solid; padding: 20px;'>\
+                    <p style='text-align: justify; border-width: 3px; border-style: solid; padding: 20px; background: #eeeeee;'>\
                     David Paulius (he/him) is a computer scientist and roboticist from the twin island federation of <a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>Saint Kitts and Nevis</a>. \
                     He is currently a postdoctoral researcher at the <a href='https://www.cse.nd.edu/' target='_blank'>University of Notre Dame</a>. \
                     His work aims to enable robots to solve complex \
@@ -127,21 +127,26 @@ params:
 
     # stuff for fonts:
     google_fonts: [
-      ["Fira Code", "400, 700"],
-      ["Open Sans", "400, 400i, 700, 700i", "900"],
-      ["IBM Plex Sans", "400", "500","400i", "500i", "900", "900i"],
+      ["Fira Code", "400", "700"],
+      ["Open Sans", "400", "400i", "700", "700i", "900"],
+      ["IBM Plex Sans", "400", "500", "400i", "500i", "900", "900i"],
       ["IBM Plex Serif", "400", "500", "900"],
       ["IBM Plex Mono", "400", "500","400i", "500i", "900", "900i"],
+      ["Noto Sans", "400", "500", "400i", "500i", "900", "900i"],
+      ["Noto Serif", "400", "500", "900"],
+      ["Inter Tight", "400", "500", "600", "700", "800", "900"],
+      ["Inter", "400", "500", "600", "700", "800", "900"],
+      ["Playfair Display", "400", "500", "600", "700", "800", "900"],
     ]
     fonts:
       heading:
-        name: "IBM Plex Mono"
-        weight: "900"
+        name: "Inter Tight"
+        weight: "600"
         style: regular
       body:
-        name: "IBM Plex Sans"
+        name: "Inter Tight"
         weight: "400"
-        style: "normal"
+        style: "regular"
 
 markup:
     goldmark:

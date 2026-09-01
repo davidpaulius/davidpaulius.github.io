@@ -25,12 +25,13 @@
 }
 
 .logo a {
-    font-family: 'IBM Plex Mono';
+    /* font-family: var(--); */
     font-size: var(--logosize);
     font-weight: var(--bold);
 }
 
-.logo a img, .logo a svg {
+.logo a img,
+.logo a svg {
     display: inline;
     vertical-align: middle;
     pointer-events: none;
@@ -60,13 +61,17 @@ body:not(.dark) #sun {
     white-space: nowrap;
 }
 
-#menu li + li {
+#menu li+li {
     margin-inline-start: var(--gap);
 }
 
 #menu a {
     font-size: var(--headersize);
     font-weight: 400;
+}
+
+#menu a:hover {
+    color: var(--blue);
 }
 
 #menu .active {

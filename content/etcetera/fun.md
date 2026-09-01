@@ -1,5 +1,5 @@
 ---
-title: "Fun Stuff 😜"
+title: "Fun Stuff 🏋️"
 author: "David Paulius"
 description: "This is an overview of David Paulius, Ph.D."
 summary: "Random things that fascinate me that are not relevant to my own research or work. :)"
