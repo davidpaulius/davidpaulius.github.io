@@ -26,9 +26,9 @@ menu:
         - name: Papers
           url: /papers/
           weight: 4
-        - name: Academia
-          url: /academia/
-          weight: 5
+        # - name: Academia
+        #   url: /academia/
+        #   weight: 5
         - name: Blog
           url: /blog/
           weight: 5

@@ -50,9 +50,7 @@ After completing my undergraduate studies, I dove into the world of robotics and
 
 ## Where is David?
 
-I am presently based in St. Kitts and Nevis!
-
-I am no longer affiliated with Brown University, as my term as a postdoctoral researcher in the <a href="http://irl.cs.brown.edu/" target="_blank">Intelligent Robot Lab</a> (directed by <a href="https://cs.brown.edu/~gdk/" target="_blank">Prof. George Konidaris</a>) has ended. As a postdoc, I aimed to develop the skills and experiences needed to lead my own research group one day (while racking up _extra paper_ -- not the monetary kind, of course). Looking back, I believe I've achieved this and more.
+My first home will always be St. Kitts and Nevis, but my second home is now <a href="https://www.nd.edu/" target="_blank">Notre Dame, Indiana</a>! x
 
 ---
 
