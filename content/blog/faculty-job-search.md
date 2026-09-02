@@ -45,7 +45,7 @@ These are sorted in order of my preference, with the most preferred website firs
 	+ I have created a Google Sheet that you can use to keep track of your applications and interviews. All you need to do is to copy the template and fill in the relevant information.
 	+ I highly recommend sharing your populated sheet with your closest mentors and letter writers so that they can keep track of letters they have sent out. (At the very least, share it with one trusted mentor.)
 
-+ [Faculty Application Documents](({{< relref "/academia/" >}})) (**NOTE**: _These are my personal documents and may not be applicable to everyone_)
++ [Faculty Application Documents]({{< relref "/academia/" >}}) (**NOTE**: _These are my personal documents and may not be applicable to everyone_)
 
 ## Questions for the Interviewers
 + How are the undergraduate students like at your university? Do they get involved in research? Are they passionate about graduate school?
