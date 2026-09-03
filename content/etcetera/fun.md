@@ -110,7 +110,7 @@ hideSummary: false
     <li>
         <span>I love comedy shows, such as:</span>
         <ul>
-            <li>! British comedy: <a href="https://en.wikipedia.org/wiki/Taskmaster_(TV_series)" target="_blank">Taskmaster</a>, <a href="https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)" target="_blank">Peep Show</a>, <a href="https://en.wikipedia.org/wiki/The_IT_Crowd" target="_blank">The IT Crowd</a>, <a href="https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)" target="_blank">WILTY</a>, <a href="https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown" target="_blank">Cats Countdown</a>, and many more.</li>
+            <li>British comedy: <a href="https://en.wikipedia.org/wiki/Taskmaster_(TV_series)" target="_blank">Taskmaster</a>, <a href="https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)" target="_blank">Peep Show</a>, <a href="https://en.wikipedia.org/wiki/The_IT_Crowd" target="_blank">The IT Crowd</a>, <a href="https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(game_show)" target="_blank">WILTY</a>, <a href="https://en.wikipedia.org/wiki/8_Out_of_10_Cats_Does_Countdown" target="_blank">Cats Countdown</a>, and many more.</li>
             <li>Sitcoms: Seinfeld, Curb Your Enthusiasm, It's Always Sunny in Philadelphia, Frasier, The Office (both US and UK), and many more.</li>
             <li>Cartoons: South Park, Archer, American Dad.</li>
         </ul>
