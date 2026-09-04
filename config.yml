@@ -62,27 +62,7 @@ params:
     profileMode:
           enabled: true
           title: "<div title='Pronounced \"dah-veed/dah-vid paw-lee-us\"'>Hi, I am David Paulius:</div>"
-          subtitle: "•	A roboticist from the Caribbean (<a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>🇰🇳</a>). 🦾🏝️🌞\
-                    <br>\
-                    •	A postdoc at <a href='https://www.cse.nd.edu/' target='_blank'>Notre Dame</a> (prior: Brown University and TU Munich). 🍀⛪\ 
-                    <br><br><details><br>\
-                    <summary>Short Bio:</summary>\
-                    <p style='text-align: justify; border-width: 3px; border-style: solid; padding: 20px; background: #eeeeee;'>\
-                    David Paulius (he/him) is a computer scientist and roboticist from the twin island federation of <a href='https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis' target='_blank'>Saint Kitts and Nevis</a>. \
-                    He is currently a postdoctoral researcher at the <a href='https://www.cse.nd.edu/' target='_blank'>University of Notre Dame</a>. \
-                    His work aims to enable robots to solve complex \
-                    goal-directed tasks in dynamic human environments by exploiting commonly available \
-                    yet unstructured world knowledge. \
-                    This necessitates the integration of task planning, robot learning, and foundation models for long-term autonomy and generalization across \
-                    robots, task settings, and domains.
-                    Before joining Notre Dame, he completed his postdoctoral appointment at Brown University, where he worked jointly with Professors <a href='https://cs.brown.edu/~gdk/' target='_blank'>George Konidaris</a> and <a href='https://h2r.cs.brown.edu/' target='_blank'>Stefanie Tellex</a>, \
-                    and the Technical University of Munich, Germany with Professor <a href='https://www.tuwien.at/en/etit/ict/asl/team/dongheui-lee' target='_blank'>Dongheui Lee</a>. \
-                    David received his PhD in Computer Science & Engineering from the University \
-                    of South Florida, where he began his journey in robotics and AI under the supervision of Professor <a href='https://www.usf.edu/ai-cybersecurity-computing/people/faculty/sun-yu.aspx' target='_blank'>Yu Sun</a>. \
-                    He received his BSc in Computer Science from the University of the \
-                    Virgin Islands, St. Thomas, USVI. He was recognized as a <a href='https://sites.google.com/view/rsspioneers2022/' target='_blank'>Robotics: Science and \
-                    Systems (RSS) Pioneer</a> in 2022.</p>\
-                    </details><br>"
+          # Subtitle content is in layouts/partials/profile_subtitle.html
           imageUrl: "/imgs/profile_pics/Paulius2026.jpg"
           imageClickable: true
           fullImageCaption: "Taken at <a href='https://maps.app.goo.gl/fBha2A1EARXgJaw49'>Cockleshell Bay, St. Kitts, W.I.</a>."

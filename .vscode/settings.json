@@ -1,0 +1,8 @@
+{
+    // Treat Hugo layout HTML files as a generic template language
+    // so the HTML linter ignores Go template syntax ({{ }}).
+    "files.associations": {
+        "layouts/**/*.html": "go-html-template",
+        "themes/**/*.html": "go-html-template"
+    }
+}

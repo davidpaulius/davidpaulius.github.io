@@ -24,7 +24,7 @@
         </div>
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
-        <span>{{ .subtitle | markdownify }}</span>
+        <span>{{ partial "profile_subtitle.html" . }}</span>
         {{- partial "social_icons.html" -}}
 
         {{- with .buttons }}
