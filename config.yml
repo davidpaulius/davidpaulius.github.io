@@ -70,9 +70,11 @@ params:
           imageHeight: 220
           #imageTitle: "Headshot of David Paulius. David is wearing a dapper black suit with a red tie in front of a 400-year old Saman tree at Romney Manor, St. Kitts."
           buttons:
-            - name: "Latest News"
+            - name: "News"
               url: /news/
-            - name: "Recent Papers"
+            # - name: "Ditto Lab"
+            #   url: /ditto-lab/
+            - name: "Publications"
               url: /papers/
             # - name: "Academia"
             #   url: /academia/

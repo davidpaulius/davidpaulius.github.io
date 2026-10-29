@@ -19,6 +19,7 @@
     --lightgreen: #141814;
     --green: #ccff99;
     --blue: #05cfdd;
+    --code-bg: var(--border);
     --dark-blue: #0b6b88;
     --main-accent: var(--dark-blue);
     --semibold: 500;
@@ -46,6 +47,9 @@
     --2022: #bbbbff;
     --2021: #d988ff;
     --2020: #93f879;
+
+    --box-accent: #ae9142ff;
+    --box-fill: #f8eeb5ee;
 
 }
 
@@ -75,6 +79,9 @@
     --2022: #6f3a88;
     --2021: #d51717;
     --2020: #2ba32b;
+
+    --box-accent: #ae9142ff;
+    --box-fill: var(--entry);
 
 }
 

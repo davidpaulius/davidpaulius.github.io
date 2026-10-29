@@ -125,7 +125,7 @@ disableAnchoredHeadings: false
                 <span class="date" style="background:var(--2026)">2026-08-15</span>
             </td>
             <td>
-                <span>I am honoured to serve as a Associate Editor for the Humanoids 2026 conference.</span>
+                <span>I am honoured to serve as an Associate Editor for the Humanoids 2026 conference.</span>
             </td>
         </tr>
         <tr style="vertical-align:top;">
@@ -165,7 +165,7 @@ disableAnchoredHeadings: false
                 <span class="date" style="background:var(--2026)">2026-03-09</span>
             </td>
             <td>
-                <span> I gave a research talk at the the University of Bristol!</span>
+                <span> I gave a research talk at the University of Bristol!</span>
             </td>
         </tr>
         <tr style="vertical-align:top;">
