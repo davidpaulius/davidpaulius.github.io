@@ -6,7 +6,7 @@ disableAnchoredHeadings: false
 hideMeta: true
 ---
 
-As of January 2027, I am an Assistant Professor in the [Department of Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://nd.edu/). ☘️ 
+As of January 2027, I am an [Assistant Professor](https://engineering.nd.edu/faculty/david-paulius/) in the [Department of Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://nd.edu/). ☘️ 
 
 
 I run the Ditto Lab (_**D**avid's **I**ntelligent **T**eam **T**ackling Aut**O**nomy_). This name takes inspiration from [Daphne Koller](https://web.archive.org/web/20250813110254/http://dags.stanford.edu/)'s and [Stephen Bach](https://cs.brown.edu/people/sbach/index.html#bats)'s group names (and [Pokémon]({{< ref "../etcetera/fun.md" >}}) of course). 
@@ -15,8 +15,10 @@ We are interested in enabling robots to do general-purpose tasks much like we hu
 ***More about me***: [[Research Statement]]({{< ref "../research/index.md" >}}) [[Teaching Philosophy]]({{< ref "../teaching/index.md" >}}) [[Diversity Statement]]({{< ref "../diversity/index.md" >}})  
 
 
-<div style="background-color: #0c2340ee; color: #ffffffff; padding: 15px; border-left: 10px solid #ae9142ff; border-radius: 4px;">
-  <strong>NOTE:</strong> I am recruiting PhD students to work with me at Notre Dame starting Fall 2027! Please mention my name in your <a href="https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/" target="_blank">application</a>.
+<div style="background-color: #0c2340ee; color: #ffffffff; padding: 15px; border-left: 10px solid #ae9142ff; border-radius: 4px; text-align: center;">
+  <strong>NOTE:</strong> I am recruiting PhD students to work with me at Notre Dame in Fall 2027! Please mention my name in your <a href="https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/" target="_blank">application</a>.<br>Application deadline: <b>*Dec 15, <span id="year"></span><script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>*</b>
 </div>
 
 ---
@@ -27,15 +29,15 @@ We are interested in enabling robots to do general-purpose tasks much like we hu
 
 ## Research Interests 🔍
 
-My lab focuses on the use and applications of AI methods for general-purpose robotics. Rather than building robots (like my [colleagues](https://robotics.nd.edu/people/) in other departments), we use commercially available robots as platforms to test and evaluate our methods. 
+My lab focuses on the use and applications of AI methods for general-purpose robotics. Rather than building robots (like my [colleagues](https://robotics.nd.edu/people/) in other departments), we use commercially available robots (robot arms, humanoids, etc.) as platforms to test and evaluate our methods. Robotics is an exciting field as it pertains to embodied AI, as we focus on how artificially intelligent agents can perceive and interact with the physical world.
 
-**Lab Mission:** To develop robots that can reason about their actions and the world around them while leveraging commonsense knowledge from text, images, and other modalities, as well as from prior experiences (now typically captured by [world models](https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)) and [foundation models](https://en.wikipedia.org/wiki/Foundation_model)). Please see my [research statement]({{< ref "../research/index.md" >}}) for a brief overview of my research philosophy and interests. 
+**Lab Mission:** To develop robots that can reason about their actions and the world around them while leveraging commonsense knowledge from text, images, and other modalities, as well as from prior experiences (now typically captured by [world models](https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)) and [foundation models](https://en.wikipedia.org/wiki/Foundation_model)). Please see my [research statement]({{< ref "../research/index.md" >}}) for a brief overview of my research philosophy and long-term goals, and check out my [Google Scholar](https://scholar.google.com/citations?user=aMxXkWkAAAAJ&hl=en) for my papers.
 
 <div style="background-color: var(--code-bg); color: var(--primary); padding: 15px; border-radius: 15px;">
 
-Our research explores the following themes (click each to expand).
+Our research explores the following themes (<i>click each to expand</i>).
 
-<details><summary><em><b>Planning:</b></em> task and motion planning (TAMP), object-level planning, world models, foundation models, agentic AI for robotics.</summary>
+<details><summary style="cursor: pointer;"><em><b>Planning:</b></em> task and motion planning (TAMP), object-level planning, world models, foundation models, agentic AI for robotics.</summary>
 
 <br>
 
@@ -50,7 +52,7 @@ Our research explores the following themes (click each to expand).
 
 </details> 
 <br>
-<details><summary><em><b>Acting:</b></em> robot learning for skills (machine learning, foundation models, vision-language-action (VLA) models), parameterized skills, generalization, (inter)active perception, language grounding.</summary>
+<details><summary style="cursor: pointer;"><em><b>Acting:</b></em> robot learning for skills (machine learning, foundation models, vision-language-action (VLA) models), parameterized skills, generalization, (inter)active perception, language grounding.</summary>
 
 <br>
 
@@ -64,7 +66,7 @@ Our research explores the following themes (click each to expand).
 
 </details> 
 <br>
-<details><summary><em><b>Interfaces and Applications:</b></em> human-robot collaboration (HRC), human-robot interaction (HRI), domestic robots, assistive robotics, human-in-the-loop (HITL), AI for Science, explainable AI (XAI).</summary>
+<details><summary style="cursor: pointer;"><em><b>Interfaces and Applications:</b></em> human-robot collaboration (HRC), human-robot interaction (HRI), domestic robots, assistive robotics, human-in-the-loop (HITL), AI for Science, explainable AI (XAI).</summary>
 
 <br>
 
@@ -90,8 +92,9 @@ If any of these things sound interesting to you, please continue reading to lear
 ## Joining the Lab 🦾
 
 **Prospective PhD Students:** Note the following instructions.
-1. Apply directly to the [Notre Dame PhD program](https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/).  Please mention my name (David Paulius) as a potential advisor in your application.
-2. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests. _Please also mention any papers I may have (co-)authored that you find interesting and any papers you may have written that connect to these ideas_. 
+1. Apply directly to the [Notre Dame PhD program](https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/). Please mention my name (David Paulius) as a potential advisor in your application.
+2. Do note that the application deadline is December 15, and make sure you apply to CSE (Computer Science and Engineering).
+3. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests. _Please also mention any papers I may have (co-)authored that you find interesting and any papers you may have written that connect to these ideas_. 
    - Due to the volume of emails, I may not always be able to respond to every email. 
    - To ensure that you've read this entire page, please include a frog emoji (🐸) somewhere in the subject or body of your email. 
 
