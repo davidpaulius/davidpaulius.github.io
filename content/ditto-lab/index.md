@@ -10,7 +10,7 @@ As of January 2027, I am an [Assistant Professor](https://engineering.nd.edu/fac
 
 
 I run the Ditto Lab (_**D**avid's **I**ntelligent **T**eam **T**ackling Aut**O**nomy_). This name takes inspiration from [Daphne Koller](https://web.archive.org/web/20250813110254/http://dags.stanford.edu/)'s and [Stephen Bach](https://cs.brown.edu/people/sbach/index.html#bats)'s group names (and [Pokémon]({{< ref "../etcetera/fun.md" >}}) of course). 
-We are interested in enabling robots to do general-purpose tasks much like we humans do. <img style='float: right;' src="https://archives.bulbagarden.net/media/upload/c/c6/Spr_2c_Ditto_credits.png" width="30"/>
+We are interested in enabling robots to do general-purpose tasks much like we humans do. <img style='float: right;' src="/imgs/ditto-lab/Spr_2c_Ditto_credits.png" alt="Ditto" title="Ditto" width="30"/>
 
 ***More about me***: [[Research Statement]]({{< ref "../research/index.md" >}}) [[Teaching Philosophy]]({{< ref "../teaching/index.md" >}}) [[Diversity Statement]]({{< ref "../diversity/index.md" >}})  
 
@@ -30,7 +30,7 @@ We are interested in enabling robots to do general-purpose tasks much like we hu
 
 ## Research Interests 🔍
 
-My lab focuses on the use and applications of AI methods for general-purpose robotics. Rather than building robots (like my [colleagues](https://robotics.nd.edu/people/) in other departments), we use commercially available robots (robot arms, humanoids, etc.) as platforms to test and evaluate our methods. Robotics is an exciting field as it pertains to embodied AI, as we focus on how artificially intelligent agents can perceive and interact with the physical world.
+My lab focuses on the use and applications of AI methods for general-purpose robotics. Rather than building robots (like my [colleagues](https://robotics.nd.edu/people/) in other departments), we use commercially available robots (robot arms, humanoids, etc.) as platforms to test and evaluate our methods. Robotics is an exciting field for realizing _embodied AI_, as we focus on how artificially intelligent agents can perceive and interact with the physical world.
 
 **Lab Mission:** To develop robots that can reason about their actions and the world around them while leveraging commonsense knowledge from text, images, and other modalities, as well as from prior experiences (now typically captured by [world models](https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)) and [foundation models](https://en.wikipedia.org/wiki/Foundation_model)). Please see my [research statement]({{< ref "../research/index.md" >}}) for a brief overview of my research philosophy and long-term goals, and check out my [Google Scholar](https://scholar.google.com/citations?user=aMxXkWkAAAAJ&hl=en) for my papers.
 
