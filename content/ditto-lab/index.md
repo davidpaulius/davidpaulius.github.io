@@ -23,7 +23,8 @@ We are interested in enabling robots to do general-purpose tasks much like we hu
 
 ---
 
-![Picture of the Golden Dome at Notre Dame](/imgs/ditto-lab/nd_dome.jpg)
+![Picture of Robotics@ND in front of the Golden Dome at Notre Dame](/imgs/ditto-lab/robotics_nd.jpg)
+<p style="text-align: center;"><i>Pictured above: Group Photo of <a href="https://robotics.nd.edu/people/" target="_blank">Robotics@ND</a> faculty and students (some professors missing, taken in Fall 2026)</i></p>
 
 ---
 
