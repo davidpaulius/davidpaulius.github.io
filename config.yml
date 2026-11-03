@@ -61,7 +61,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: "<div title='Pronounced \"dah-veed/dah-vid paw-lee-us\"'>Hi, I am David Paulius:</div>"
+          title: "<div title='Pronounced \"dah-veed/dah-vid paw-lee-us rah-mohs\"'>Hi, I am David Paulius Ramos:</div>"
           # Subtitle content is in layouts/partials/profile_subtitle.html
           imageUrl: "/imgs/profile_pics/Paulius2026.jpg"
           imageClickable: true

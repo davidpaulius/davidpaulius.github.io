@@ -46,8 +46,9 @@ Our research explores the following themes (<i>click each to expand</i>).
 
 - How do we _formulate_ an instance of a planning problem often in the context of _hierarchical planning_—for instance, from [object-level to task- and motion-level planning]({{< ref "../papers/CoRL-WS-22.md" >}})?
 - What _abstractions_ are useful when formulating such problems?
-- What are essential components of a _world model_?
+- What are essential components of a _world model_? How can we leverage image-based world models for imagining the consequences of actions or future states?
 - How can we _bridge_ symbolic and latent structures?
+- How can we make TAMP more _accessible_ (i.e., easy to use, reliable, and portable)?
 
 </div>
 
@@ -59,9 +60,13 @@ Our research explores the following themes (<i>click each to expand</i>).
 
 <div style="background-color: var(--box-fill); padding: 10px; padding-left: 0px; padding-right: 40px; border-left: 10px solid var(--box-accent); border-radius: 4px;">
 
+Some core questions to think about:
 - Given a plan (whether detailed or abstract), how does a robot execute and solve it with its skills?
 - How can the robot _adapt_ when things go wrong (if skills fail, objects are missing, or the environment changes)?
-- Where do robot skills come from? Are they agent-designed, learned, or pre-programmed action primitives?
+- Where do robot skills come from? Are they _agent-designed_, _learned from demonstration and captured by machine learning models_, or _pre-programmed action primitives_?
+- How can we specify or identify the characteristics of skills from the context of [_Markov decision processes_](https://en.wikipedia.org/wiki/Markov_decision_process) (MDPs) or higher-level [options](https://www.sciencedirect.com/science/article/pii/S0004370299000521)? For example, what are the initiation set (_preconditions_) and termination conditions (_effects/post-conditions_) of a skill?
+- How can we use _existing_ policies or skills to learn more complex behaviours never seen before? How can we use knowledge from foundation models as a curriculum or scaffolding to do this?
+- How can we leverage off-the-shelf models for _interactive perception_?
 
 </div>
 
@@ -96,8 +101,7 @@ If any of these things sound interesting to you, please continue reading to lear
 1. Apply directly to the [Notre Dame PhD program](https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/). Please mention my name (David Paulius) as a potential advisor in your application.
 2. Do note that the application deadline is December 15, and make sure you apply to CSE (Computer Science and Engineering).
 3. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests. _Please also mention any papers I may have (co-)authored that you find interesting and any papers you may have written that connect to these ideas_. 
-   - Due to the volume of emails, I may not always be able to respond to every email. 
-   - To ensure that you've read this entire page, please include a frog emoji (🐸) somewhere in the subject or body of your email. 
+   - To signal that you've read this entire page and that you are serious about working with me, please include a frog emoji (🐸) in your email. 
 
 **Prospective Postdoctoral Researchers:**
 I currently do not have funding for postdocs. _HOWEVER_, Notre Dame offers fellowships that you may be eligible for, such as the [Provost's Postdoctoral Fellowship in Engineering](https://postdoc.nd.edu/fellowships/president-postdoctoral-fellowship/). If you apply for this fellowship, please contact me, as you must identify me as a primary mentor. I will do my best to help you with your application! 🫡
