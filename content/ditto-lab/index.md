@@ -60,7 +60,6 @@ Our research explores the following themes (<i>click each to expand</i>).
 
 <div style="background-color: var(--box-fill); padding: 10px; padding-left: 0px; padding-right: 40px; border-left: 10px solid var(--box-accent); border-radius: 4px;">
 
-Some core questions to think about:
 - Given a plan (whether detailed or abstract), how does a robot execute and solve it with its skills?
 - How can the robot _adapt_ when things go wrong (if skills fail, objects are missing, or the environment changes)?
 - Where do robot skills come from? Are they _agent-designed_, _learned from demonstration and captured by machine learning models_, or _pre-programmed action primitives_?
