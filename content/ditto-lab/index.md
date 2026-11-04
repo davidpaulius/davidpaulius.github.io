@@ -103,7 +103,7 @@ If any of these things sound interesting to you, please continue reading to lear
    - To signal that you've read this entire page and that you are serious about working with me, please include a frog emoji (🐸) in your email. 
 
 **Prospective Postdoctoral Researchers:**
-I currently do not have funding for postdocs. _HOWEVER_, Notre Dame offers fellowships that you may be eligible for, such as the [Provost's Postdoctoral Fellowship in Engineering](https://postdoc.nd.edu/fellowships/president-postdoctoral-fellowship/). If you apply for this fellowship, please contact me, as you must identify me as a primary mentor. I will do my best to help you with your application! 🫡
+I currently do not have funding for postdocs. _HOWEVER_, Notre Dame offers fellowships that you may be eligible for, such as the [Provost's Postdoctoral Fellowship in Engineering](https://engineering.nd.edu/provosts-postdoctoral-fellowships-in-engineering-program/). If you apply for this fellowship, please contact me, as you must identify me as a primary mentor. I will do my best to help you with your application! 🫡
 
 **BSc/MS Students at Notre Dame:**
 I highly recommend first taking one of my courses if you want to learn about my research interests! Feel free to reach out via email with your CV and a short note about which part of our work interests you.

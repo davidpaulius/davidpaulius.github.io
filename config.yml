@@ -17,18 +17,18 @@ menu:
         - name: "CV"
           url: "https://drive.google.com/file/d/18anG-rgWd6nU4ajJYlvwcPFUxxXIDz2b/view"
           weight: 1
-        - name: Resume
-          url: "https://drive.google.com/file/d/1tabAmFvz4KC_yAgRbN2dha_btvL4NsEg/view"
-          weight: 2
+        # - name: Resume
+        #   url: "https://drive.google.com/file/d/1tabAmFvz4KC_yAgRbN2dha_btvL4NsEg/view"
+        #   weight: 2
         - name: News
           url: /news/
+          weight: 2
+        - name: Research
+          url: /ditto-lab/
           weight: 3
         - name: Papers
           url: /papers/
           weight: 4
-        # - name: Academia
-        #   url: /academia/
-        #   weight: 5
         - name: Blog
           url: /blog/
           weight: 5

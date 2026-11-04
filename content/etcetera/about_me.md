@@ -30,7 +30,7 @@ I was born in Venezuela and grew up in <a href="https://www.google.com/maps?ll=1
 
 I completed my primary and secondary school education in St. Kitts. I attended the St. Theresa's Convent High School (locally called the "Convent School"), a private school affiliated with the Immaculate Conception Catholic Church. Since graduating, it has been renamed to the Immaculate Conception Catholic School (or ICCS). I took a wide array of CSEC subjects (equivalent to the British GSCE O-levels).
 
-After high school, I attended our local community college, the Clarence Fitzroy Bryant College (CFBC), where I obtained my Associate's Degree in General Studies by completing a mix of courses (equivalent to British GCSE A-levels): Pure Mathematics, Computer Science, Communication Studies, Caribbean Studies, and Spanish.
+After high school, I attended our local community college, the [Clarence Fitzroy Bryant College](https://www.gov.kn/in-skn-clarence-fitzroy-bryant-college/) (CFBC), where I obtained my Associate's Degree in General Studies by completing a mix of courses (equivalent to British GCSE A-levels): Pure Mathematics, Computer Science, Communication Studies, Caribbean Studies, and Spanish.
 
 After CFBC, I attended the University of the Virgin Islands (UVI) in St. Thomas (U.S. Virgin Islands), where I obtained my bachelor degree in Computer Science and graduated in 2014. From there, I attended the University of South Florida (USF) in Tampa, Florida, USA, to obtain my doctorate in Computer Science & Engineering and graduated in 2020.
 
@@ -50,7 +50,7 @@ After completing my undergraduate studies, I dove into the world of robotics and
 
 ## Where is David?
 
-My first home will always be St. Kitts and Nevis, but my second home is now <a href="https://www.nd.edu/" target="_blank">Notre Dame, Indiana</a>! x
+My first home will always be St. Kitts and Nevis. My second home is now in South Bend, Indiana, after moving out of Providence, Rhode Island.
 
 ---
 
