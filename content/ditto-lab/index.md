@@ -99,7 +99,7 @@ If any of these things sound interesting to you, please continue reading to lear
 **Prospective PhD Students:** Note the following instructions.
 1. Apply directly to the [Notre Dame PhD program](https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/). Please mention my name (David Paulius) as a potential advisor in your application.
 2. Do note that the application deadline is December 15, and make sure you apply to CSE (Computer Science and Engineering).
-3. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests, particularly any from above that you also have some background in. I would greatly appreciate you mentioning to what extent you have worked on similar problems before.
+3. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests. I would greatly appreciate you mentioning any from above that you have worked on before, I'd love to learn more about you!
    - If you've worked on robots and/or simulators before, please do let me know which ones!
    - To signal that you've read this entire page and that you are serious about working with me, please include a frog emoji (🐸) in the subject line of your email to pass my email filter.
 
