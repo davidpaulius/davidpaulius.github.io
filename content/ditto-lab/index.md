@@ -24,7 +24,7 @@ We are interested in enabling robots to do general-purpose tasks much like we hu
 ---
 
 ![Picture of Robotics@ND in front of the Golden Dome at Notre Dame](/imgs/ditto-lab/robotics_nd.jpg)
-<p style="text-align: center;"><i>Pictured above: Group Photo of <a href="https://robotics.nd.edu/people/" target="_blank">Robotics@ND</a> faculty and students (some professors missing, taken in Fall 2026)</i></p>
+<p style="text-align: center;"><i>Pictured above: Group Photo of <a href="https://robotics.nd.edu/people/" target="_blank">Robotics@ND</a> faculty and students (should be large but folks were missing 🙂; taken in Fall 2026)</i></p>
 
 ---
 
@@ -99,14 +99,15 @@ If any of these things sound interesting to you, please continue reading to lear
 **Prospective PhD Students:** Note the following instructions.
 1. Apply directly to the [Notre Dame PhD program](https://cse.nd.edu/graduate/phd-in-computer-science-and-engineering/). Please mention my name (David Paulius) as a potential advisor in your application.
 2. Do note that the application deadline is December 15, and make sure you apply to CSE (Computer Science and Engineering).
-3. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests. _Please also mention any papers I may have (co-)authored that you find interesting and any papers you may have written that connect to these ideas_. 
-   - To signal that you've read this entire page and that you are serious about working with me, please include a frog emoji (🐸) in your email. 
+3. _Optionally, only after submitting your application_, you may email me a CV and a brief description of your research interests, particularly any from above that you also have some background in. I would greatly appreciate you mentioning to what extent you have worked on similar problems before.
+   - If you've worked on robots and/or simulators before, please do let me know which ones!
+   - To signal that you've read this entire page and that you are serious about working with me, please include a frog emoji (🐸) in the subject line of your email to pass my email filter.
 
 **Prospective Postdoctoral Researchers:**
 I currently do not have funding for postdocs. _HOWEVER_, Notre Dame offers fellowships that you may be eligible for, such as the [Provost's Postdoctoral Fellowship in Engineering](https://engineering.nd.edu/provosts-postdoctoral-fellowships-in-engineering-program/). If you apply for this fellowship, please contact me, as you must identify me as a primary mentor. I will do my best to help you with your application! 🫡
 
 **BSc/MS Students at Notre Dame:**
-I highly recommend first taking one of my courses if you want to learn about my research interests! Feel free to reach out via email with your CV and a short note about which part of our work interests you.
+I highly recommend first taking one of my courses if you want to learn about my research interests! Feel free to reach out via email with your CV and a short note about which aspects of our lab's work interest you.
 
 **BSc/MS Students outside of Notre Dame:**
 Opportunities such as [E-SURE](https://academicweb.nd.edu/~skumar5/resources/Summer-Reu-Page/SummerEngineeringREU.html?utm_campaign=redirect&utm_medium=web&utm_source=www3.nd.edu) and [i-SURE](https://ndi-sa.nd.edu/_portal/tds-program-brochure?programid=10096) may be available to you! Read more [here](https://engineering.nd.edu/student-experience/undergraduate-student-experience/research-experiences-for-undergraduates/).
